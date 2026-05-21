@@ -1,0 +1,9 @@
+__pycache__/
+virtual/
+.DS_Store
+
+# Ignore python source
+*.py
+
+# Ignore logs/text
+*.txt
