@@ -5,8 +5,8 @@
     "author": "Jane Austen",
     "category": "Fiction",
     "description": "A witty tale of love, class, and marriage in Georgian England.",
-    "cover": "https://www.gutenberg.org/cache/epub/1342/pg1342.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/1342.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1342.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1342.html",
     "reading_time_minutes": 399
   },
   {
@@ -15,8 +15,8 @@
     "author": "Mary Shelley",
     "category": "Fiction",
     "description": "A scientist creates life and must face the terrifying consequences.",
-    "cover": "https://www.gutenberg.org/cache/epub/84/pg84.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/84.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/84.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/84.html",
     "reading_time_minutes": 213
   },
   {
@@ -25,8 +25,8 @@
     "author": "Charles Dickens",
     "category": "Fiction",
     "description": "Young Pip's journey from poverty to wealth in Victorian England.",
-    "cover": "https://www.gutenberg.org/cache/epub/1400/pg1400.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/1400.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1400.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1400.html",
     "reading_time_minutes": 552
   },
   {
@@ -35,8 +35,8 @@
     "author": "Lewis Carroll",
     "category": "Fiction",
     "description": "A girl falls into a fantastical world of strange creatures and logic.",
-    "cover": "https://www.gutenberg.org/cache/epub/11/pg11.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/11.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/11.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/11.html",
     "reading_time_minutes": 87
   },
   {
@@ -45,8 +45,8 @@
     "author": "Oscar Wilde",
     "category": "Fiction",
     "description": "A beautiful young man sells his soul to remain forever young.",
-    "cover": "https://www.gutenberg.org/cache/epub/174/pg174.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/174.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/174.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/174.html",
     "reading_time_minutes": 235
   },
   {
@@ -55,8 +55,8 @@
     "author": "George Eliot",
     "category": "Fiction",
     "description": "A sweeping portrait of life in a Midlands town in the 1830s.",
-    "cover": "https://www.gutenberg.org/cache/epub/145/pg145.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/145.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/145.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/145.html",
     "reading_time_minutes": 937
   },
   {
@@ -65,8 +65,8 @@
     "author": "Charlotte Brontë",
     "category": "Fiction",
     "description": "An orphan governess finds love and independence against all odds.",
-    "cover": "https://www.gutenberg.org/cache/epub/1260/pg1260.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/1260.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1260.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1260.html",
     "reading_time_minutes": 546
   },
   {
@@ -75,8 +75,8 @@
     "author": "Emily Brontë",
     "category": "Fiction",
     "description": "A tempestuous love story set on the wild Yorkshire moors.",
-    "cover": "https://www.gutenberg.org/cache/epub/768/pg768.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/768.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/768.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/768.html",
     "reading_time_minutes": 349
   },
   {
@@ -85,8 +85,8 @@
     "author": "Charles Dickens",
     "category": "Fiction",
     "description": "A story of love and sacrifice during the French Revolution.",
-    "cover": "https://www.gutenberg.org/cache/epub/98/pg98.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/98.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/98.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/98.html",
     "reading_time_minutes": 460
   },
   {
@@ -95,8 +95,8 @@
     "author": "Mark Twain",
     "category": "Fiction",
     "description": "The mischievous adventures of a young boy in the American South.",
-    "cover": "https://www.gutenberg.org/cache/epub/74/pg74.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/74.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/74.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/74.html",
     "reading_time_minutes": 260
   },
   {
@@ -105,8 +105,8 @@
     "author": "Miguel de Cervantes",
     "category": "Fiction",
     "description": "A man driven mad by chivalric romances sets out as a knight.",
-    "cover": "https://www.gutenberg.org/cache/epub/996/pg996.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/996.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/996.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/996.html",
     "reading_time_minutes": 1246
   },
   {
@@ -115,8 +115,8 @@
     "author": "Leo Tolstoy",
     "category": "Fiction",
     "description": "A passionate love affair tears apart Russian aristocratic society.",
-    "cover": "https://www.gutenberg.org/cache/epub/1399/pg1399.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/1399.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1399.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1399.html",
     "reading_time_minutes": 1084
   },
   {
@@ -125,8 +125,8 @@
     "author": "Fyodor Dostoevsky",
     "category": "Fiction",
     "description": "A student commits murder and is consumed by guilt and paranoia.",
-    "cover": "https://www.gutenberg.org/cache/epub/2554/pg2554.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/2554.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2554.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2554.html",
     "reading_time_minutes": 680
   },
   {
@@ -135,8 +135,8 @@
     "author": "Fyodor Dostoevsky",
     "category": "Fiction",
     "description": "Three brothers and a murder in a profound exploration of morality.",
-    "cover": "https://www.gutenberg.org/cache/epub/28054/pg28054.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/28054.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/28054.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/28054.html",
     "reading_time_minutes": 1049
   },
   {
@@ -145,8 +145,8 @@
     "author": "James Joyce",
     "category": "Fiction",
     "description": "A single day in Dublin told through stream of consciousness.",
-    "cover": "https://www.gutenberg.org/cache/epub/4300/pg4300.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/4300.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/4300.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/4300.html",
     "reading_time_minutes": 800
   },
   {
@@ -155,8 +155,8 @@
     "author": "Nathaniel Hawthorne",
     "category": "Fiction",
     "description": "A woman bears the shame of adultery in Puritan New England.",
-    "cover": "https://www.gutenberg.org/cache/epub/33/pg33.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/33.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/33.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/33.html",
     "reading_time_minutes": 252
   },
   {
@@ -165,8 +165,8 @@
     "author": "Jane Austen",
     "category": "Fiction",
     "description": "Two sisters navigate love and heartbreak in Regency England.",
-    "cover": "https://www.gutenberg.org/cache/epub/161/pg161.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/161.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/161.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/161.html",
     "reading_time_minutes": 361
   },
   {
@@ -175,8 +175,8 @@
     "author": "Jane Austen",
     "category": "Fiction",
     "description": "A well-meaning matchmaker learns lessons about love and herself.",
-    "cover": "https://www.gutenberg.org/cache/epub/158/pg158.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/158.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/158.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/158.html",
     "reading_time_minutes": 470
   },
   {
@@ -185,8 +185,8 @@
     "author": "Jane Austen",
     "category": "Fiction",
     "description": "Anne Elliot gets a second chance at a love she once abandoned.",
-    "cover": "https://www.gutenberg.org/cache/epub/105/pg105.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/105.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/105.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/105.html",
     "reading_time_minutes": 243
   },
   {
@@ -195,8 +195,8 @@
     "author": "Jane Austen",
     "category": "Fiction",
     "description": "A young woman's Gothic imagination runs wild in Bath society.",
-    "cover": "https://www.gutenberg.org/cache/epub/121/pg121.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/121.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/121.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/121.html",
     "reading_time_minutes": 231
   },
   {
@@ -205,8 +205,8 @@
     "author": "Charles Dickens",
     "category": "Fiction",
     "description": "The life and adventures of a young Victorian gentleman.",
-    "cover": "https://www.gutenberg.org/cache/epub/766/pg766.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/766.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/766.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/766.html",
     "reading_time_minutes": 1064
   },
   {
@@ -215,8 +215,8 @@
     "author": "Charles Dickens",
     "category": "Fiction",
     "description": "An orphan boy navigates London's criminal underworld.",
-    "cover": "https://www.gutenberg.org/cache/epub/730/pg730.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/730.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/730.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/730.html",
     "reading_time_minutes": 498
   },
   {
@@ -225,8 +225,8 @@
     "author": "Charles Dickens",
     "category": "Fiction",
     "description": "A critique of utilitarian industrialism in Victorian England.",
-    "cover": "https://www.gutenberg.org/cache/epub/786/pg786.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/786.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/786.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/786.html",
     "reading_time_minutes": 333
   },
   {
@@ -235,8 +235,8 @@
     "author": "Thomas Hardy",
     "category": "Fiction",
     "description": "A pure woman destroyed by the hypocrisies of Victorian society.",
-    "cover": "https://www.gutenberg.org/cache/epub/110/pg110.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/110.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/110.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/110.html",
     "reading_time_minutes": 466
   },
   {
@@ -245,8 +245,8 @@
     "author": "Thomas Hardy",
     "category": "Fiction",
     "description": "An independent woman navigates three very different suitors.",
-    "cover": "https://www.gutenberg.org/cache/epub/107/pg107.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/107.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/107.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/107.html",
     "reading_time_minutes": 439
   },
   {
@@ -255,8 +255,8 @@
     "author": "Thomas Hardy",
     "category": "Fiction",
     "description": "Passionate characters clash against the brooding Egdon Heath.",
-    "cover": "https://www.gutenberg.org/cache/epub/122/pg122.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/122.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/122.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/122.html",
     "reading_time_minutes": 441
   },
   {
@@ -265,8 +265,8 @@
     "author": "George Eliot",
     "category": "Fiction",
     "description": "A weaver's miserly life is transformed by an abandoned child.",
-    "cover": "https://www.gutenberg.org/cache/epub/550/pg550.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/550.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/550.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/550.html",
     "reading_time_minutes": 209
   },
   {
@@ -275,8 +275,8 @@
     "author": "Gustave Flaubert",
     "category": "Fiction",
     "description": "A doctor's wife seeks escape from provincial life through romance.",
-    "cover": "https://www.gutenberg.org/cache/epub/2413/pg2413.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/2413.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2413.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2413.html",
     "reading_time_minutes": 398
   },
   {
@@ -285,8 +285,8 @@
     "author": "Victor Hugo",
     "category": "Fiction",
     "description": "An ex-convict seeks redemption in post-revolutionary France.",
-    "cover": "https://www.gutenberg.org/cache/epub/135/pg135.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/135.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/135.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/135.html",
     "reading_time_minutes": 1779
   },
   {
@@ -295,8 +295,8 @@
     "author": "Victor Hugo",
     "category": "Fiction",
     "description": "A deformed bell-ringer loves a beautiful gypsy dancer in Paris.",
-    "cover": "https://www.gutenberg.org/cache/epub/2610/pg2610.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/2610.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2610.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2610.html",
     "reading_time_minutes": 581
   },
   {
@@ -305,8 +305,8 @@
     "author": "Leo Tolstoy",
     "category": "Fiction",
     "description": "Napoleon's invasion of Russia through the lives of five families.",
-    "cover": "https://www.gutenberg.org/cache/epub/2600/pg2600.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/2600.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2600.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2600.html",
     "reading_time_minutes": 1970
   },
   {
@@ -315,8 +315,8 @@
     "author": "Fyodor Dostoevsky",
     "category": "Fiction",
     "description": "A truly good man struggles to survive in a corrupt society.",
-    "cover": "https://www.gutenberg.org/cache/epub/2638/pg2638.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/2638.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2638.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2638.html",
     "reading_time_minutes": 749
   },
   {
@@ -325,8 +325,8 @@
     "author": "Fyodor Dostoevsky",
     "category": "Fiction",
     "description": "A bitter recluse rails against society in his underground monologue.",
-    "cover": "https://www.gutenberg.org/cache/epub/600/pg600.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/600.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/600.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/600.html",
     "reading_time_minutes": 128
   },
   {
@@ -335,8 +335,8 @@
     "author": "Franz Kafka",
     "category": "Fiction",
     "description": "A man wakes up transformed into a giant insect.",
-    "cover": "https://www.gutenberg.org/cache/epub/5200/pg5200.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/5200.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/5200.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/5200.html",
     "reading_time_minutes": 61
   },
   {
@@ -345,8 +345,8 @@
     "author": "Franz Kafka",
     "category": "Fiction",
     "description": "A man is prosecuted by a remote authority for an unspecified crime.",
-    "cover": "https://www.gutenberg.org/cache/epub/7849/pg7849.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/7849.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/7849.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/7849.html",
     "reading_time_minutes": 225
   },
   {
@@ -355,8 +355,8 @@
     "author": "Voltaire",
     "category": "Fiction",
     "description": "A young optimist travels the world encountering endless misfortune.",
-    "cover": "https://www.gutenberg.org/cache/epub/19942/pg19942.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/19942.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/19942.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/19942.html",
     "reading_time_minutes": 117
   },
   {
@@ -365,8 +365,8 @@
     "author": "Daniel Defoe",
     "category": "Fiction",
     "description": "A castaway survives alone on an island for twenty-eight years.",
-    "cover": "https://www.gutenberg.org/cache/epub/521/pg521.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/521.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/521.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/521.html",
     "reading_time_minutes": 317
   },
   {
@@ -375,8 +375,8 @@
     "author": "Jonathan Swift",
     "category": "Fiction",
     "description": "A surgeon travels to fantastical lands in this sharp social satire.",
-    "cover": "https://www.gutenberg.org/cache/epub/829/pg829.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/829.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/829.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/829.html",
     "reading_time_minutes": 215
   },
   {
@@ -385,8 +385,8 @@
     "author": "Alexandre Dumas",
     "category": "Fiction",
     "description": "A wrongly imprisoned man plans an elaborate revenge.",
-    "cover": "https://www.gutenberg.org/cache/epub/1184/pg1184.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/1184.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1184.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1184.html",
     "reading_time_minutes": 1521
   },
   {
@@ -395,8 +395,8 @@
     "author": "Jules Verne",
     "category": "Fiction",
     "description": "An eccentric Englishman bets he can circle the globe in 80 days.",
-    "cover": "https://www.gutenberg.org/cache/epub/103/pg103.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/103.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/103.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/103.html",
     "reading_time_minutes": 205
   },
   {
@@ -405,8 +405,8 @@
     "author": "H.G. Wells",
     "category": "Fiction",
     "description": "A scientist travels to the far future and discovers humanity's fate.",
-    "cover": "https://www.gutenberg.org/cache/epub/35/pg35.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/35.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/35.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/35.html",
     "reading_time_minutes": 95
   },
   {
@@ -415,8 +415,8 @@
     "author": "H.G. Wells",
     "category": "Fiction",
     "description": "Martians invade England in this gripping science fiction classic.",
-    "cover": "https://www.gutenberg.org/cache/epub/36/pg36.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/36.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/36.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/36.html",
     "reading_time_minutes": 175
   },
   {
@@ -425,8 +425,8 @@
     "author": "Henry Fielding",
     "category": "Fiction",
     "description": "The comic adventures of a good-natured foundling in 18th-century England.",
-    "cover": "https://www.gutenberg.org/cache/epub/6593/pg6593.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/6593.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/6593.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/6593.html",
     "reading_time_minutes": 1140
   },
   {
@@ -435,8 +435,8 @@
     "author": "Stendhal",
     "category": "Fiction",
     "description": "An ambitious young man uses love as a means to social advancement.",
-    "cover": "https://www.gutenberg.org/cache/epub/44747/pg44747.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/44747.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/44747.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/44747.html",
     "reading_time_minutes": 570
   },
   {
@@ -445,8 +445,8 @@
     "author": "Alexandre Dumas",
     "category": "Fiction",
     "description": "The Three Musketeers reunite twenty years after their first adventures.",
-    "cover": "https://www.gutenberg.org/cache/epub/1259/pg1259.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/1259.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1259.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1259.html",
     "reading_time_minutes": 813
   },
   {
@@ -455,8 +455,8 @@
     "author": "Nikolai Gogol",
     "category": "Fiction",
     "description": "A man travels Russia buying the names of dead serfs in a bizarre scheme.",
-    "cover": "https://www.gutenberg.org/cache/epub/1081/pg1081.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/1081.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1081.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1081.html",
     "reading_time_minutes": 481
   },
   {
@@ -465,8 +465,8 @@
     "author": "Ivan Turgenev",
     "category": "Fiction",
     "description": "A nihilist son clashes with his father's old-fashioned values.",
-    "cover": "https://www.gutenberg.org/cache/epub/30723/pg30723.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/30723.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/30723.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/30723.html",
     "reading_time_minutes": 225
   },
   {
@@ -475,8 +475,8 @@
     "author": "George Eliot",
     "category": "Fiction",
     "description": "A young woman struggles against the confines of Victorian society.",
-    "cover": "https://www.gutenberg.org/cache/epub/6688/pg6688.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/6688.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/6688.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/6688.html",
     "reading_time_minutes": 626
   },
   {
@@ -485,8 +485,8 @@
     "author": "George Eliot",
     "category": "Fiction",
     "description": "A Florentine woman navigates betrayal and political upheaval.",
-    "cover": "https://www.gutenberg.org/cache/epub/3532/pg3532.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/3532.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/3532.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/3532.html",
     "reading_time_minutes": 136
   },
   {
@@ -495,8 +495,8 @@
     "author": "Edith Wharton",
     "category": "Fiction",
     "description": "A tragic love triangle in a bleak New England winter landscape.",
-    "cover": "https://www.gutenberg.org/cache/epub/4517/pg4517.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/4517.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/4517.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/4517.html",
     "reading_time_minutes": 115
   },
   {
@@ -505,8 +505,8 @@
     "author": "Robert Louis Stevenson",
     "category": "Adventure",
     "description": "A young boy joins a voyage to find buried pirate treasure.",
-    "cover": "https://www.gutenberg.org/cache/epub/120/pg120.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/120.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/120.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/120.html",
     "reading_time_minutes": 211
   },
   {
@@ -515,8 +515,8 @@
     "author": "Mark Twain",
     "category": "Adventure",
     "description": "Huck and Jim raft down the Mississippi River seeking freedom.",
-    "cover": "https://www.gutenberg.org/cache/epub/76/pg76.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/76.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/76.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/76.html",
     "reading_time_minutes": 332
   },
   {
@@ -525,8 +525,8 @@
     "author": "Herman Melville",
     "category": "Adventure",
     "description": "Captain Ahab's obsessive hunt for the white whale.",
-    "cover": "https://www.gutenberg.org/cache/epub/2701/pg2701.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/2701.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2701.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2701.html",
     "reading_time_minutes": 708
   },
   {
@@ -535,8 +535,8 @@
     "author": "Jack London",
     "category": "Adventure",
     "description": "A domesticated dog returns to his primal instincts in the Yukon.",
-    "cover": "https://www.gutenberg.org/cache/epub/215/pg215.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/215.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/215.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/215.html",
     "reading_time_minutes": 91
   },
   {
@@ -545,8 +545,8 @@
     "author": "Jack London",
     "category": "Adventure",
     "description": "A wild wolf-dog learns to live among men in the Yukon.",
-    "cover": "https://www.gutenberg.org/cache/epub/910/pg910.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/910.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/910.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/910.html",
     "reading_time_minutes": 210
   },
   {
@@ -555,8 +555,8 @@
     "author": "Jack London",
     "category": "Adventure",
     "description": "A shipwrecked man is rescued by a brutal sea captain.",
-    "cover": "https://www.gutenberg.org/cache/epub/1074/pg1074.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/1074.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1074.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1074.html",
     "reading_time_minutes": 317
   },
   {
@@ -565,8 +565,8 @@
     "author": "Jules Verne",
     "category": "Adventure",
     "description": "Explorers are captured by the mysterious Captain Nemo.",
-    "cover": "https://www.gutenberg.org/cache/epub/164/pg164.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/164.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/164.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/164.html",
     "reading_time_minutes": 326
   },
   {
@@ -575,8 +575,8 @@
     "author": "Jules Verne",
     "category": "Adventure",
     "description": "A professor leads an expedition deep into the Earth's interior.",
-    "cover": "https://www.gutenberg.org/cache/epub/3748/pg3748.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/3748.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/3748.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/3748.html",
     "reading_time_minutes": 209
   },
   {
@@ -585,8 +585,8 @@
     "author": "Jules Verne",
     "category": "Adventure",
     "description": "Castaways survive on a remote island using science and ingenuity.",
-    "cover": "https://www.gutenberg.org/cache/epub/1268/pg1268.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/1268.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1268.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1268.html",
     "reading_time_minutes": 680
   },
   {
@@ -595,8 +595,8 @@
     "author": "H. Rider Haggard",
     "category": "Adventure",
     "description": "Explorers seek a legendary treasure in the heart of Africa.",
-    "cover": "https://www.gutenberg.org/cache/epub/2166/pg2166.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/2166.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2166.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2166.html",
     "reading_time_minutes": 243
   },
   {
@@ -605,8 +605,8 @@
     "author": "H. Rider Haggard",
     "category": "Adventure",
     "description": "Explorers discover an immortal queen ruling a lost African civilization.",
-    "cover": "https://www.gutenberg.org/cache/epub/3155/pg3155.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/3155.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/3155.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/3155.html",
     "reading_time_minutes": 330
   },
   {
@@ -615,8 +615,8 @@
     "author": "Edgar Rice Burroughs",
     "category": "Adventure",
     "description": "A nobleman's son is raised by apes in the African jungle.",
-    "cover": "https://www.gutenberg.org/cache/epub/78/pg78.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/78.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/78.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/78.html",
     "reading_time_minutes": 265
   },
   {
@@ -625,8 +625,8 @@
     "author": "Edgar Rice Burroughs",
     "category": "Adventure",
     "description": "Tarzan navigates European society before returning to the jungle.",
-    "cover": "https://www.gutenberg.org/cache/epub/81/pg81.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/81.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/81.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/81.html",
     "reading_time_minutes": 267
   },
   {
@@ -635,8 +635,8 @@
     "author": "Alexandre Dumas",
     "category": "Adventure",
     "description": "The Three Musketeers uncover a royal conspiracy involving a prisoner.",
-    "cover": "https://www.gutenberg.org/cache/epub/2759/pg2759.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/2759.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2759.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2759.html",
     "reading_time_minutes": 572
   },
   {
@@ -645,8 +645,8 @@
     "author": "Alexandre Dumas",
     "category": "Adventure",
     "description": "All for one and one for all — the adventures of Athos, Porthos, and Aramis.",
-    "cover": "https://www.gutenberg.org/cache/epub/1257/pg1257.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/1257.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1257.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1257.html",
     "reading_time_minutes": 750
   },
   {
@@ -655,8 +655,8 @@
     "author": "Baroness Orczy",
     "category": "Adventure",
     "description": "A mysterious English hero rescues aristocrats from the guillotine.",
-    "cover": "https://www.gutenberg.org/cache/epub/60/pg60.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/60.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/60.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/60.html",
     "reading_time_minutes": 270
   },
   {
@@ -665,8 +665,8 @@
     "author": "Robert Louis Stevenson",
     "category": "Adventure",
     "description": "A young Scottish boy is kidnapped and must find his way home.",
-    "cover": "https://www.gutenberg.org/cache/epub/421/pg421.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/421.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/421.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/421.html",
     "reading_time_minutes": 239
   },
   {
@@ -675,8 +675,8 @@
     "author": "Robert Louis Stevenson",
     "category": "Adventure",
     "description": "A tale of romance and treachery during the Wars of the Roses.",
-    "cover": "https://www.gutenberg.org/cache/epub/848/pg848.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/848.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/848.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/848.html",
     "reading_time_minutes": 237
   },
   {
@@ -685,8 +685,8 @@
     "author": "Johann Wyss",
     "category": "Adventure",
     "description": "A shipwrecked family builds a new life on a tropical island.",
-    "cover": "https://www.gutenberg.org/cache/epub/11707/pg11707.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/11707.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/11707.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/11707.html",
     "reading_time_minutes": 48
   },
   {
@@ -695,8 +695,8 @@
     "author": "J.M. Barrie",
     "category": "Adventure",
     "description": "Children fly away to Neverland with the boy who never grows up.",
-    "cover": "https://www.gutenberg.org/cache/epub/16/pg16.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/16.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/16.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/16.html",
     "reading_time_minutes": 146
   },
   {
@@ -705,8 +705,8 @@
     "author": "Rudyard Kipling",
     "category": "Adventure",
     "description": "A boy raised by wolves learns the laws of the jungle.",
-    "cover": "https://www.gutenberg.org/cache/epub/236/pg236.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/236.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/236.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/236.html",
     "reading_time_minutes": 154
   },
   {
@@ -715,8 +715,8 @@
     "author": "Rudyard Kipling",
     "category": "Adventure",
     "description": "An Irish orphan boy navigates colonial India as a spy.",
-    "cover": "https://www.gutenberg.org/cache/epub/2226/pg2226.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/2226.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2226.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2226.html",
     "reading_time_minutes": 330
   },
   {
@@ -725,8 +725,8 @@
     "author": "Arthur Conan Doyle",
     "category": "Adventure",
     "description": "Explorers discover a plateau where dinosaurs still roam.",
-    "cover": "https://www.gutenberg.org/cache/epub/139/pg139.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/139.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/139.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/139.html",
     "reading_time_minutes": 220
   },
   {
@@ -735,8 +735,8 @@
     "author": "Jules Verne",
     "category": "Adventure",
     "description": "Three explorers cross Africa by balloon in this early adventure.",
-    "cover": "https://www.gutenberg.org/cache/epub/3526/pg3526.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/3526.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/3526.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/3526.html",
     "reading_time_minutes": 305
   },
   {
@@ -745,8 +745,8 @@
     "author": "Jules Verne",
     "category": "Adventure",
     "description": "The Baltimore Gun Club builds a cannon to shoot men to the moon.",
-    "cover": "https://www.gutenberg.org/cache/epub/83/pg83.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/83.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/83.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/83.html",
     "reading_time_minutes": 301
   },
   {
@@ -755,8 +755,8 @@
     "author": "H.G. Wells",
     "category": "Adventure",
     "description": "A scientist discovers invisibility but cannot reverse it.",
-    "cover": "https://www.gutenberg.org/cache/epub/5230/pg5230.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/5230.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/5230.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/5230.html",
     "reading_time_minutes": 156
   },
   {
@@ -765,8 +765,8 @@
     "author": "H.G. Wells",
     "category": "Adventure",
     "description": "A shipwrecked man discovers an island of terrifying human-animal experiments.",
-    "cover": "https://www.gutenberg.org/cache/epub/159/pg159.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/159.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/159.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/159.html",
     "reading_time_minutes": 130
   },
   {
@@ -775,8 +775,8 @@
     "author": "John Buchan",
     "category": "Adventure",
     "description": "A man stumbles on a spy conspiracy and goes on the run.",
-    "cover": "https://www.gutenberg.org/cache/epub/558/pg558.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/558.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/558.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/558.html",
     "reading_time_minutes": 117
   },
   {
@@ -785,8 +785,8 @@
     "author": "John Buchan",
     "category": "Adventure",
     "description": "Richard Hannay hunts German spies during World War One.",
-    "cover": "https://www.gutenberg.org/cache/epub/4763/pg4763.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/4763.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/4763.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/4763.html",
     "reading_time_minutes": 64
   },
   {
@@ -795,8 +795,8 @@
     "author": "Anthony Hope",
     "category": "Adventure",
     "description": "An Englishman impersonates a kidnapped king to save his kingdom.",
-    "cover": "https://www.gutenberg.org/cache/epub/95/pg95.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/95.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/95.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/95.html",
     "reading_time_minutes": 165
   },
   {
@@ -805,8 +805,8 @@
     "author": "James Fenimore Cooper",
     "category": "Adventure",
     "description": "A frontiersman guides two sisters through a dangerous wilderness.",
-    "cover": "https://www.gutenberg.org/cache/epub/27/pg27.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/27.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/27.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/27.html",
     "reading_time_minutes": 441
   },
   {
@@ -815,8 +815,8 @@
     "author": "James Fenimore Cooper",
     "category": "Adventure",
     "description": "A young hunter faces his first battle on the American frontier.",
-    "cover": "https://www.gutenberg.org/cache/epub/3285/pg3285.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/3285.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/3285.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/3285.html",
     "reading_time_minutes": 677
   },
   {
@@ -825,8 +825,8 @@
     "author": "Walter Scott",
     "category": "Adventure",
     "description": "A Saxon knight fights for honor in medieval England.",
-    "cover": "https://www.gutenberg.org/cache/epub/82/pg82.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/82.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/82.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/82.html",
     "reading_time_minutes": 611
   },
   {
@@ -835,8 +835,8 @@
     "author": "Joseph Conrad",
     "category": "Adventure",
     "description": "A sailor haunted by one moment of cowardice seeks redemption.",
-    "cover": "https://www.gutenberg.org/cache/epub/5658/pg5658.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/5658.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/5658.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/5658.html",
     "reading_time_minutes": 413
   },
   {
@@ -845,8 +845,8 @@
     "author": "Rudyard Kipling",
     "category": "Adventure",
     "description": "A spoiled millionaire's son is rescued by fishermen who teach him hard work.",
-    "cover": "https://www.gutenberg.org/cache/epub/2119/pg2119.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/2119.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2119.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2119.html",
     "reading_time_minutes": 279
   },
   {
@@ -855,8 +855,8 @@
     "author": "Richard Henry Dana",
     "category": "Adventure",
     "description": "A Harvard student's account of life as a common sailor.",
-    "cover": "https://www.gutenberg.org/cache/epub/2186/pg2186.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/2186.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2186.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2186.html",
     "reading_time_minutes": 157
   },
   {
@@ -865,8 +865,8 @@
     "author": "Walter Scott",
     "category": "Adventure",
     "description": "A young Englishman meets the legendary Scottish outlaw Rob Roy.",
-    "cover": "https://www.gutenberg.org/cache/epub/941/pg941.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/941.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/941.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/941.html",
     "reading_time_minutes": 105
   },
   {
@@ -875,8 +875,8 @@
     "author": "Anthony Hope",
     "category": "Adventure",
     "description": "The sequel to The Prisoner of Zenda with even higher stakes.",
-    "cover": "https://www.gutenberg.org/cache/epub/460/pg460.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/460.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/460.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/460.html",
     "reading_time_minutes": 59
   },
   {
@@ -885,8 +885,8 @@
     "author": "R.M. Ballantyne",
     "category": "Adventure",
     "description": "Three boys are shipwrecked on a Pacific island and must survive.",
-    "cover": "https://www.gutenberg.org/cache/epub/171/pg171.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/171.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/171.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/171.html",
     "reading_time_minutes": 126
   },
   {
@@ -895,8 +895,8 @@
     "author": "Jules Verne",
     "category": "Adventure",
     "description": "A Tsar's courier crosses Siberia on a dangerous mission.",
-    "cover": "https://www.gutenberg.org/cache/epub/2153/pg2153.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/2153.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2153.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2153.html",
     "reading_time_minutes": 471
   },
   {
@@ -905,8 +905,8 @@
     "author": "John Buchan",
     "category": "Adventure",
     "description": "A young Scotsman uncovers an African uprising.",
-    "cover": "https://www.gutenberg.org/cache/epub/4124/pg4124.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/4124.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/4124.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/4124.html",
     "reading_time_minutes": 60
   },
   {
@@ -915,8 +915,8 @@
     "author": "Owen Wister",
     "category": "Adventure",
     "description": "The quintessential American Western novel set in Wyoming.",
-    "cover": "https://www.gutenberg.org/cache/epub/1298/pg1298.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/1298.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1298.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1298.html",
     "reading_time_minutes": 443
   },
   {
@@ -925,8 +925,8 @@
     "author": "Charles Kingsley",
     "category": "Adventure",
     "description": "Elizabethan adventurers seek fortune and glory on the high seas.",
-    "cover": "https://www.gutenberg.org/cache/epub/2372/pg2372.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/2372.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2372.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2372.html",
     "reading_time_minutes": 232
   },
   {
@@ -935,8 +935,8 @@
     "author": "Francis Parkman",
     "category": "Adventure",
     "description": "A firsthand account of the great American westward migration.",
-    "cover": "https://www.gutenberg.org/cache/epub/1361/pg1361.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/1361.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1361.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1361.html",
     "reading_time_minutes": 127
   },
   {
@@ -945,8 +945,8 @@
     "author": "H. Rider Haggard",
     "category": "Adventure",
     "description": "The sequel to King Solomon's Mines — Quatermain's last adventure.",
-    "cover": "https://www.gutenberg.org/cache/epub/5205/pg5205.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/5205.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/5205.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/5205.html",
     "reading_time_minutes": 116
   },
   {
@@ -955,8 +955,8 @@
     "author": "James Fenimore Cooper",
     "category": "Adventure",
     "description": "Natty Bumppo guides soldiers through the Great Lakes wilderness.",
-    "cover": "https://www.gutenberg.org/cache/epub/2120/pg2120.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/2120.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2120.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2120.html",
     "reading_time_minutes": 353
   },
   {
@@ -965,8 +965,8 @@
     "author": "Zane Grey",
     "category": "Adventure",
     "description": "A classic Western tale of a gunslinger defending a lone woman.",
-    "cover": "https://www.gutenberg.org/cache/epub/1200/pg1200.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/1200.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1200.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1200.html",
     "reading_time_minutes": 1052
   },
   {
@@ -975,8 +975,8 @@
     "author": "E.M. Forster",
     "category": "Adventure",
     "description": "An English widow's impulsive Italian marriage causes family scandal.",
-    "cover": "https://www.gutenberg.org/cache/epub/4674/pg4674.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/4674.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/4674.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/4674.html",
     "reading_time_minutes": 30
   },
   {
@@ -985,8 +985,8 @@
     "author": "Elizabeth Gaskell",
     "category": "Romance",
     "description": "A southern woman clashes with a northern mill owner — and falls for him.",
-    "cover": "https://www.gutenberg.org/cache/epub/4276/pg4276.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/4276.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/4276.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/4276.html",
     "reading_time_minutes": 543
   },
   {
@@ -995,8 +995,8 @@
     "author": "Elizabeth Gaskell",
     "category": "Romance",
     "description": "A doctor's daughter navigates love and society in a small English town.",
-    "cover": "https://www.gutenberg.org/cache/epub/4274/pg4274.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/4274.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/4274.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/4274.html",
     "reading_time_minutes": 772
   },
   {
@@ -1005,8 +1005,8 @@
     "author": "Elizabeth Gaskell",
     "category": "Romance",
     "description": "Life and love among the genteel ladies of a small English town.",
-    "cover": "https://www.gutenberg.org/cache/epub/394/pg394.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/394.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/394.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/394.html",
     "reading_time_minutes": 203
   },
   {
@@ -1015,8 +1015,8 @@
     "author": "Anne Brontë",
     "category": "Romance",
     "description": "A mysterious widow hides a dark secret from her past.",
-    "cover": "https://www.gutenberg.org/cache/epub/969/pg969.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/969.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/969.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/969.html",
     "reading_time_minutes": 521
   },
   {
@@ -1025,8 +1025,8 @@
     "author": "Anne Brontë",
     "category": "Romance",
     "description": "A governess endures hardship while quietly falling in love.",
-    "cover": "https://www.gutenberg.org/cache/epub/767/pg767.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/767.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/767.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/767.html",
     "reading_time_minutes": 199
   },
   {
@@ -1035,8 +1035,8 @@
     "author": "Charlotte Brontë",
     "category": "Romance",
     "description": "A reserved Englishwoman finds unexpected love while teaching in Belgium.",
-    "cover": "https://www.gutenberg.org/cache/epub/9182/pg9182.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/9182.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/9182.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/9182.html",
     "reading_time_minutes": 578
   },
   {
@@ -1045,8 +1045,8 @@
     "author": "George Eliot",
     "category": "Romance",
     "description": "A young man's identity quest intertwines with a troubled woman's fate.",
-    "cover": "https://www.gutenberg.org/cache/epub/7469/pg7469.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/7469.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/7469.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/7469.html",
     "reading_time_minutes": 930
   },
   {
@@ -1055,8 +1055,8 @@
     "author": "George Eliot",
     "category": "Romance",
     "description": "A carpenter loves a vain beauty in this tale of rural English life.",
-    "cover": "https://www.gutenberg.org/cache/epub/507/pg507.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/507.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/507.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/507.html",
     "reading_time_minutes": 632
   },
   {
@@ -1065,8 +1065,8 @@
     "author": "Thomas Hardy",
     "category": "Romance",
     "description": "A gentle love story set among the musicians of a rural village.",
-    "cover": "https://www.gutenberg.org/cache/epub/2662/pg2662.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/2662.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2662.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2662.html",
     "reading_time_minutes": 186
   },
   {
@@ -1075,8 +1075,8 @@
     "author": "Leo Tolstoy",
     "category": "Romance",
     "description": "A nobleman seeks to make amends with a woman he wronged long ago.",
-    "cover": "https://www.gutenberg.org/cache/epub/1938/pg1938.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/1938.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1938.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1938.html",
     "reading_time_minutes": 602
   },
   {
@@ -1085,8 +1085,8 @@
     "author": "Honore de Balzac",
     "category": "Romance",
     "description": "A jealous old maid plots elaborate revenge on her wealthy relatives.",
-    "cover": "https://www.gutenberg.org/cache/epub/1377/pg1377.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/1377.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1377.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1377.html",
     "reading_time_minutes": 437
   },
   {
@@ -1095,8 +1095,8 @@
     "author": "Charlotte Brontë",
     "category": "Romance",
     "description": "An Englishman finds love while teaching in Brussels.",
-    "cover": "https://www.gutenberg.org/cache/epub/1028/pg1028.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/1028.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1028.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1028.html",
     "reading_time_minutes": 295
   },
   {
@@ -1105,8 +1105,8 @@
     "author": "Elizabeth Gaskell",
     "category": "Romance",
     "description": "A fallen woman seeks redemption in a compassionate community.",
-    "cover": "https://www.gutenberg.org/cache/epub/4270/pg4270.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/4270.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/4270.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/4270.html",
     "reading_time_minutes": 300
   },
   {
@@ -1115,8 +1115,8 @@
     "author": "Charles Dickens",
     "category": "Romance",
     "description": "Little Nell and her grandfather flee a menacing moneylender.",
-    "cover": "https://www.gutenberg.org/cache/epub/700/pg700.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/700.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/700.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/700.html",
     "reading_time_minutes": 744
   },
   {
@@ -1125,8 +1125,8 @@
     "author": "Charles Dickens",
     "category": "Romance",
     "description": "A proud merchant learns too late the value of love over wealth.",
-    "cover": "https://www.gutenberg.org/cache/epub/821/pg821.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/821.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/821.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/821.html",
     "reading_time_minutes": 1107
   },
   {
@@ -1135,8 +1135,8 @@
     "author": "Edith Wharton",
     "category": "Romance",
     "description": "A man sacrifices love for the sake of social conformity.",
-    "cover": "https://www.gutenberg.org/cache/epub/541/pg541.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/541.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/541.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/541.html",
     "reading_time_minutes": 298
   },
   {
@@ -1145,8 +1145,8 @@
     "author": "Edith Wharton",
     "category": "Romance",
     "description": "A beautiful socialite's slow descent from New York high society.",
-    "cover": "https://www.gutenberg.org/cache/epub/284/pg284.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/284.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/284.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/284.html",
     "reading_time_minutes": 388
   },
   {
@@ -1155,8 +1155,8 @@
     "author": "Henry James",
     "category": "Romance",
     "description": "An American woman's European marriage becomes a gilded cage.",
-    "cover": "https://www.gutenberg.org/cache/epub/2833/pg2833.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/2833.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2833.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2833.html",
     "reading_time_minutes": 412
   },
   {
@@ -1165,8 +1165,8 @@
     "author": "Henry James",
     "category": "Romance",
     "description": "An American is sent to Paris to bring back a young man — but is enchanted.",
-    "cover": "https://www.gutenberg.org/cache/epub/432/pg432.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/432.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/432.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/432.html",
     "reading_time_minutes": 512
   },
   {
@@ -1175,8 +1175,8 @@
     "author": "Henry James",
     "category": "Romance",
     "description": "A plain heiress is courted by a charming fortune hunter.",
-    "cover": "https://www.gutenberg.org/cache/epub/2870/pg2870.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/2870.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2870.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2870.html",
     "reading_time_minutes": 201
   },
   {
@@ -1185,8 +1185,8 @@
     "author": "Kate Chopin",
     "category": "Romance",
     "description": "A woman awakens to her own desires in Creole New Orleans.",
-    "cover": "https://www.gutenberg.org/cache/epub/160/pg160.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/160.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/160.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/160.html",
     "reading_time_minutes": 199
   },
   {
@@ -1195,8 +1195,8 @@
     "author": "E.M. Forster",
     "category": "Romance",
     "description": "A young woman's Italian journey opens her heart to love and freedom.",
-    "cover": "https://www.gutenberg.org/cache/epub/2641/pg2641.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/2641.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2641.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2641.html",
     "reading_time_minutes": 216
   },
   {
@@ -1205,8 +1205,8 @@
     "author": "E.M. Forster",
     "category": "Romance",
     "description": "Two families from different worlds collide over an English country house.",
-    "cover": "https://www.gutenberg.org/cache/epub/2891/pg2891.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/2891.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2891.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2891.html",
     "reading_time_minutes": 348
   },
   {
@@ -1215,8 +1215,8 @@
     "author": "Honore de Balzac",
     "category": "Romance",
     "description": "A sheltered girl falls for her charming cousin with tragic results.",
-    "cover": "https://www.gutenberg.org/cache/epub/1424/pg1424.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/1424.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1424.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1424.html",
     "reading_time_minutes": 133
   },
   {
@@ -1225,8 +1225,8 @@
     "author": "Henry James",
     "category": "Romance",
     "description": "Two lovers scheme to inherit a dying heiress's fortune.",
-    "cover": "https://www.gutenberg.org/cache/epub/9628/pg9628.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/9628.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/9628.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/9628.html",
     "reading_time_minutes": 92
   },
   {
@@ -1235,8 +1235,8 @@
     "author": "Charlotte Brontë",
     "category": "Romance",
     "description": "Two women support each other through love and industrial conflict.",
-    "cover": "https://www.gutenberg.org/cache/epub/30486/pg30486.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/30486.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/30486.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/30486.html",
     "reading_time_minutes": 688
   },
   {
@@ -1245,8 +1245,8 @@
     "author": "Charles Dickens",
     "category": "Romance",
     "description": "A woman born in a debtors' prison dreams of a better life.",
-    "cover": "https://www.gutenberg.org/cache/epub/963/pg963.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/963.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/963.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/963.html",
     "reading_time_minutes": 1152
   },
   {
@@ -1255,8 +1255,8 @@
     "author": "Charles Dickens",
     "category": "Romance",
     "description": "A decades-long lawsuit destroys lives while love persists.",
-    "cover": "https://www.gutenberg.org/cache/epub/1023/pg1023.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/1023.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1023.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1023.html",
     "reading_time_minutes": 1035
   },
   {
@@ -1265,8 +1265,8 @@
     "author": "Thomas Hardy",
     "category": "Romance",
     "description": "Love and betrayal among the woodland folk of rural England.",
-    "cover": "https://www.gutenberg.org/cache/epub/482/pg482.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/482.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/482.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/482.html",
     "reading_time_minutes": 417
   },
   {
@@ -1275,8 +1275,8 @@
     "author": "Charles Dickens",
     "category": "Romance",
     "description": "An heir fakes his death and falls in love with a dustman's daughter.",
-    "cover": "https://www.gutenberg.org/cache/epub/883/pg883.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/883.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/883.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/883.html",
     "reading_time_minutes": 1121
   },
   {
@@ -1285,8 +1285,8 @@
     "author": "Charles Dickens",
     "category": "Romance",
     "description": "A young man fights for his family's honor in Victorian England.",
-    "cover": "https://www.gutenberg.org/cache/epub/967/pg967.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/967.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/967.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/967.html",
     "reading_time_minutes": 1157
   },
   {
@@ -1295,8 +1295,8 @@
     "author": "Gene Stratton-Porter",
     "category": "Romance",
     "description": "A one-handed orphan finds love and belonging in a Michigan swamp.",
-    "cover": "https://www.gutenberg.org/cache/epub/3383/pg3383.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/3383.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/3383.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/3383.html",
     "reading_time_minutes": 30
   },
   {
@@ -1305,8 +1305,8 @@
     "author": "Jean-Jacques Rousseau",
     "category": "Romance",
     "description": "A philosophical novel about education and the nature of love.",
-    "cover": "https://www.gutenberg.org/cache/epub/5427/pg5427.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/5427.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/5427.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/5427.html",
     "reading_time_minutes": 760
   },
   {
@@ -1315,8 +1315,8 @@
     "author": "Jean-Jacques Rousseau",
     "category": "Romance",
     "description": "Rousseau's candid autobiography, including passionate love affairs.",
-    "cover": "https://www.gutenberg.org/cache/epub/3913/pg3913.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/3913.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/3913.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/3913.html",
     "reading_time_minutes": 850
   },
   {
@@ -1325,8 +1325,8 @@
     "author": "Walt Whitman",
     "category": "Poetry",
     "description": "Whitman's revolutionary celebration of democracy, nature, and the self.",
-    "cover": "https://www.gutenberg.org/cache/epub/1322/pg1322.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/1322.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1322.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1322.html",
     "reading_time_minutes": 422
   },
   {
@@ -1335,8 +1335,8 @@
     "author": "William Blake",
     "category": "Poetry",
     "description": "Blake's visionary contrast between childhood innocence and adult experience.",
-    "cover": "https://www.gutenberg.org/cache/epub/1934/pg1934.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/1934.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1934.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1934.html",
     "reading_time_minutes": 30
   },
   {
@@ -1345,8 +1345,8 @@
     "author": "John Keats",
     "category": "Poetry",
     "description": "Odes, sonnets, and narrative poems by the great Romantic poet.",
-    "cover": "https://www.gutenberg.org/cache/epub/23/pg23.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/23.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/23.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/23.html",
     "reading_time_minutes": 116
   },
   {
@@ -1355,8 +1355,8 @@
     "author": "Percy Shelley",
     "category": "Poetry",
     "description": "Including Ozymandias, Ode to the West Wind, and Prometheus Unbound.",
-    "cover": "https://www.gutenberg.org/cache/epub/4800/pg4800.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/4800.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/4800.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/4800.html",
     "reading_time_minutes": 1163
   },
   {
@@ -1365,8 +1365,8 @@
     "author": "Lord Byron",
     "category": "Poetry",
     "description": "Don Juan and other masterworks of Romantic wit and passion.",
-    "cover": "https://www.gutenberg.org/cache/epub/8095/pg8095.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/8095.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/8095.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/8095.html",
     "reading_time_minutes": 289
   },
   {
@@ -1375,8 +1375,8 @@
     "author": "Geoffrey Chaucer",
     "category": "Poetry",
     "description": "Pilgrims tell tales ranging from bawdy to profound on the road to Canterbury.",
-    "cover": "https://www.gutenberg.org/cache/epub/2383/pg2383.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/2383.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2383.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2383.html",
     "reading_time_minutes": 935
   },
   {
@@ -1385,8 +1385,8 @@
     "author": "John Milton",
     "category": "Poetry",
     "description": "Satan's fall and humanity's expulsion from Eden in epic verse.",
-    "cover": "https://www.gutenberg.org/cache/epub/26/pg26.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/26.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/26.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/26.html",
     "reading_time_minutes": 254
   },
   {
@@ -1395,8 +1395,8 @@
     "author": "Dante Alighieri",
     "category": "Poetry",
     "description": "A poet's journey through Hell, Purgatory, and Paradise.",
-    "cover": "https://www.gutenberg.org/cache/epub/8800/pg8800.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/8800.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/8800.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/8800.html",
     "reading_time_minutes": 361
   },
   {
@@ -1405,8 +1405,8 @@
     "author": "Homer",
     "category": "Poetry",
     "description": "The Greek epic of the Trojan War and Achilles's wrath.",
-    "cover": "https://www.gutenberg.org/cache/epub/2199/pg2199.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/2199.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2199.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2199.html",
     "reading_time_minutes": 454
   },
   {
@@ -1415,8 +1415,8 @@
     "author": "Homer",
     "category": "Poetry",
     "description": "Odysseus's ten-year voyage home after the fall of Troy.",
-    "cover": "https://www.gutenberg.org/cache/epub/1727/pg1727.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/1727.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1727.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1727.html",
     "reading_time_minutes": 372
   },
   {
@@ -1425,8 +1425,8 @@
     "author": "Virgil",
     "category": "Poetry",
     "description": "The founding myth of Rome told through Aeneas's epic journey.",
-    "cover": "https://www.gutenberg.org/cache/epub/227/pg227.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/227.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/227.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/227.html",
     "reading_time_minutes": 245
   },
   {
@@ -1435,8 +1435,8 @@
     "author": "Emily Dickinson",
     "category": "Poetry",
     "description": "Slant rhymes and dashes — Dickinson's unique vision of death and eternity.",
-    "cover": "https://www.gutenberg.org/cache/epub/12242/pg12242.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/12242.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/12242.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/12242.html",
     "reading_time_minutes": 153
   },
   {
@@ -1445,8 +1445,8 @@
     "author": "Edgar Allan Poe",
     "category": "Poetry",
     "description": "Nevermore — Poe's haunting poems of beauty, loss, and the macabre.",
-    "cover": "https://www.gutenberg.org/cache/epub/14082/pg14082.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/14082.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/14082.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/14082.html",
     "reading_time_minutes": 30
   },
   {
@@ -1455,8 +1455,8 @@
     "author": "Elizabeth Barrett Browning",
     "category": "Poetry",
     "description": "How do I love thee? Let me count the ways — intimate love sonnets.",
-    "cover": "https://www.gutenberg.org/cache/epub/2002/pg2002.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/2002.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2002.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2002.html",
     "reading_time_minutes": 30
   },
   {
@@ -1465,8 +1465,8 @@
     "author": "Robert Browning",
     "category": "Poetry",
     "description": "Dramatic monologues including My Last Duchess and Fra Lippo Lippi.",
-    "cover": "https://www.gutenberg.org/cache/epub/4253/pg4253.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/4253.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/4253.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/4253.html",
     "reading_time_minutes": 117
   },
   {
@@ -1475,8 +1475,8 @@
     "author": "Alfred Lord Tennyson",
     "category": "Poetry",
     "description": "Tennyson's extended elegy for his beloved friend Arthur Henry Hallam.",
-    "cover": "https://www.gutenberg.org/cache/epub/8449/pg8449.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/8449.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/8449.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/8449.html",
     "reading_time_minutes": 218
   },
   {
@@ -1485,8 +1485,8 @@
     "author": "Alfred Lord Tennyson",
     "category": "Poetry",
     "description": "The legend of King Arthur and the fall of Camelot in verse.",
-    "cover": "https://www.gutenberg.org/cache/epub/610/pg610.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/610.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/610.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/610.html",
     "reading_time_minutes": 249
   },
   {
@@ -1495,8 +1495,8 @@
     "author": "Oscar Wilde",
     "category": "Poetry",
     "description": "Wilde's heartbreaking poem about life, death, and injustice in prison.",
-    "cover": "https://www.gutenberg.org/cache/epub/301/pg301.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/301.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/301.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/301.html",
     "reading_time_minutes": 31
   },
   {
@@ -1505,8 +1505,8 @@
     "author": "Omar Khayyam",
     "category": "Poetry",
     "description": "A loaf of bread, a jug of wine, and thou — Persian wisdom in verse.",
-    "cover": "https://www.gutenberg.org/cache/epub/246/pg246.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/246.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/246.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/246.html",
     "reading_time_minutes": 41
   },
   {
@@ -1515,8 +1515,8 @@
     "author": "Rabindranath Tagore",
     "category": "Poetry",
     "description": "Song offerings — the spiritual poems that won Tagore the Nobel Prize.",
-    "cover": "https://www.gutenberg.org/cache/epub/7164/pg7164.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/7164.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/7164.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/7164.html",
     "reading_time_minutes": 41
   },
   {
@@ -1525,8 +1525,8 @@
     "author": "A.E. Housman",
     "category": "Poetry",
     "description": "Nostalgic poems of youth, love, and mortality in the English countryside.",
-    "cover": "https://www.gutenberg.org/cache/epub/5720/pg5720.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/5720.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/5720.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/5720.html",
     "reading_time_minutes": 32
   },
   {
@@ -1535,8 +1535,8 @@
     "author": "William Wordsworth",
     "category": "Poetry",
     "description": "Tintern Abbey and other meditations on nature and memory.",
-    "cover": "https://www.gutenberg.org/cache/epub/8905/pg8905.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/8905.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/8905.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/8905.html",
     "reading_time_minutes": 81
   },
   {
@@ -1545,8 +1545,8 @@
     "author": "Wordsworth & Coleridge",
     "category": "Poetry",
     "description": "The manifesto of English Romanticism — including The Ancient Mariner.",
-    "cover": "https://www.gutenberg.org/cache/epub/9622/pg9622.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/9622.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/9622.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/9622.html",
     "reading_time_minutes": 88
   },
   {
@@ -1555,8 +1555,8 @@
     "author": "S.T. Coleridge",
     "category": "Poetry",
     "description": "A sailor kills an albatross and is cursed to wander the earth.",
-    "cover": "https://www.gutenberg.org/cache/epub/151/pg151.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/151.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/151.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/151.html",
     "reading_time_minutes": 30
   },
   {
@@ -1565,8 +1565,8 @@
     "author": "Johann Wolfgang von Goethe",
     "category": "Poetry",
     "description": "A scholar sells his soul to the devil in this epic dramatic poem.",
-    "cover": "https://www.gutenberg.org/cache/epub/2229/pg2229.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/2229.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2229.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2229.html",
     "reading_time_minutes": 120
   },
   {
@@ -1575,8 +1575,8 @@
     "author": "Ovid",
     "category": "Poetry",
     "description": "Myths of transformation from chaos to Caesar in elegant Latin verse.",
-    "cover": "https://www.gutenberg.org/cache/epub/21765/pg21765.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/21765.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/21765.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/21765.html",
     "reading_time_minutes": 456
   },
   {
@@ -1585,8 +1585,8 @@
     "author": "Anonymous",
     "category": "Poetry",
     "description": "The oldest English epic — a hero battles monsters in Dark Age Denmark.",
-    "cover": "https://www.gutenberg.org/cache/epub/16328/pg16328.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/16328.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/16328.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/16328.html",
     "reading_time_minutes": 237
   },
   {
@@ -1595,8 +1595,8 @@
     "author": "Henry Longfellow",
     "category": "Poetry",
     "description": "The legend of the Native American hero Hiawatha in melodic verse.",
-    "cover": "https://www.gutenberg.org/cache/epub/19/pg19.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/19.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/19.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/19.html",
     "reading_time_minutes": 124
   },
   {
@@ -1605,8 +1605,8 @@
     "author": "Christina Rossetti",
     "category": "Poetry",
     "description": "Two sisters face temptation in this mysterious narrative poem.",
-    "cover": "https://www.gutenberg.org/cache/epub/17623/pg17623.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/17623.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/17623.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/17623.html",
     "reading_time_minutes": 167
   },
   {
@@ -1615,8 +1615,8 @@
     "author": "Rudyard Kipling",
     "category": "Poetry",
     "description": "If and other beloved poems of duty, courage, and empire.",
-    "cover": "https://www.gutenberg.org/cache/epub/28/pg28.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/28.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/28.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/28.html",
     "reading_time_minutes": 49
   },
   {
@@ -1625,8 +1625,8 @@
     "author": "Rudyard Kipling",
     "category": "Poetry",
     "description": "Tommy Atkins and other vivid portraits of the British soldier.",
-    "cover": "https://www.gutenberg.org/cache/epub/2819/pg2819.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/2819.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2819.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2819.html",
     "reading_time_minutes": 55
   },
   {
@@ -1635,8 +1635,8 @@
     "author": "Paul Laurence Dunbar",
     "category": "Poetry",
     "description": "Dialect and standard verse by the first influential African American poet.",
-    "cover": "https://www.gutenberg.org/cache/epub/18338/pg18338.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/18338.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/18338.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/18338.html",
     "reading_time_minutes": 486
   },
   {
@@ -1645,8 +1645,8 @@
     "author": "Claude McKay",
     "category": "Poetry",
     "description": "Poems of the Harlem Renaissance — race, longing, and Black identity.",
-    "cover": "https://www.gutenberg.org/cache/epub/30035/pg30035.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/30035.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/30035.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/30035.html",
     "reading_time_minutes": 30
   },
   {
@@ -1655,8 +1655,8 @@
     "author": "William Shakespeare",
     "category": "Poetry",
     "description": "Shall I compare thee to a summer's day — 154 immortal sonnets.",
-    "cover": "https://www.gutenberg.org/cache/epub/1041/pg1041.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/1041.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1041.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1041.html",
     "reading_time_minutes": 64
   },
   {
@@ -1665,8 +1665,8 @@
     "author": "Christopher Marlowe",
     "category": "Poetry",
     "description": "Doctor Faustus and other dramatic poems by Shakespeare's great rival.",
-    "cover": "https://www.gutenberg.org/cache/epub/4798/pg4798.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/4798.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/4798.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/4798.html",
     "reading_time_minutes": 194
   },
   {
@@ -1675,8 +1675,8 @@
     "author": "William Cowper",
     "category": "Poetry",
     "description": "The Task and other poems by the forerunner of English Romanticism.",
-    "cover": "https://www.gutenberg.org/cache/epub/3203/pg3203.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/3203.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/3203.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/3203.html",
     "reading_time_minutes": 30
   },
   {
@@ -1685,8 +1685,8 @@
     "author": "William Cullen Bryant",
     "category": "Poetry",
     "description": "Thanatopsis and other nature poems by America's first major poet.",
-    "cover": "https://www.gutenberg.org/cache/epub/7048/pg7048.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/7048.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/7048.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/7048.html",
     "reading_time_minutes": 175
   },
   {
@@ -1695,8 +1695,8 @@
     "author": "William Blake",
     "category": "Poetry",
     "description": "The Tyger, The Lamb, and other visionary works by William Blake.",
-    "cover": "https://www.gutenberg.org/cache/epub/574/pg574.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/574.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/574.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/574.html",
     "reading_time_minutes": 30
   },
   {
@@ -1705,8 +1705,8 @@
     "author": "Gerard Manley Hopkins",
     "category": "Poetry",
     "description": "The Windhover and other sprung-rhythm poems of nature and faith.",
-    "cover": "https://www.gutenberg.org/cache/epub/22403/pg22403.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/22403.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/22403.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/22403.html",
     "reading_time_minutes": 84
   },
   {
@@ -1715,8 +1715,8 @@
     "author": "Wilfred Owen",
     "category": "Poetry",
     "description": "Dulce et Decorum Est — the definitive poetry of World War One.",
-    "cover": "https://www.gutenberg.org/cache/epub/1063/pg1063.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/1063.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1063.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1063.html",
     "reading_time_minutes": 30
   },
   {
@@ -1725,8 +1725,8 @@
     "author": "Francis Thompson",
     "category": "Poetry",
     "description": "The Hound of Heaven — mystical Catholic poetry of pursuit and redemption.",
-    "cover": "https://www.gutenberg.org/cache/epub/19629/pg19629.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/19629.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/19629.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/19629.html",
     "reading_time_minutes": 392
   },
   {
@@ -1735,8 +1735,8 @@
     "author": "D.H. Lawrence",
     "category": "Poetry",
     "description": "Snake and other sensuous, free-verse poems celebrating nature and life.",
-    "cover": "https://www.gutenberg.org/cache/epub/4519/pg4519.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/4519.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/4519.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/4519.html",
     "reading_time_minutes": 207
   },
   {
@@ -1745,8 +1745,8 @@
     "author": "Algernon Swinburne",
     "category": "Poetry",
     "description": "Lush, musical verse on love, death, and pagan beauty.",
-    "cover": "https://www.gutenberg.org/cache/epub/4700/pg4700.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/4700.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/4700.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/4700.html",
     "reading_time_minutes": 30
   },
   {
@@ -1755,8 +1755,8 @@
     "author": "T.S. Eliot",
     "category": "Poetry",
     "description": "Do I dare disturb the universe? Eliot's modernist masterpiece.",
-    "cover": "https://www.gutenberg.org/cache/epub/1321/pg1321.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/1321.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1321.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1321.html",
     "reading_time_minutes": 30
   },
   {
@@ -1765,8 +1765,8 @@
     "author": "Friedrich Nietzsche",
     "category": "Philosophy",
     "description": "Nietzsche's prophet proclaims the Übermensch and the death of God.",
-    "cover": "https://www.gutenberg.org/cache/epub/1998/pg1998.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/1998.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1998.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1998.html",
     "reading_time_minutes": 413
   },
   {
@@ -1775,8 +1775,8 @@
     "author": "Friedrich Nietzsche",
     "category": "Philosophy",
     "description": "A radical critique of past philosophers and their moral assumptions.",
-    "cover": "https://www.gutenberg.org/cache/epub/4363/pg4363.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/4363.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/4363.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/4363.html",
     "reading_time_minutes": 210
   },
   {
@@ -1785,8 +1785,8 @@
     "author": "Marcus Aurelius",
     "category": "Philosophy",
     "description": "The Stoic emperor's private journal on virtue, duty, and impermanence.",
-    "cover": "https://www.gutenberg.org/cache/epub/2680/pg2680.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/2680.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2680.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2680.html",
     "reading_time_minutes": 266
   },
   {
@@ -1795,8 +1795,8 @@
     "author": "Plato",
     "category": "Philosophy",
     "description": "Plato's dialogue on justice, the ideal state, and the philosopher-king.",
-    "cover": "https://www.gutenberg.org/cache/epub/1497/pg1497.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/1497.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1497.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1497.html",
     "reading_time_minutes": 613
   },
   {
@@ -1805,8 +1805,8 @@
     "author": "Plato",
     "category": "Philosophy",
     "description": "A dinner party debate on the nature of love and beauty.",
-    "cover": "https://www.gutenberg.org/cache/epub/1600/pg1600.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/1600.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1600.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1600.html",
     "reading_time_minutes": 97
   },
   {
@@ -1815,8 +1815,8 @@
     "author": "Plato",
     "category": "Philosophy",
     "description": "Socrates's last hours — a dialogue on the immortality of the soul.",
-    "cover": "https://www.gutenberg.org/cache/epub/1658/pg1658.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/1658.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1658.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1658.html",
     "reading_time_minutes": 131
   },
   {
@@ -1825,8 +1825,8 @@
     "author": "Plato",
     "category": "Philosophy",
     "description": "Socrates defends himself at his trial in this classic text.",
-    "cover": "https://www.gutenberg.org/cache/epub/1656/pg1656.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/1656.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1656.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1656.html",
     "reading_time_minutes": 44
   },
   {
@@ -1835,8 +1835,8 @@
     "author": "Aristotle",
     "category": "Philosophy",
     "description": "Aristotle's definitive treatise on virtue, happiness, and the good life.",
-    "cover": "https://www.gutenberg.org/cache/epub/8438/pg8438.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/8438.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/8438.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/8438.html",
     "reading_time_minutes": 349
   },
   {
@@ -1845,8 +1845,8 @@
     "author": "Aristotle",
     "category": "Philosophy",
     "description": "Aristotle's foundational analysis of the state and human community.",
-    "cover": "https://www.gutenberg.org/cache/epub/6762/pg6762.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/6762.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/6762.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/6762.html",
     "reading_time_minutes": 321
   },
   {
@@ -1855,8 +1855,8 @@
     "author": "René Descartes",
     "category": "Philosophy",
     "description": "I think therefore I am — Descartes rebuilds knowledge from scratch.",
-    "cover": "https://www.gutenberg.org/cache/epub/59/pg59.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/59.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/59.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/59.html",
     "reading_time_minutes": 64
   },
   {
@@ -1865,8 +1865,8 @@
     "author": "Baruch Spinoza",
     "category": "Philosophy",
     "description": "A geometric proof that God, nature, and mind are one substance.",
-    "cover": "https://www.gutenberg.org/cache/epub/3800/pg3800.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/3800.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/3800.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/3800.html",
     "reading_time_minutes": 259
   },
   {
@@ -1875,8 +1875,8 @@
     "author": "Thomas Hobbes",
     "category": "Philosophy",
     "description": "Without government, life is nasty, brutish, and short — Hobbes's argument.",
-    "cover": "https://www.gutenberg.org/cache/epub/3207/pg3207.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/3207.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/3207.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/3207.html",
     "reading_time_minutes": 719
   },
   {
@@ -1885,8 +1885,8 @@
     "author": "John Locke",
     "category": "Philosophy",
     "description": "The philosophical foundation of liberal democracy and human rights.",
-    "cover": "https://www.gutenberg.org/cache/epub/7370/pg7370.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/7370.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/7370.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/7370.html",
     "reading_time_minutes": 159
   },
   {
@@ -1895,8 +1895,8 @@
     "author": "John Locke",
     "category": "Philosophy",
     "description": "The mind as a blank slate — Locke's empiricist theory of knowledge.",
-    "cover": "https://www.gutenberg.org/cache/epub/10615/pg10615.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/10615.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/10615.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/10615.html",
     "reading_time_minutes": 418
   },
   {
@@ -1905,8 +1905,8 @@
     "author": "David Hume",
     "category": "Philosophy",
     "description": "Reason is the slave of the passions — Hume's radical empiricism.",
-    "cover": "https://www.gutenberg.org/cache/epub/4705/pg4705.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/4705.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/4705.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/4705.html",
     "reading_time_minutes": 733
   },
   {
@@ -1915,8 +1915,8 @@
     "author": "David Hume",
     "category": "Philosophy",
     "description": "Hume's accessible introduction to his skeptical philosophy.",
-    "cover": "https://www.gutenberg.org/cache/epub/9662/pg9662.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/9662.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/9662.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/9662.html",
     "reading_time_minutes": 198
   },
   {
@@ -1925,8 +1925,8 @@
     "author": "Immanuel Kant",
     "category": "Philosophy",
     "description": "The Copernican revolution in philosophy — the mind shapes experience.",
-    "cover": "https://www.gutenberg.org/cache/epub/4280/pg4280.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/4280.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/4280.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/4280.html",
     "reading_time_minutes": 632
   },
   {
@@ -1935,8 +1935,8 @@
     "author": "Immanuel Kant",
     "category": "Philosophy",
     "description": "Act only according to principles you could will to be universal laws.",
-    "cover": "https://www.gutenberg.org/cache/epub/5682/pg5682.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/5682.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/5682.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/5682.html",
     "reading_time_minutes": 97
   },
   {
@@ -1945,8 +1945,8 @@
     "author": "Arthur Schopenhauer",
     "category": "Philosophy",
     "description": "Reality is blind, striving will — and art is our only escape.",
-    "cover": "https://www.gutenberg.org/cache/epub/38427/pg38427.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/38427.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/38427.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/38427.html",
     "reading_time_minutes": 556
   },
   {
@@ -1955,8 +1955,8 @@
     "author": "Arthur Schopenhauer",
     "category": "Philosophy",
     "description": "Compassion, not duty, is the only genuine foundation of ethics.",
-    "cover": "https://www.gutenberg.org/cache/epub/44929/pg44929.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/44929.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/44929.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/44929.html",
     "reading_time_minutes": 268
   },
   {
@@ -1965,8 +1965,8 @@
     "author": "Søren Kierkegaard",
     "category": "Philosophy",
     "description": "Abraham's willingness to sacrifice Isaac — faith beyond reason.",
-    "cover": "https://www.gutenberg.org/cache/epub/4887/pg4887.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/4887.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/4887.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/4887.html",
     "reading_time_minutes": 38
   },
   {
@@ -1975,8 +1975,8 @@
     "author": "John Stuart Mill",
     "category": "Philosophy",
     "description": "The harm principle — the only limit on individual freedom is harm to others.",
-    "cover": "https://www.gutenberg.org/cache/epub/34901/pg34901.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/34901.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/34901.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/34901.html",
     "reading_time_minutes": 164
   },
   {
@@ -1985,8 +1985,8 @@
     "author": "John Stuart Mill",
     "category": "Philosophy",
     "description": "The greatest happiness of the greatest number is the measure of right.",
-    "cover": "https://www.gutenberg.org/cache/epub/11224/pg11224.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/11224.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/11224.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/11224.html",
     "reading_time_minutes": 81
   },
   {
@@ -1995,8 +1995,8 @@
     "author": "John Stuart Mill",
     "category": "Philosophy",
     "description": "A radical argument for complete equality between men and women.",
-    "cover": "https://www.gutenberg.org/cache/epub/27083/pg27083.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/27083.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/27083.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/27083.html",
     "reading_time_minutes": 134
   },
   {
@@ -2005,8 +2005,8 @@
     "author": "Henry David Thoreau",
     "category": "Philosophy",
     "description": "Two years alone in the woods — a classic of simple living and nature.",
-    "cover": "https://www.gutenberg.org/cache/epub/205/pg205.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/205.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/205.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/205.html",
     "reading_time_minutes": 319
   },
   {
@@ -2015,8 +2015,8 @@
     "author": "Henry David Thoreau",
     "category": "Philosophy",
     "description": "The duty to resist unjust laws — the inspiration for Gandhi and MLK.",
-    "cover": "https://www.gutenberg.org/cache/epub/71/pg71.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/71.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/71.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/71.html",
     "reading_time_minutes": 30
   },
   {
@@ -2025,8 +2025,8 @@
     "author": "Ralph Waldo Emerson",
     "category": "Philosophy",
     "description": "Trust thyself — Emerson's manifesto of American individualism.",
-    "cover": "https://www.gutenberg.org/cache/epub/16643/pg16643.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/16643.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/16643.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/16643.html",
     "reading_time_minutes": 375
   },
   {
@@ -2035,8 +2035,8 @@
     "author": "Ralph Waldo Emerson",
     "category": "Philosophy",
     "description": "Compensation, Friendship, and other essays of Transcendentalist wisdom.",
-    "cover": "https://www.gutenberg.org/cache/epub/2944/pg2944.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/2944.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2944.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2944.html",
     "reading_time_minutes": 211
   },
   {
@@ -2045,8 +2045,8 @@
     "author": "Karl Marx & Friedrich Engels",
     "category": "Philosophy",
     "description": "Workers of the world unite — the founding document of communism.",
-    "cover": "https://www.gutenberg.org/cache/epub/61/pg61.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/61.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/61.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/61.html",
     "reading_time_minutes": 38
   },
   {
@@ -2055,8 +2055,8 @@
     "author": "Niccolo Machiavelli",
     "category": "Philosophy",
     "description": "It is better to be feared than loved — a ruthless guide to political power.",
-    "cover": "https://www.gutenberg.org/cache/epub/1232/pg1232.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/1232.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1232.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1232.html",
     "reading_time_minutes": 149
   },
   {
@@ -2065,8 +2065,8 @@
     "author": "Niccolo Machiavelli",
     "category": "Philosophy",
     "description": "Machiavelli's republican political philosophy drawn from Roman history.",
-    "cover": "https://www.gutenberg.org/cache/epub/10827/pg10827.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/10827.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/10827.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/10827.html",
     "reading_time_minutes": 409
   },
   {
@@ -2075,8 +2075,8 @@
     "author": "Thomas More",
     "category": "Philosophy",
     "description": "A description of an ideal island commonwealth with no private property.",
-    "cover": "https://www.gutenberg.org/cache/epub/2130/pg2130.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/2130.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2130.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2130.html",
     "reading_time_minutes": 120
   },
   {
@@ -2085,8 +2085,8 @@
     "author": "Jean-Jacques Rousseau",
     "category": "Philosophy",
     "description": "Man is born free but everywhere is in chains — Rousseau's masterwork.",
-    "cover": "https://www.gutenberg.org/cache/epub/46333/pg46333.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/46333.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/46333.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/46333.html",
     "reading_time_minutes": 366
   },
   {
@@ -2095,8 +2095,8 @@
     "author": "Blaise Pascal",
     "category": "Philosophy",
     "description": "Fragmented thoughts on faith, reason, and the human condition.",
-    "cover": "https://www.gutenberg.org/cache/epub/18269/pg18269.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/18269.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/18269.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/18269.html",
     "reading_time_minutes": 423
   },
   {
@@ -2105,8 +2105,8 @@
     "author": "Boethius",
     "category": "Philosophy",
     "description": "Written in prison awaiting execution — on fortune, fate, and true happiness.",
-    "cover": "https://www.gutenberg.org/cache/epub/14328/pg14328.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/14328.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/14328.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/14328.html",
     "reading_time_minutes": 149
   },
   {
@@ -2115,8 +2115,8 @@
     "author": "St Augustine",
     "category": "Philosophy",
     "description": "Our heart is restless until it rests in Thee — a spiritual autobiography.",
-    "cover": "https://www.gutenberg.org/cache/epub/3296/pg3296.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/3296.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/3296.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/3296.html",
     "reading_time_minutes": 330
   },
   {
@@ -2125,8 +2125,8 @@
     "author": "Epictetus",
     "category": "Philosophy",
     "description": "A concise Stoic handbook — some things are in our power, others are not.",
-    "cover": "https://www.gutenberg.org/cache/epub/45109/pg45109.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/45109.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/45109.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/45109.html",
     "reading_time_minutes": 38
   },
   {
@@ -2135,8 +2135,8 @@
     "author": "Epictetus",
     "category": "Philosophy",
     "description": "The slave philosopher's teachings on freedom, virtue, and endurance.",
-    "cover": "https://www.gutenberg.org/cache/epub/4584/pg4584.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/4584.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/4584.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/4584.html",
     "reading_time_minutes": 409
   },
   {
@@ -2145,8 +2145,8 @@
     "author": "Seneca",
     "category": "Philosophy",
     "description": "Practical wisdom on how to live well — letters to a young friend.",
-    "cover": "https://www.gutenberg.org/cache/epub/2884/pg2884.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/2884.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2884.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2884.html",
     "reading_time_minutes": 197
   },
   {
@@ -2155,8 +2155,8 @@
     "author": "Lucretius",
     "category": "Philosophy",
     "description": "Atoms, void, and the mortality of the soul — Epicurean philosophy in verse.",
-    "cover": "https://www.gutenberg.org/cache/epub/785/pg785.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/785.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/785.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/785.html",
     "reading_time_minutes": 239
   },
   {
@@ -2165,8 +2165,8 @@
     "author": "William James",
     "category": "Philosophy",
     "description": "Truth is what works — America's great contribution to philosophy.",
-    "cover": "https://www.gutenberg.org/cache/epub/5116/pg5116.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/5116.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/5116.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/5116.html",
     "reading_time_minutes": 171
   },
   {
@@ -2175,8 +2175,8 @@
     "author": "William James",
     "category": "Philosophy",
     "description": "A psychologist's masterful study of mysticism and religious feeling.",
-    "cover": "https://www.gutenberg.org/cache/epub/621/pg621.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/621.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/621.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/621.html",
     "reading_time_minutes": 562
   },
   {
@@ -2185,8 +2185,8 @@
     "author": "William James",
     "category": "Philosophy",
     "description": "Sometimes we must believe before we have proof — James on faith.",
-    "cover": "https://www.gutenberg.org/cache/epub/26659/pg26659.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/26659.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/26659.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/26659.html",
     "reading_time_minutes": 325
   },
   {
@@ -2195,8 +2195,8 @@
     "author": "Friedrich Nietzsche",
     "category": "Philosophy",
     "description": "Nietzsche breaks with Wagner and Romanticism in this aphoristic work.",
-    "cover": "https://www.gutenberg.org/cache/epub/38145/pg38145.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/38145.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/38145.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/38145.html",
     "reading_time_minutes": 118
   },
   {
@@ -2205,8 +2205,8 @@
     "author": "Friedrich Nietzsche",
     "category": "Philosophy",
     "description": "Apollo vs Dionysus — Nietzsche's theory of art and Greek culture.",
-    "cover": "https://www.gutenberg.org/cache/epub/51356/pg51356.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/51356.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/51356.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/51356.html",
     "reading_time_minutes": 178
   },
   {
@@ -2215,8 +2215,8 @@
     "author": "Søren Kierkegaard",
     "category": "Philosophy",
     "description": "The aesthetic versus the ethical life — Kierkegaard's first masterwork.",
-    "cover": "https://www.gutenberg.org/cache/epub/4070/pg4070.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/4070.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/4070.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/4070.html",
     "reading_time_minutes": 114
   },
   {
@@ -2225,8 +2225,8 @@
     "author": "Karl Marx",
     "category": "Philosophy",
     "description": "A rigorous analysis of capitalism, commodities, and exploitation.",
-    "cover": "https://www.gutenberg.org/cache/epub/46/pg46.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/46.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/46.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/46.html",
     "reading_time_minutes": 107
   },
   {
@@ -2235,8 +2235,8 @@
     "author": "G.W.F. Hegel",
     "category": "Philosophy",
     "description": "Consciousness's journey to Absolute Knowledge in Hegel's masterwork.",
-    "cover": "https://www.gutenberg.org/cache/epub/12536/pg12536.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/12536.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/12536.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/12536.html",
     "reading_time_minutes": 51
   },
   {
@@ -2245,8 +2245,8 @@
     "author": "Charles Boardman Hawes",
     "category": "Adventure",
     "description": "A young sailor joins a voyage plagued by mutiny on the high seas.",
-    "cover": "https://www.gutenberg.org/cache/epub/9657/pg9657.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/9657.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/9657.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/9657.html",
     "reading_time_minutes": 220
   },
   {
@@ -2255,8 +2255,8 @@
     "author": "Robert Burns",
     "category": "Poetry",
     "description": "Auld Lang Syne and other beloved Scottish poems and songs.",
-    "cover": "https://www.gutenberg.org/cache/epub/1279/pg1279.cover.medium.jpg",
-    "content_url": "https://YOUR_CLOUDFLARE_DOMAIN/books/1279.html",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1279.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1279.html",
     "reading_time_minutes": 524
   }
 ]
