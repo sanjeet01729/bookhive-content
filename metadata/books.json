@@ -2936,5 +2936,1335 @@
     "year": 1800,
     "popularity": 70,
     "rating": 4.5
+  },
+  {
+    "id": "731",
+    "title": "The Decline and Fall of the Roman Empire",
+    "author": "Edward Gibbon",
+    "category": "History",
+    "description": "The monumental history of Rome's fall across thirteen centuries.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/731.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/731.html",
+    "reading_time_minutes": 1047
+  },
+  {
+    "id": "2456",
+    "title": "The Histories",
+    "author": "Herodotus",
+    "category": "History",
+    "description": "The father of history chronicles the Greco-Persian Wars.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2456.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2456.html",
+    "reading_time_minutes": 511
+  },
+  {
+    "id": "7142",
+    "title": "History of the Peloponnesian War",
+    "author": "Thucydides",
+    "category": "History",
+    "description": "The brutal war between Athens and Sparta told by an eyewitness.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/7142.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/7142.html",
+    "reading_time_minutes": 582
+  },
+  {
+    "id": "674",
+    "title": "Plutarch's Lives",
+    "author": "Plutarch",
+    "category": "History",
+    "description": "Parallel biographies of great Greeks and Romans compared side by side.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/674.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/674.html",
+    "reading_time_minutes": 2117
+  },
+  {
+    "id": "10657",
+    "title": "The Gallic Wars",
+    "author": "Julius Caesar",
+    "category": "History",
+    "description": "Caesar's own account of his conquest of Gaul — brilliant propaganda.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/10657.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/10657.html",
+    "reading_time_minutes": 461
+  },
+  {
+    "id": "16927",
+    "title": "Annals of Imperial Rome",
+    "author": "Tacitus",
+    "category": "History",
+    "description": "The dark reigns of Tiberius, Claudius, and Nero laid bare.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/16927.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/16927.html",
+    "reading_time_minutes": 559
+  },
+  {
+    "id": "132",
+    "title": "The Art of War",
+    "author": "Sun Tzu",
+    "category": "History",
+    "description": "Ancient Chinese military strategy still studied by generals today.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/132.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/132.html",
+    "reading_time_minutes": 167
+  },
+  {
+    "id": "147",
+    "title": "Common Sense",
+    "author": "Thomas Paine",
+    "category": "History",
+    "description": "The pamphlet that ignited the American Revolution in 1776.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/147.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/147.html",
+    "reading_time_minutes": 74
+  },
+  {
+    "id": "1404",
+    "title": "The Federalist Papers",
+    "author": "Hamilton, Madison, Jay",
+    "category": "History",
+    "description": "The intellectual foundation of the United States Constitution.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1404.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1404.html",
+    "reading_time_minutes": 640
+  },
+  {
+    "id": "816",
+    "title": "Democracy in America",
+    "author": "Alexis de Tocqueville",
+    "category": "History",
+    "description": "A Frenchman's brilliant analysis of American democracy in the 1830s.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/816.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/816.html",
+    "reading_time_minutes": 470
+  },
+  {
+    "id": "41654",
+    "title": "The History of England",
+    "author": "David Hume",
+    "category": "History",
+    "description": "Hume's sweeping narrative of England from Julius Caesar to 1688.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/41654.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/41654.html",
+    "reading_time_minutes": 240
+  },
+  {
+    "id": "19725",
+    "title": "A History of Rome",
+    "author": "Livy",
+    "category": "History",
+    "description": "Rome's legendary history from founding to the early Republic.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/19725.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/19725.html",
+    "reading_time_minutes": 732
+  },
+  {
+    "id": "1157",
+    "title": "The Conquest of Mexico",
+    "author": "William Prescott",
+    "category": "History",
+    "description": "Cortés and the dramatic fall of the Aztec Empire.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1157.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1157.html",
+    "reading_time_minutes": 110
+  },
+  {
+    "id": "1158",
+    "title": "The Conquest of Peru",
+    "author": "William Prescott",
+    "category": "History",
+    "description": "Pizarro's brutal conquest of the Inca civilization.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1158.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1158.html",
+    "reading_time_minutes": 226
+  },
+  {
+    "id": "1044",
+    "title": "The French Revolution",
+    "author": "Thomas Carlyle",
+    "category": "History",
+    "description": "Carlyle's passionate and vivid history of revolutionary France.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1044.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1044.html",
+    "reading_time_minutes": 44
+  },
+  {
+    "id": "3076",
+    "title": "Ten Days That Shook the World",
+    "author": "John Reed",
+    "category": "History",
+    "description": "An American journalist's eyewitness account of the Russian Revolution.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/3076.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/3076.html",
+    "reading_time_minutes": 398
+  },
+  {
+    "id": "13529",
+    "title": "The Influence of Sea Power Upon History",
+    "author": "Alfred Mahan",
+    "category": "History",
+    "description": "The book that convinced nations to build modern naval empires.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/13529.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/13529.html",
+    "reading_time_minutes": 758
+  },
+  {
+    "id": "45368",
+    "title": "The Outline of History",
+    "author": "H.G. Wells",
+    "category": "History",
+    "description": "Wells's ambitious attempt to tell the entire history of humanity.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/45368.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/45368.html",
+    "reading_time_minutes": 1765
+  },
+  {
+    "id": "35461",
+    "title": "A Short History of the World",
+    "author": "H.G. Wells",
+    "category": "History",
+    "description": "A condensed version of Wells's grand historical narrative.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/35461.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/35461.html",
+    "reading_time_minutes": 535
+  },
+  {
+    "id": "4367",
+    "title": "Personal Memoirs of Ulysses Grant",
+    "author": "Ulysses S. Grant",
+    "category": "History",
+    "description": "One of the greatest military memoirs ever written, finished days before death.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/4367.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/4367.html",
+    "reading_time_minutes": 817
+  },
+  {
+    "id": "2376",
+    "title": "Up From Slavery",
+    "author": "Booker T. Washington",
+    "category": "History",
+    "description": "Washington's inspiring account of rising from slavery to prominence.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2376.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2376.html",
+    "reading_time_minutes": 214
+  },
+  {
+    "id": "408",
+    "title": "The Souls of Black Folk",
+    "author": "W.E.B. Du Bois",
+    "category": "History",
+    "description": "Du Bois's landmark essays on race, identity, and the color line.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/408.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/408.html",
+    "reading_time_minutes": 204
+  },
+  {
+    "id": "140",
+    "title": "The Jungle",
+    "author": "Upton Sinclair",
+    "category": "History",
+    "description": "The exposé of Chicago's meatpacking industry that shocked a nation.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/140.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/140.html",
+    "reading_time_minutes": 408
+  },
+  {
+    "id": "3300",
+    "title": "The Wealth of Nations",
+    "author": "Adam Smith",
+    "category": "History",
+    "description": "The founding text of modern economics and capitalism.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/3300.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/3300.html",
+    "reading_time_minutes": 1114
+  },
+  {
+    "id": "1228",
+    "title": "The Origin of Species",
+    "author": "Charles Darwin",
+    "category": "History",
+    "description": "The book that changed everything — natural selection explained.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1228.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1228.html",
+    "reading_time_minutes": 489
+  },
+  {
+    "id": "944",
+    "title": "The Voyage of the Beagle",
+    "author": "Charles Darwin",
+    "category": "History",
+    "description": "Darwin's journal of the expedition that led to his theory of evolution.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/944.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/944.html",
+    "reading_time_minutes": 665
+  },
+  {
+    "id": "30155",
+    "title": "Relativity",
+    "author": "Albert Einstein",
+    "category": "History",
+    "description": "Einstein explains his revolutionary theories in his own words.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/30155.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/30155.html",
+    "reading_time_minutes": 105
+  },
+  {
+    "id": "41082",
+    "title": "The Golden Bough",
+    "author": "James Frazer",
+    "category": "History",
+    "description": "A landmark study of mythology, magic, and religion across cultures.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/41082.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/41082.html",
+    "reading_time_minutes": 796
+  },
+  {
+    "id": "10842",
+    "title": "The History of Rome",
+    "author": "Theodor Mommsen",
+    "category": "History",
+    "description": "The Nobel Prize-winning history of the Roman Republic.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/10842.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/10842.html",
+    "reading_time_minutes": 275
+  },
+  {
+    "id": "1089",
+    "title": "Caesar and Cleopatra",
+    "author": "George Bernard Shaw",
+    "category": "History",
+    "description": "Shaw's witty reimagining of Caesar's encounter with young Cleopatra.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1089.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1089.html",
+    "reading_time_minutes": 156
+  },
+  {
+    "id": "16845",
+    "title": "Napoleon Bonaparte",
+    "author": "Jacob Abbott",
+    "category": "History",
+    "description": "A concise and readable biography of the great French emperor.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/16845.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/16845.html",
+    "reading_time_minutes": 30
+  },
+  {
+    "id": "16396",
+    "title": "Julius Caesar",
+    "author": "Jacob Abbott",
+    "category": "History",
+    "description": "Abbott's accessible life of Rome's most famous general and statesman.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/16396.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/16396.html",
+    "reading_time_minutes": 95
+  },
+  {
+    "id": "3016",
+    "title": "The Life of Napoleon Bonaparte",
+    "author": "William Sloane",
+    "category": "History",
+    "description": "A comprehensive biography of Napoleon from Corsica to Saint Helena.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/3016.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/3016.html",
+    "reading_time_minutes": 190
+  },
+  {
+    "id": "22910",
+    "title": "Ancient Law",
+    "author": "Henry Maine",
+    "category": "History",
+    "description": "A landmark study of how ancient legal systems shaped modern society.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/22910.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/22910.html",
+    "reading_time_minutes": 312
+  },
+  {
+    "id": "2707",
+    "title": "The History of Herodotus Vol 2",
+    "author": "Herodotus",
+    "category": "History",
+    "description": "The second volume of the father of history's great work.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2707.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2707.html",
+    "reading_time_minutes": 544
+  },
+  {
+    "id": "31992",
+    "title": "The French Revolution",
+    "author": "Hilaire Belloc",
+    "category": "History",
+    "description": "Belloc's Catholic perspective on the causes and course of the Revolution.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/31992.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/31992.html",
+    "reading_time_minutes": 121
+  },
+  {
+    "id": "41214",
+    "title": "Totem and Taboo",
+    "author": "Sigmund Freud",
+    "category": "History",
+    "description": "Freud applies psychoanalysis to the origins of religion and society.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/41214.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/41214.html",
+    "reading_time_minutes": 220
+  },
+  {
+    "id": "33994",
+    "title": "The Interpretation of Dreams",
+    "author": "Sigmund Freud",
+    "category": "History",
+    "description": "Freud's revolutionary theory of the unconscious mind through dreams.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/33994.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/33994.html",
+    "reading_time_minutes": 335
+  },
+  {
+    "id": "16411",
+    "title": "The Protestant Ethic",
+    "author": "Max Weber",
+    "category": "History",
+    "description": "How Calvinist theology accidentally created modern capitalism.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/16411.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/16411.html",
+    "reading_time_minutes": 242
+  },
+  {
+    "id": "4370",
+    "title": "Lincoln's Speeches",
+    "author": "Abraham Lincoln",
+    "category": "History",
+    "description": "The Gettysburg Address and other defining speeches of Lincoln's presidency.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/4370.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/4370.html",
+    "reading_time_minutes": 252
+  },
+  {
+    "id": "1250",
+    "title": "The Interesting Narrative",
+    "author": "Olaudah Equiano",
+    "category": "History",
+    "description": "The remarkable autobiography of a formerly enslaved African man.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1250.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1250.html",
+    "reading_time_minutes": 56
+  },
+  {
+    "id": "6408",
+    "title": "The Life of Charlemagne",
+    "author": "Einhard",
+    "category": "History",
+    "description": "A contemporary biography of the man who united medieval Europe.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/6408.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/6408.html",
+    "reading_time_minutes": 381
+  },
+  {
+    "id": "2182",
+    "title": "The Travels of Marco Polo",
+    "author": "Marco Polo",
+    "category": "History",
+    "description": "The medieval merchant's astonishing account of the Mongol Empire and China.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2182.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2182.html",
+    "reading_time_minutes": 252
+  },
+  {
+    "id": "1661",
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "category": "Mystery",
+    "description": "The world's greatest detective in twelve unforgettable cases.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1661.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1661.html",
+    "reading_time_minutes": 298
+  },
+  {
+    "id": "2852",
+    "title": "The Hound of the Baskervilles",
+    "author": "Arthur Conan Doyle",
+    "category": "Mystery",
+    "description": "Holmes investigates a supernatural curse on an ancient family.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2852.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2852.html",
+    "reading_time_minutes": 188
+  },
+  {
+    "id": "244",
+    "title": "A Study in Scarlet",
+    "author": "Arthur Conan Doyle",
+    "category": "Mystery",
+    "description": "The first meeting of Holmes and Watson — and their first murder case.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/244.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/244.html",
+    "reading_time_minutes": 127
+  },
+  {
+    "id": "834",
+    "title": "The Memoirs of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "category": "Mystery",
+    "description": "More cases including the death of Holmes at Reichenbach Falls.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/834.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/834.html",
+    "reading_time_minutes": 281
+  },
+  {
+    "id": "108",
+    "title": "The Return of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "category": "Mystery",
+    "description": "Holmes returns from the dead and solves thirteen new cases.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/108.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/108.html",
+    "reading_time_minutes": 349
+  },
+  {
+    "id": "2350",
+    "title": "His Last Bow",
+    "author": "Arthur Conan Doyle",
+    "category": "Mystery",
+    "description": "Holmes comes out of retirement to catch a German spy before WWI.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2350.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2350.html",
+    "reading_time_minutes": 176
+  },
+  {
+    "id": "3289",
+    "title": "The Valley of Fear",
+    "author": "Arthur Conan Doyle",
+    "category": "Mystery",
+    "description": "Holmes investigates a murder with connections to a secret society.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/3289.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/3289.html",
+    "reading_time_minutes": 175
+  },
+  {
+    "id": "863",
+    "title": "The Mysterious Affair at Styles",
+    "author": "Agatha Christie",
+    "category": "Mystery",
+    "description": "Hercule Poirot's first case — a poisoning in an English country house.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/863.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/863.html",
+    "reading_time_minutes": 174
+  },
+  {
+    "id": "1155",
+    "title": "The Secret Adversary",
+    "author": "Agatha Christie",
+    "category": "Mystery",
+    "description": "Tommy and Tuppence investigate a missing girl and stolen documents.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1155.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1155.html",
+    "reading_time_minutes": 237
+  },
+  {
+    "id": "58866",
+    "title": "The Murder on the Links",
+    "author": "Agatha Christie",
+    "category": "Mystery",
+    "description": "Poirot investigates a murder on a French golf course.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/58866.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/58866.html",
+    "reading_time_minutes": 200
+  },
+  {
+    "id": "61262",
+    "title": "Poirot Investigates",
+    "author": "Agatha Christie",
+    "category": "Mystery",
+    "description": "Fourteen short cases for the little grey cells of Hercule Poirot.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/61262.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/61262.html",
+    "reading_time_minutes": 167
+  },
+  {
+    "id": "1064",
+    "title": "The Red House Mystery",
+    "author": "A.A. Milne",
+    "category": "Mystery",
+    "description": "A clever amateur detective solves a murder at an English country house.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1064.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1064.html",
+    "reading_time_minutes": 30
+  },
+  {
+    "id": "7964",
+    "title": "Trent's Last Case",
+    "author": "E.C. Bentley",
+    "category": "Mystery",
+    "description": "The book that humanized the detective — a landmark of the genre.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/7964.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/7964.html",
+    "reading_time_minutes": 140
+  },
+  {
+    "id": "3090",
+    "title": "The Mystery of the Yellow Room",
+    "author": "Gaston Leroux",
+    "category": "Mystery",
+    "description": "A locked room mystery considered one of the finest ever written.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/3090.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/3090.html",
+    "reading_time_minutes": 1599
+  },
+  {
+    "id": "175",
+    "title": "The Phantom of the Opera",
+    "author": "Gaston Leroux",
+    "category": "Mystery",
+    "description": "A disfigured musical genius haunts the Paris Opera House.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/175.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/175.html",
+    "reading_time_minutes": 249
+  },
+  {
+    "id": "1740",
+    "title": "The Moonstone",
+    "author": "Wilkie Collins",
+    "category": "Mystery",
+    "description": "The first detective novel in the English language.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1740.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1740.html",
+    "reading_time_minutes": 245
+  },
+  {
+    "id": "583",
+    "title": "The Woman in White",
+    "author": "Wilkie Collins",
+    "category": "Mystery",
+    "description": "A spine-chilling tale of identity theft and conspiracy.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/583.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/583.html",
+    "reading_time_minutes": 683
+  },
+  {
+    "id": "11983",
+    "title": "The Big Bow Mystery",
+    "author": "Israel Zangwill",
+    "category": "Mystery",
+    "description": "The original locked room murder mystery that defined a genre.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/11983.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/11983.html",
+    "reading_time_minutes": 41
+  },
+  {
+    "id": "2038",
+    "title": "Martin Hewitt Investigator",
+    "author": "Arthur Morrison",
+    "category": "Mystery",
+    "description": "Victorian London's other great detective takes on eight cases.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2038.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2038.html",
+    "reading_time_minutes": 349
+  },
+  {
+    "id": "2389",
+    "title": "The Thinking Machine",
+    "author": "Jacques Futrelle",
+    "category": "Mystery",
+    "description": "Professor Van Dusen solves seemingly impossible problems by pure logic.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2389.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2389.html",
+    "reading_time_minutes": 244
+  },
+  {
+    "id": "4768",
+    "title": "The Burglar Who...",
+    "author": "Various",
+    "category": "Mystery",
+    "description": "Classic tales of gentleman thieves and clever criminals.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/4768.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/4768.html",
+    "reading_time_minutes": 30
+  },
+  {
+    "id": "2328",
+    "title": "The Illustrious Client",
+    "author": "Arthur Conan Doyle",
+    "category": "Mystery",
+    "description": "Holmes faces his most dangerous human opponent in this late case.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2328.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2328.html",
+    "reading_time_minutes": 30
+  },
+  {
+    "id": "2148",
+    "title": "The Gold Bug and Other Tales",
+    "author": "Edgar Allan Poe",
+    "category": "Mystery",
+    "description": "Poe's detective Dupin solves the first great locked room mystery.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2148.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2148.html",
+    "reading_time_minutes": 303
+  },
+  {
+    "id": "70",
+    "title": "The Mystery of Marie Roget",
+    "author": "Edgar Allan Poe",
+    "category": "Mystery",
+    "description": "Dupin solves a real-life murder mystery from an armchair.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/70.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/70.html",
+    "reading_time_minutes": 278
+  },
+  {
+    "id": "8129",
+    "title": "The Rome Express",
+    "author": "Arthur Griffiths",
+    "category": "Mystery",
+    "description": "Murder on a train from Rome to Paris — an early thriller classic.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/8129.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/8129.html",
+    "reading_time_minutes": 97
+  },
+  {
+    "id": "1743",
+    "title": "The Leavenworth Case",
+    "author": "Anna Katharine Green",
+    "category": "Mystery",
+    "description": "The first detective novel written by an American woman.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1743.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1743.html",
+    "reading_time_minutes": 232
+  },
+  {
+    "id": "4017",
+    "title": "That Affair Next Door",
+    "author": "Anna Katharine Green",
+    "category": "Mystery",
+    "description": "An elderly spinster becomes an unlikely amateur detective.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/4017.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/4017.html",
+    "reading_time_minutes": 201
+  },
+  {
+    "id": "2756",
+    "title": "The Circular Staircase",
+    "author": "Mary Roberts Rinehart",
+    "category": "Mystery",
+    "description": "A woman rents a country house and finds it full of dark secrets.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2756.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2756.html",
+    "reading_time_minutes": 76
+  },
+  {
+    "id": "2587",
+    "title": "The Man in Lower Ten",
+    "author": "Mary Roberts Rinehart",
+    "category": "Mystery",
+    "description": "A lawyer wakes on a train to find a dead man in his sleeping berth.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2587.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2587.html",
+    "reading_time_minutes": 57
+  },
+  {
+    "id": "2097",
+    "title": "Arsene Lupin Gentleman Burglar",
+    "author": "Maurice Leblanc",
+    "category": "Mystery",
+    "description": "France's most charming thief outwits police and amuses readers.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2097.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2097.html",
+    "reading_time_minutes": 119
+  },
+  {
+    "id": "6133",
+    "title": "Arsene Lupin vs Sherlock Holmes",
+    "author": "Maurice Leblanc",
+    "category": "Mystery",
+    "description": "The ultimate detective showdown — Paris's thief vs London's detective.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/6133.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/6133.html",
+    "reading_time_minutes": 163
+  },
+  {
+    "id": "3037",
+    "title": "Hand and Ring",
+    "author": "Anna Katharine Green",
+    "category": "Mystery",
+    "description": "A district attorney investigates a murder in upstate New York.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/3037.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/3037.html",
+    "reading_time_minutes": 125
+  },
+  {
+    "id": "4655",
+    "title": "The Bat",
+    "author": "Mary Roberts Rinehart",
+    "category": "Mystery",
+    "description": "A mysterious killer terrorizes guests in a rented country mansion.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/4655.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/4655.html",
+    "reading_time_minutes": 90
+  },
+  {
+    "id": "11560",
+    "title": "The Four Just Men",
+    "author": "Edgar Wallace",
+    "category": "Mystery",
+    "description": "Four vigilantes threaten to kill a British minister — can police stop them?",
+    "cover": "https://bookhive-content.pages.dev/book_cover/11560.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/11560.html",
+    "reading_time_minutes": 36
+  },
+  {
+    "id": "3126",
+    "title": "The Clue of the Twisted Candle",
+    "author": "Edgar Wallace",
+    "category": "Mystery",
+    "description": "Wallace's master detective John Reeder takes on a baffling case.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/3126.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/3126.html",
+    "reading_time_minutes": 102
+  },
+  {
+    "id": "22364",
+    "title": "The Secret of the Old Clock",
+    "author": "Various",
+    "category": "Mystery",
+    "description": "Classic tales of hidden wills and family secrets.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/22364.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/22364.html",
+    "reading_time_minutes": 187
+  },
+  {
+    "id": "2183",
+    "title": "The Mystery of the Hasty Arrow",
+    "author": "Anna Katharine Green",
+    "category": "Mystery",
+    "description": "A museum murder with a labyrinthine plot and brilliant solution.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2183.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2183.html",
+    "reading_time_minutes": 192
+  },
+  {
+    "id": "1845",
+    "title": "The Expressman and the Detective",
+    "author": "Allan Pinkerton",
+    "category": "Mystery",
+    "description": "Real cases from America's first and most famous private detective.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1845.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1845.html",
+    "reading_time_minutes": 259
+  },
+  {
+    "id": "5140",
+    "title": "The Expressman",
+    "author": "Allan Pinkerton",
+    "category": "Mystery",
+    "description": "Pinkerton recounts his most daring real-life detective cases.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/5140.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/5140.html",
+    "reading_time_minutes": 953
+  },
+  {
+    "id": "2136",
+    "title": "Nick Carter Detective",
+    "author": "Various",
+    "category": "Mystery",
+    "description": "America's most popular fictional detective in his early adventures.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2136.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2136.html",
+    "reading_time_minutes": 49
+  },
+  {
+    "id": "1629",
+    "title": "The Mystery of Room 75",
+    "author": "Various",
+    "category": "Mystery",
+    "description": "Classic locked room mysteries from the golden age of detective fiction.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1629.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1629.html",
+    "reading_time_minutes": 400
+  },
+  {
+    "id": "5001",
+    "title": "The Descent of Man",
+    "author": "Charles Darwin",
+    "category": "Science",
+    "description": "Darwin applies evolution to human origins and sexual selection.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/5001.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/5001.html",
+    "reading_time_minutes": 123
+  },
+  {
+    "id": "271",
+    "title": "The Expression of the Emotions",
+    "author": "Charles Darwin",
+    "category": "Science",
+    "description": "Darwin's pioneering study of emotional expression in humans and animals.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/271.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/271.html",
+    "reading_time_minutes": 174
+  },
+  {
+    "id": "14160",
+    "title": "Micrographia",
+    "author": "Robert Hooke",
+    "category": "Science",
+    "description": "The first great work of microscopy — Hooke discovers the cell.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/14160.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/14160.html",
+    "reading_time_minutes": 35
+  },
+  {
+    "id": "16287",
+    "title": "The Principles of Psychology",
+    "author": "William James",
+    "category": "Science",
+    "description": "The founding text of American psychology by its greatest pioneer.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/16287.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/16287.html",
+    "reading_time_minutes": 186
+  },
+  {
+    "id": "4065",
+    "title": "The World I Live In",
+    "author": "Helen Keller",
+    "category": "Science",
+    "description": "Helen Keller's extraordinary account of perceiving the world without sight or hearing.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/4065.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/4065.html",
+    "reading_time_minutes": 286
+  },
+  {
+    "id": "6321",
+    "title": "Natural Selection and Tropical Nature",
+    "author": "Alfred Russel Wallace",
+    "category": "Science",
+    "description": "The co-discoverer of evolution explains natural selection.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/6321.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/6321.html",
+    "reading_time_minutes": 347
+  },
+  {
+    "id": "7116",
+    "title": "Man's Place in Nature",
+    "author": "Thomas Huxley",
+    "category": "Science",
+    "description": "Darwin's bulldog argues for humanity's place in the animal kingdom.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/7116.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/7116.html",
+    "reading_time_minutes": 249
+  },
+  {
+    "id": "1433",
+    "title": "Opticks",
+    "author": "Isaac Newton",
+    "category": "Science",
+    "description": "Newton's groundbreaking experiments with light and color.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1433.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1433.html",
+    "reading_time_minutes": 42
+  },
+  {
+    "id": "28233",
+    "title": "Experiment and Theory in Physics",
+    "author": "Max Born",
+    "category": "Science",
+    "description": "A Nobel laureate reflects on the philosophical foundations of physics.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/28233.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/28233.html",
+    "reading_time_minutes": 537
+  },
+  {
+    "id": "8517",
+    "title": "The ABC of Atoms",
+    "author": "Bertrand Russell",
+    "category": "Science",
+    "description": "Russell explains atomic theory and quantum mechanics simply.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/8517.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/8517.html",
+    "reading_time_minutes": 210
+  },
+  {
+    "id": "1339",
+    "title": "The Birth and Development of the Geological Sciences",
+    "author": "Frank Adams",
+    "category": "Science",
+    "description": "How humanity learned to read the history written in rocks.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1339.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1339.html",
+    "reading_time_minutes": 42
+  },
+  {
+    "id": "4657",
+    "title": "The Mysterious Universe",
+    "author": "James Jeans",
+    "category": "Science",
+    "description": "A leading physicist explains the strange new world of quantum theory.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/4657.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/4657.html",
+    "reading_time_minutes": 445
+  },
+  {
+    "id": "7937",
+    "title": "The Evolution of Man",
+    "author": "Ernst Haeckel",
+    "category": "Science",
+    "description": "Haeckel's influential and controversial theory of human evolution.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/7937.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/7937.html",
+    "reading_time_minutes": 213
+  },
+  {
+    "id": "1039",
+    "title": "The Chemical History of a Candle",
+    "author": "Michael Faraday",
+    "category": "Science",
+    "description": "Six lectures turning a candle flame into a complete course in chemistry.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1039.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1039.html",
+    "reading_time_minutes": 937
+  },
+  {
+    "id": "14228",
+    "title": "On the Magnet",
+    "author": "William Gilbert",
+    "category": "Science",
+    "description": "The first great work of experimental science — the study of magnetism.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/14228.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/14228.html",
+    "reading_time_minutes": 153
+  },
+  {
+    "id": "9296",
+    "title": "The New Atlantis",
+    "author": "Francis Bacon",
+    "category": "Science",
+    "description": "Bacon's vision of a utopian scientific research institution.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/9296.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/9296.html",
+    "reading_time_minutes": 330
+  },
+  {
+    "id": "45130",
+    "title": "Science and Method",
+    "author": "Henri Poincare",
+    "category": "Science",
+    "description": "A great mathematician reflects on how scientists actually discover things.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/45130.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/45130.html",
+    "reading_time_minutes": 546
+  },
+  {
+    "id": "36299",
+    "title": "The Grammar of Science",
+    "author": "Karl Pearson",
+    "category": "Science",
+    "description": "A rigorous analysis of the scientific method and its foundations.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/36299.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/36299.html",
+    "reading_time_minutes": 821
+  },
+  {
+    "id": "16712",
+    "title": "Sidelights on Relativity",
+    "author": "Albert Einstein",
+    "category": "Science",
+    "description": "Two accessible lectures by Einstein on ether and relativity.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/16712.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/16712.html",
+    "reading_time_minutes": 78
+  },
+  {
+    "id": "3995",
+    "title": "The Malay Archipelago",
+    "author": "Alfred Russel Wallace",
+    "category": "Science",
+    "description": "Wallace's eight-year expedition that led to his theory of evolution.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/3995.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/3995.html",
+    "reading_time_minutes": 167
+  },
+  {
+    "id": "1013",
+    "title": "A Naturalist's Voyage Round the World",
+    "author": "Charles Darwin",
+    "category": "Science",
+    "description": "The popular edition of Darwin's Beagle journal for general readers.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1013.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1013.html",
+    "reading_time_minutes": 196
+  },
+  {
+    "id": "2181",
+    "title": "The Physics",
+    "author": "Aristotle",
+    "category": "Science",
+    "description": "Aristotle's fundamental inquiry into nature, motion, and causation.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2181.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2181.html",
+    "reading_time_minutes": 204
+  },
+  {
+    "id": "14725",
+    "title": "Hippocratic Writings",
+    "author": "Hippocrates",
+    "category": "Science",
+    "description": "The father of medicine on diagnosis, treatment, and medical ethics.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/14725.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/14725.html",
+    "reading_time_minutes": 115
+  },
+  {
+    "id": "9083",
+    "title": "The Elements",
+    "author": "Euclid",
+    "category": "Science",
+    "description": "The most influential mathematics textbook ever written.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/9083.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/9083.html",
+    "reading_time_minutes": 31
+  },
+  {
+    "id": "35802",
+    "title": "The Wonders of the Telescope",
+    "author": "Gaston Tissandier",
+    "category": "Science",
+    "description": "A Victorian guide to the universe as revealed by the telescope.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/35802.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/35802.html",
+    "reading_time_minutes": 119
+  },
+  {
+    "id": "1368",
+    "title": "Autobiography of John Stuart Mill",
+    "author": "John Stuart Mill",
+    "category": "Biography",
+    "description": "Mill's account of his extraordinary education and intellectual life.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1368.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1368.html",
+    "reading_time_minutes": 339
+  },
+  {
+    "id": "1690",
+    "title": "My Bondage and My Freedom",
+    "author": "Frederick Douglass",
+    "category": "Biography",
+    "description": "Douglass's second autobiography — more political and more defiant.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1690.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1690.html",
+    "reading_time_minutes": 291
+  },
+  {
+    "id": "6383",
+    "title": "The Life of Charlotte Brontë",
+    "author": "Elizabeth Gaskell",
+    "category": "Biography",
+    "description": "Gaskell's intimate biography of her friend and fellow novelist.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/6383.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/6383.html",
+    "reading_time_minutes": 82
+  },
+  {
+    "id": "2780",
+    "title": "The Journal of John Woolman",
+    "author": "John Woolman",
+    "category": "Biography",
+    "description": "The gentle Quaker abolitionist's spiritual diary and travels.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2780.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2780.html",
+    "reading_time_minutes": 297
+  },
+  {
+    "id": "2800",
+    "title": "Walden",
+    "author": "Henry David Thoreau",
+    "category": "Biography",
+    "description": "Two years alone in the woods — the classic experiment in simple living.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2800.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2800.html",
+    "reading_time_minutes": 549
+  },
+  {
+    "id": "1744",
+    "title": "Life of Johnson",
+    "author": "James Boswell",
+    "category": "Biography",
+    "description": "The greatest biography in the English language — Johnson brought to life.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1744.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1744.html",
+    "reading_time_minutes": 148
+  },
+  {
+    "id": "9745",
+    "title": "The Diary of a Nobody",
+    "author": "George Grossmith",
+    "category": "Biography",
+    "description": "The comic diary of a pompous Victorian clerk — a beloved classic.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/9745.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/9745.html",
+    "reading_time_minutes": 273
+  },
+  {
+    "id": "1265",
+    "title": "The Letters of Pliny the Younger",
+    "author": "Pliny the Younger",
+    "category": "Biography",
+    "description": "Letters from ancient Rome including the eruption of Vesuvius.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1265.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1265.html",
+    "reading_time_minutes": 284
+  },
+  {
+    "id": "5765",
+    "title": "My Reminiscences",
+    "author": "Rabindranath Tagore",
+    "category": "Biography",
+    "description": "The Nobel laureate's memoir of his Bengali childhood and artistic awakening.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/5765.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/5765.html",
+    "reading_time_minutes": 472
+  },
+  {
+    "id": "1524",
+    "title": "Self-Help",
+    "author": "Samuel Smiles",
+    "category": "Self-Help",
+    "description": "The Victorian bestseller that invented the self-help genre.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/1524.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/1524.html",
+    "reading_time_minutes": 121
+  },
+  {
+    "id": "935",
+    "title": "The Importance of Being Earnest",
+    "author": "Oscar Wilde",
+    "category": "Self-Help",
+    "description": "Wilde's wit as wisdom — lessons on honesty, identity, and living freely.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/935.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/935.html",
+    "reading_time_minutes": 419
+  },
+  {
+    "id": "17037",
+    "title": "History of the English People, Vol I",
+    "author": "John Richard Green",
+    "category": "History",
+    "description": "The definitive text outlining the early conquest of Britain and early kingdoms.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/17037.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/17037.html",
+    "reading_time_minutes": 277
+  },
+  {
+    "id": "17192",
+    "title": "Makers of Many Things",
+    "author": "Eva March Tappan",
+    "category": "History",
+    "description": "How ordinary people shaped history through invention and industry.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/17192.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/17192.html",
+    "reading_time_minutes": 46
+  },
+  {
+    "id": "3053",
+    "title": "Two Years Before the Mast",
+    "author": "Richard Henry Dana Jr.",
+    "category": "History",
+    "description": "A Harvard man's account of working as a common sailor around Cape Horn.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/3053.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/3053.html",
+    "reading_time_minutes": 155
+  },
+  {
+    "id": "31252",
+    "title": "The Diary of Samuel Pepys",
+    "author": "Samuel Pepys",
+    "category": "History",
+    "description": "An intimate eyewitness to the Great Fire of London and the Restoration Court.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/31252.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/31252.html",
+    "reading_time_minutes": 153
+  },
+  {
+    "id": "10118",
+    "title": "The Origin of Civilisation",
+    "author": "John Lubbock",
+    "category": "Science",
+    "description": "A Victorian scientist traces the development of human civilization.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/10118.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/10118.html",
+    "reading_time_minutes": 236
+  },
+  {
+    "id": "27378",
+    "title": "The Story of the Heavens",
+    "author": "Robert Ball",
+    "category": "Science",
+    "description": "A Victorian astronomer's accessible guide to the cosmos.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/27378.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/27378.html",
+    "reading_time_minutes": 678
+  },
+  {
+    "id": "8172",
+    "title": "The History of Astronomy",
+    "author": "George Forbes",
+    "category": "Science",
+    "description": "From ancient star-gazers to Newton — the story of astronomy.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/8172.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/8172.html",
+    "reading_time_minutes": 151
+  },
+  {
+    "id": "29719",
+    "title": "On the Parts of Animals",
+    "author": "Aristotle",
+    "category": "Science",
+    "description": "Aristotle's pioneering work in comparative anatomy and zoology.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/29719.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/29719.html",
+    "reading_time_minutes": 137
+  },
+  {
+    "id": "49007",
+    "title": "The Vertebrate Skeleton",
+    "author": "Sidney Hickson",
+    "category": "Science",
+    "description": "A comparative anatomy of vertebrates from fish to humans.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/49007.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/49007.html",
+    "reading_time_minutes": 1456
+  },
+  {
+    "id": "6048",
+    "title": "The Journal of a Tour to the Hebrides",
+    "author": "James Boswell",
+    "category": "Biography",
+    "description": "Boswell's account of his Highland journey alongside Samuel Johnson.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/6048.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/6048.html",
+    "reading_time_minutes": 1630
+  },
+  {
+    "id": "5657",
+    "title": "Pepys Diary Complete",
+    "author": "Samuel Pepys",
+    "category": "Biography",
+    "description": "The full unabridged diary of London's most observant civil servant.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/5657.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/5657.html",
+    "reading_time_minutes": 39
+  },
+  {
+    "id": "654",
+    "title": "Grace Abounding to the Chief of Sinners",
+    "author": "John Bunyan",
+    "category": "Biography",
+    "description": "Bunyan's spiritual autobiography written during his prison term.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/654.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/654.html",
+    "reading_time_minutes": 171
+  },
+  {
+    "id": "2981",
+    "title": "The Memoirs of Casanova",
+    "author": "Giacomo Casanova",
+    "category": "Biography",
+    "description": "The legendary adventurer's own account of his extraordinary life.",
+    "cover": "https://bookhive-content.pages.dev/book_cover/2981.webp",
+    "content_url": "https://bookhive-content.pages.dev/books/2981.html",
+    "reading_time_minutes": 3875
   }
 ]
