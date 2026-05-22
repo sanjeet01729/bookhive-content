@@ -7,7 +7,10 @@
     "description": "A witty tale of love, class, and marriage in Georgian England.",
     "cover": "https://bookhive-content.pages.dev/book_cover/1342.webp",
     "content_url": "https://bookhive-content.pages.dev/books/1342.html",
-    "reading_time_minutes": 399
+    "reading_time_minutes": 399,
+    "year": 1813,
+    "popularity": 85,
+    "rating": 4.8
   },
   {
     "id": "84",
@@ -17,7 +20,10 @@
     "description": "A scientist creates life and must face the terrifying consequences.",
     "cover": "https://bookhive-content.pages.dev/book_cover/84.webp",
     "content_url": "https://bookhive-content.pages.dev/books/84.html",
-    "reading_time_minutes": 213
+    "reading_time_minutes": 213,
+    "year": 1818,
+    "popularity": 85,
+    "rating": 4.8
   },
   {
     "id": "1400",
@@ -27,7 +33,10 @@
     "description": "Young Pip's journey from poverty to wealth in Victorian England.",
     "cover": "https://bookhive-content.pages.dev/book_cover/1400.webp",
     "content_url": "https://bookhive-content.pages.dev/books/1400.html",
-    "reading_time_minutes": 552
+    "reading_time_minutes": 552,
+    "year": 1861,
+    "popularity": 85,
+    "rating": 4.8
   },
   {
     "id": "11",
@@ -37,7 +46,10 @@
     "description": "A girl falls into a fantastical world of strange creatures and logic.",
     "cover": "https://bookhive-content.pages.dev/book_cover/11.webp",
     "content_url": "https://bookhive-content.pages.dev/books/11.html",
-    "reading_time_minutes": 87
+    "reading_time_minutes": 87,
+    "year": 1865,
+    "popularity": 85,
+    "rating": 4.8
   },
   {
     "id": "174",
@@ -47,7 +59,10 @@
     "description": "A beautiful young man sells his soul to remain forever young.",
     "cover": "https://bookhive-content.pages.dev/book_cover/174.webp",
     "content_url": "https://bookhive-content.pages.dev/books/174.html",
-    "reading_time_minutes": 235
+    "reading_time_minutes": 235,
+    "year": 1890,
+    "popularity": 85,
+    "rating": 4.8
   },
   {
     "id": "145",
@@ -57,7 +72,10 @@
     "description": "A sweeping portrait of life in a Midlands town in the 1830s.",
     "cover": "https://bookhive-content.pages.dev/book_cover/145.webp",
     "content_url": "https://bookhive-content.pages.dev/books/145.html",
-    "reading_time_minutes": 937
+    "reading_time_minutes": 937,
+    "year": 1871,
+    "popularity": 85,
+    "rating": 4.8
   },
   {
     "id": "1260",
@@ -67,7 +85,10 @@
     "description": "An orphan governess finds love and independence against all odds.",
     "cover": "https://bookhive-content.pages.dev/book_cover/1260.webp",
     "content_url": "https://bookhive-content.pages.dev/books/1260.html",
-    "reading_time_minutes": 546
+    "reading_time_minutes": 546,
+    "year": 1847,
+    "popularity": 85,
+    "rating": 4.8
   },
   {
     "id": "768",
@@ -77,7 +98,10 @@
     "description": "A tempestuous love story set on the wild Yorkshire moors.",
     "cover": "https://bookhive-content.pages.dev/book_cover/768.webp",
     "content_url": "https://bookhive-content.pages.dev/books/768.html",
-    "reading_time_minutes": 349
+    "reading_time_minutes": 349,
+    "year": 1847,
+    "popularity": 85,
+    "rating": 4.8
   },
   {
     "id": "98",
@@ -87,7 +111,10 @@
     "description": "A story of love and sacrifice during the French Revolution.",
     "cover": "https://bookhive-content.pages.dev/book_cover/98.webp",
     "content_url": "https://bookhive-content.pages.dev/books/98.html",
-    "reading_time_minutes": 460
+    "reading_time_minutes": 460,
+    "year": 1859,
+    "popularity": 85,
+    "rating": 4.8
   },
   {
     "id": "74",
@@ -97,7 +124,10 @@
     "description": "The mischievous adventures of a young boy in the American South.",
     "cover": "https://bookhive-content.pages.dev/book_cover/74.webp",
     "content_url": "https://bookhive-content.pages.dev/books/74.html",
-    "reading_time_minutes": 260
+    "reading_time_minutes": 260,
+    "year": 1876,
+    "popularity": 85,
+    "rating": 4.8
   },
   {
     "id": "996",
@@ -107,7 +137,10 @@
     "description": "A man driven mad by chivalric romances sets out as a knight.",
     "cover": "https://bookhive-content.pages.dev/book_cover/996.webp",
     "content_url": "https://bookhive-content.pages.dev/books/996.html",
-    "reading_time_minutes": 1246
+    "reading_time_minutes": 1246,
+    "year": 1605,
+    "popularity": 85,
+    "rating": 4.5
   },
   {
     "id": "1399",
@@ -117,7 +150,10 @@
     "description": "A passionate love affair tears apart Russian aristocratic society.",
     "cover": "https://bookhive-content.pages.dev/book_cover/1399.webp",
     "content_url": "https://bookhive-content.pages.dev/books/1399.html",
-    "reading_time_minutes": 1084
+    "reading_time_minutes": 1084,
+    "year": 1877,
+    "popularity": 85,
+    "rating": 4.5
   },
   {
     "id": "2554",
@@ -127,7 +163,10 @@
     "description": "A student commits murder and is consumed by guilt and paranoia.",
     "cover": "https://bookhive-content.pages.dev/book_cover/2554.webp",
     "content_url": "https://bookhive-content.pages.dev/books/2554.html",
-    "reading_time_minutes": 680
+    "reading_time_minutes": 680,
+    "year": 1866,
+    "popularity": 85,
+    "rating": 4.5
   },
   {
     "id": "28054",
@@ -137,7 +176,10 @@
     "description": "Three brothers and a murder in a profound exploration of morality.",
     "cover": "https://bookhive-content.pages.dev/book_cover/28054.webp",
     "content_url": "https://bookhive-content.pages.dev/books/28054.html",
-    "reading_time_minutes": 1049
+    "reading_time_minutes": 1049,
+    "year": 1880,
+    "popularity": 85,
+    "rating": 4.5
   },
   {
     "id": "4300",
@@ -147,7 +189,10 @@
     "description": "A single day in Dublin told through stream of consciousness.",
     "cover": "https://bookhive-content.pages.dev/book_cover/4300.webp",
     "content_url": "https://bookhive-content.pages.dev/books/4300.html",
-    "reading_time_minutes": 800
+    "reading_time_minutes": 800,
+    "year": 1922,
+    "popularity": 85,
+    "rating": 4.5
   },
   {
     "id": "33",
@@ -157,7 +202,10 @@
     "description": "A woman bears the shame of adultery in Puritan New England.",
     "cover": "https://bookhive-content.pages.dev/book_cover/33.webp",
     "content_url": "https://bookhive-content.pages.dev/books/33.html",
-    "reading_time_minutes": 252
+    "reading_time_minutes": 252,
+    "year": 1850,
+    "popularity": 85,
+    "rating": 4.5
   },
   {
     "id": "161",
@@ -167,7 +215,10 @@
     "description": "Two sisters navigate love and heartbreak in Regency England.",
     "cover": "https://bookhive-content.pages.dev/book_cover/161.webp",
     "content_url": "https://bookhive-content.pages.dev/books/161.html",
-    "reading_time_minutes": 361
+    "reading_time_minutes": 361,
+    "year": 1811,
+    "popularity": 85,
+    "rating": 4.5
   },
   {
     "id": "158",
@@ -177,7 +228,10 @@
     "description": "A well-meaning matchmaker learns lessons about love and herself.",
     "cover": "https://bookhive-content.pages.dev/book_cover/158.webp",
     "content_url": "https://bookhive-content.pages.dev/books/158.html",
-    "reading_time_minutes": 470
+    "reading_time_minutes": 470,
+    "year": 1815,
+    "popularity": 85,
+    "rating": 4.5
   },
   {
     "id": "105",
@@ -187,7 +241,10 @@
     "description": "Anne Elliot gets a second chance at a love she once abandoned.",
     "cover": "https://bookhive-content.pages.dev/book_cover/105.webp",
     "content_url": "https://bookhive-content.pages.dev/books/105.html",
-    "reading_time_minutes": 243
+    "reading_time_minutes": 243,
+    "year": 1817,
+    "popularity": 85,
+    "rating": 4.5
   },
   {
     "id": "121",
@@ -197,7 +254,10 @@
     "description": "A young woman's Gothic imagination runs wild in Bath society.",
     "cover": "https://bookhive-content.pages.dev/book_cover/121.webp",
     "content_url": "https://bookhive-content.pages.dev/books/121.html",
-    "reading_time_minutes": 231
+    "reading_time_minutes": 231,
+    "year": 1817,
+    "popularity": 85,
+    "rating": 4.5
   },
   {
     "id": "766",
@@ -207,7 +267,10 @@
     "description": "The life and adventures of a young Victorian gentleman.",
     "cover": "https://bookhive-content.pages.dev/book_cover/766.webp",
     "content_url": "https://bookhive-content.pages.dev/books/766.html",
-    "reading_time_minutes": 1064
+    "reading_time_minutes": 1064,
+    "year": 1850,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "730",
@@ -217,7 +280,10 @@
     "description": "An orphan boy navigates London's criminal underworld.",
     "cover": "https://bookhive-content.pages.dev/book_cover/730.webp",
     "content_url": "https://bookhive-content.pages.dev/books/730.html",
-    "reading_time_minutes": 498
+    "reading_time_minutes": 498,
+    "year": 1838,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "786",
@@ -227,7 +293,10 @@
     "description": "A critique of utilitarian industrialism in Victorian England.",
     "cover": "https://bookhive-content.pages.dev/book_cover/786.webp",
     "content_url": "https://bookhive-content.pages.dev/books/786.html",
-    "reading_time_minutes": 333
+    "reading_time_minutes": 333,
+    "year": 1854,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "110",
@@ -237,7 +306,10 @@
     "description": "A pure woman destroyed by the hypocrisies of Victorian society.",
     "cover": "https://bookhive-content.pages.dev/book_cover/110.webp",
     "content_url": "https://bookhive-content.pages.dev/books/110.html",
-    "reading_time_minutes": 466
+    "reading_time_minutes": 466,
+    "year": 1891,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "107",
@@ -247,7 +319,10 @@
     "description": "An independent woman navigates three very different suitors.",
     "cover": "https://bookhive-content.pages.dev/book_cover/107.webp",
     "content_url": "https://bookhive-content.pages.dev/books/107.html",
-    "reading_time_minutes": 439
+    "reading_time_minutes": 439,
+    "year": 1874,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "122",
@@ -257,7 +332,10 @@
     "description": "Passionate characters clash against the brooding Egdon Heath.",
     "cover": "https://bookhive-content.pages.dev/book_cover/122.webp",
     "content_url": "https://bookhive-content.pages.dev/books/122.html",
-    "reading_time_minutes": 441
+    "reading_time_minutes": 441,
+    "year": 1878,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "550",
@@ -267,7 +345,10 @@
     "description": "A weaver's miserly life is transformed by an abandoned child.",
     "cover": "https://bookhive-content.pages.dev/book_cover/550.webp",
     "content_url": "https://bookhive-content.pages.dev/books/550.html",
-    "reading_time_minutes": 209
+    "reading_time_minutes": 209,
+    "year": 1861,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "2413",
@@ -277,7 +358,10 @@
     "description": "A doctor's wife seeks escape from provincial life through romance.",
     "cover": "https://bookhive-content.pages.dev/book_cover/2413.webp",
     "content_url": "https://bookhive-content.pages.dev/books/2413.html",
-    "reading_time_minutes": 398
+    "reading_time_minutes": 398,
+    "year": 1856,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "135",
@@ -287,7 +371,10 @@
     "description": "An ex-convict seeks redemption in post-revolutionary France.",
     "cover": "https://bookhive-content.pages.dev/book_cover/135.webp",
     "content_url": "https://bookhive-content.pages.dev/books/135.html",
-    "reading_time_minutes": 1779
+    "reading_time_minutes": 1779,
+    "year": 1862,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "2610",
@@ -297,7 +384,10 @@
     "description": "A deformed bell-ringer loves a beautiful gypsy dancer in Paris.",
     "cover": "https://bookhive-content.pages.dev/book_cover/2610.webp",
     "content_url": "https://bookhive-content.pages.dev/books/2610.html",
-    "reading_time_minutes": 581
+    "reading_time_minutes": 581,
+    "year": 1831,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "2600",
@@ -307,7 +397,10 @@
     "description": "Napoleon's invasion of Russia through the lives of five families.",
     "cover": "https://bookhive-content.pages.dev/book_cover/2600.webp",
     "content_url": "https://bookhive-content.pages.dev/books/2600.html",
-    "reading_time_minutes": 1970
+    "reading_time_minutes": 1970,
+    "year": 1869,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "2638",
@@ -317,7 +410,10 @@
     "description": "A truly good man struggles to survive in a corrupt society.",
     "cover": "https://bookhive-content.pages.dev/book_cover/2638.webp",
     "content_url": "https://bookhive-content.pages.dev/books/2638.html",
-    "reading_time_minutes": 749
+    "reading_time_minutes": 749,
+    "year": 1869,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "600",
@@ -327,7 +423,10 @@
     "description": "A bitter recluse rails against society in his underground monologue.",
     "cover": "https://bookhive-content.pages.dev/book_cover/600.webp",
     "content_url": "https://bookhive-content.pages.dev/books/600.html",
-    "reading_time_minutes": 128
+    "reading_time_minutes": 128,
+    "year": 1864,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "5200",
@@ -337,7 +436,10 @@
     "description": "A man wakes up transformed into a giant insect.",
     "cover": "https://bookhive-content.pages.dev/book_cover/5200.webp",
     "content_url": "https://bookhive-content.pages.dev/books/5200.html",
-    "reading_time_minutes": 61
+    "reading_time_minutes": 61,
+    "year": 1915,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "7849",
@@ -347,7 +449,10 @@
     "description": "A man is prosecuted by a remote authority for an unspecified crime.",
     "cover": "https://bookhive-content.pages.dev/book_cover/7849.webp",
     "content_url": "https://bookhive-content.pages.dev/books/7849.html",
-    "reading_time_minutes": 225
+    "reading_time_minutes": 225,
+    "year": 1925,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "19942",
@@ -357,7 +462,10 @@
     "description": "A young optimist travels the world encountering endless misfortune.",
     "cover": "https://bookhive-content.pages.dev/book_cover/19942.webp",
     "content_url": "https://bookhive-content.pages.dev/books/19942.html",
-    "reading_time_minutes": 117
+    "reading_time_minutes": 117,
+    "year": 1759,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "521",
@@ -367,7 +475,10 @@
     "description": "A castaway survives alone on an island for twenty-eight years.",
     "cover": "https://bookhive-content.pages.dev/book_cover/521.webp",
     "content_url": "https://bookhive-content.pages.dev/books/521.html",
-    "reading_time_minutes": 317
+    "reading_time_minutes": 317,
+    "year": 1719,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "829",
@@ -377,7 +488,10 @@
     "description": "A surgeon travels to fantastical lands in this sharp social satire.",
     "cover": "https://bookhive-content.pages.dev/book_cover/829.webp",
     "content_url": "https://bookhive-content.pages.dev/books/829.html",
-    "reading_time_minutes": 215
+    "reading_time_minutes": 215,
+    "year": 1726,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "1184",
@@ -387,7 +501,10 @@
     "description": "A wrongly imprisoned man plans an elaborate revenge.",
     "cover": "https://bookhive-content.pages.dev/book_cover/1184.webp",
     "content_url": "https://bookhive-content.pages.dev/books/1184.html",
-    "reading_time_minutes": 1521
+    "reading_time_minutes": 1521,
+    "year": 1844,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "103",
@@ -397,7 +514,10 @@
     "description": "An eccentric Englishman bets he can circle the globe in 80 days.",
     "cover": "https://bookhive-content.pages.dev/book_cover/103.webp",
     "content_url": "https://bookhive-content.pages.dev/books/103.html",
-    "reading_time_minutes": 205
+    "reading_time_minutes": 205,
+    "year": 1872,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "35",
@@ -407,7 +527,10 @@
     "description": "A scientist travels to the far future and discovers humanity's fate.",
     "cover": "https://bookhive-content.pages.dev/book_cover/35.webp",
     "content_url": "https://bookhive-content.pages.dev/books/35.html",
-    "reading_time_minutes": 95
+    "reading_time_minutes": 95,
+    "year": 1895,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "36",
@@ -417,7 +540,10 @@
     "description": "Martians invade England in this gripping science fiction classic.",
     "cover": "https://bookhive-content.pages.dev/book_cover/36.webp",
     "content_url": "https://bookhive-content.pages.dev/books/36.html",
-    "reading_time_minutes": 175
+    "reading_time_minutes": 175,
+    "year": 1898,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "6593",
@@ -427,7 +553,10 @@
     "description": "The comic adventures of a good-natured foundling in 18th-century England.",
     "cover": "https://bookhive-content.pages.dev/book_cover/6593.webp",
     "content_url": "https://bookhive-content.pages.dev/books/6593.html",
-    "reading_time_minutes": 1140
+    "reading_time_minutes": 1140,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "44747",
@@ -437,7 +566,10 @@
     "description": "An ambitious young man uses love as a means to social advancement.",
     "cover": "https://bookhive-content.pages.dev/book_cover/44747.webp",
     "content_url": "https://bookhive-content.pages.dev/books/44747.html",
-    "reading_time_minutes": 570
+    "reading_time_minutes": 570,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "1259",
@@ -447,7 +579,10 @@
     "description": "The Three Musketeers reunite twenty years after their first adventures.",
     "cover": "https://bookhive-content.pages.dev/book_cover/1259.webp",
     "content_url": "https://bookhive-content.pages.dev/books/1259.html",
-    "reading_time_minutes": 813
+    "reading_time_minutes": 813,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "1081",
@@ -457,7 +592,10 @@
     "description": "A man travels Russia buying the names of dead serfs in a bizarre scheme.",
     "cover": "https://bookhive-content.pages.dev/book_cover/1081.webp",
     "content_url": "https://bookhive-content.pages.dev/books/1081.html",
-    "reading_time_minutes": 481
+    "reading_time_minutes": 481,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "30723",
@@ -467,7 +605,10 @@
     "description": "A nihilist son clashes with his father's old-fashioned values.",
     "cover": "https://bookhive-content.pages.dev/book_cover/30723.webp",
     "content_url": "https://bookhive-content.pages.dev/books/30723.html",
-    "reading_time_minutes": 225
+    "reading_time_minutes": 225,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "6688",
@@ -477,7 +618,10 @@
     "description": "A young woman struggles against the confines of Victorian society.",
     "cover": "https://bookhive-content.pages.dev/book_cover/6688.webp",
     "content_url": "https://bookhive-content.pages.dev/books/6688.html",
-    "reading_time_minutes": 626
+    "reading_time_minutes": 626,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "3532",
@@ -487,7 +631,10 @@
     "description": "A Florentine woman navigates betrayal and political upheaval.",
     "cover": "https://bookhive-content.pages.dev/book_cover/3532.webp",
     "content_url": "https://bookhive-content.pages.dev/books/3532.html",
-    "reading_time_minutes": 136
+    "reading_time_minutes": 136,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "4517",
@@ -497,7 +644,10 @@
     "description": "A tragic love triangle in a bleak New England winter landscape.",
     "cover": "https://bookhive-content.pages.dev/book_cover/4517.webp",
     "content_url": "https://bookhive-content.pages.dev/books/4517.html",
-    "reading_time_minutes": 115
+    "reading_time_minutes": 115,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "120",
@@ -507,7 +657,10 @@
     "description": "A young boy joins a voyage to find buried pirate treasure.",
     "cover": "https://bookhive-content.pages.dev/book_cover/120.webp",
     "content_url": "https://bookhive-content.pages.dev/books/120.html",
-    "reading_time_minutes": 211
+    "reading_time_minutes": 211,
+    "year": 1883,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "76",
@@ -517,7 +670,10 @@
     "description": "Huck and Jim raft down the Mississippi River seeking freedom.",
     "cover": "https://bookhive-content.pages.dev/book_cover/76.webp",
     "content_url": "https://bookhive-content.pages.dev/books/76.html",
-    "reading_time_minutes": 332
+    "reading_time_minutes": 332,
+    "year": 1884,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "2701",
@@ -527,7 +683,10 @@
     "description": "Captain Ahab's obsessive hunt for the white whale.",
     "cover": "https://bookhive-content.pages.dev/book_cover/2701.webp",
     "content_url": "https://bookhive-content.pages.dev/books/2701.html",
-    "reading_time_minutes": 708
+    "reading_time_minutes": 708,
+    "year": 1851,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "215",
@@ -537,7 +696,10 @@
     "description": "A domesticated dog returns to his primal instincts in the Yukon.",
     "cover": "https://bookhive-content.pages.dev/book_cover/215.webp",
     "content_url": "https://bookhive-content.pages.dev/books/215.html",
-    "reading_time_minutes": 91
+    "reading_time_minutes": 91,
+    "year": 1903,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "910",
@@ -547,7 +709,10 @@
     "description": "A wild wolf-dog learns to live among men in the Yukon.",
     "cover": "https://bookhive-content.pages.dev/book_cover/910.webp",
     "content_url": "https://bookhive-content.pages.dev/books/910.html",
-    "reading_time_minutes": 210
+    "reading_time_minutes": 210,
+    "year": 1906,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "1074",
@@ -557,7 +722,10 @@
     "description": "A shipwrecked man is rescued by a brutal sea captain.",
     "cover": "https://bookhive-content.pages.dev/book_cover/1074.webp",
     "content_url": "https://bookhive-content.pages.dev/books/1074.html",
-    "reading_time_minutes": 317
+    "reading_time_minutes": 317,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "164",
@@ -567,7 +735,10 @@
     "description": "Explorers are captured by the mysterious Captain Nemo.",
     "cover": "https://bookhive-content.pages.dev/book_cover/164.webp",
     "content_url": "https://bookhive-content.pages.dev/books/164.html",
-    "reading_time_minutes": 326
+    "reading_time_minutes": 326,
+    "year": 1870,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "3748",
@@ -577,7 +748,10 @@
     "description": "A professor leads an expedition deep into the Earth's interior.",
     "cover": "https://bookhive-content.pages.dev/book_cover/3748.webp",
     "content_url": "https://bookhive-content.pages.dev/books/3748.html",
-    "reading_time_minutes": 209
+    "reading_time_minutes": 209,
+    "year": 1864,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "1268",
@@ -587,7 +761,10 @@
     "description": "Castaways survive on a remote island using science and ingenuity.",
     "cover": "https://bookhive-content.pages.dev/book_cover/1268.webp",
     "content_url": "https://bookhive-content.pages.dev/books/1268.html",
-    "reading_time_minutes": 680
+    "reading_time_minutes": 680,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "2166",
@@ -597,7 +774,10 @@
     "description": "Explorers seek a legendary treasure in the heart of Africa.",
     "cover": "https://bookhive-content.pages.dev/book_cover/2166.webp",
     "content_url": "https://bookhive-content.pages.dev/books/2166.html",
-    "reading_time_minutes": 243
+    "reading_time_minutes": 243,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "3155",
@@ -607,7 +787,10 @@
     "description": "Explorers discover an immortal queen ruling a lost African civilization.",
     "cover": "https://bookhive-content.pages.dev/book_cover/3155.webp",
     "content_url": "https://bookhive-content.pages.dev/books/3155.html",
-    "reading_time_minutes": 330
+    "reading_time_minutes": 330,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "78",
@@ -617,7 +800,10 @@
     "description": "A nobleman's son is raised by apes in the African jungle.",
     "cover": "https://bookhive-content.pages.dev/book_cover/78.webp",
     "content_url": "https://bookhive-content.pages.dev/books/78.html",
-    "reading_time_minutes": 265
+    "reading_time_minutes": 265,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "81",
@@ -627,7 +813,10 @@
     "description": "Tarzan navigates European society before returning to the jungle.",
     "cover": "https://bookhive-content.pages.dev/book_cover/81.webp",
     "content_url": "https://bookhive-content.pages.dev/books/81.html",
-    "reading_time_minutes": 267
+    "reading_time_minutes": 267,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "2759",
@@ -637,7 +826,10 @@
     "description": "The Three Musketeers uncover a royal conspiracy involving a prisoner.",
     "cover": "https://bookhive-content.pages.dev/book_cover/2759.webp",
     "content_url": "https://bookhive-content.pages.dev/books/2759.html",
-    "reading_time_minutes": 572
+    "reading_time_minutes": 572,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "1257",
@@ -647,7 +839,10 @@
     "description": "All for one and one for all — the adventures of Athos, Porthos, and Aramis.",
     "cover": "https://bookhive-content.pages.dev/book_cover/1257.webp",
     "content_url": "https://bookhive-content.pages.dev/books/1257.html",
-    "reading_time_minutes": 750
+    "reading_time_minutes": 750,
+    "year": 1844,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "60",
@@ -657,7 +852,10 @@
     "description": "A mysterious English hero rescues aristocrats from the guillotine.",
     "cover": "https://bookhive-content.pages.dev/book_cover/60.webp",
     "content_url": "https://bookhive-content.pages.dev/books/60.html",
-    "reading_time_minutes": 270
+    "reading_time_minutes": 270,
+    "year": 1905,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "421",
@@ -667,7 +865,10 @@
     "description": "A young Scottish boy is kidnapped and must find his way home.",
     "cover": "https://bookhive-content.pages.dev/book_cover/421.webp",
     "content_url": "https://bookhive-content.pages.dev/books/421.html",
-    "reading_time_minutes": 239
+    "reading_time_minutes": 239,
+    "year": 1886,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "848",
@@ -677,7 +878,10 @@
     "description": "A tale of romance and treachery during the Wars of the Roses.",
     "cover": "https://bookhive-content.pages.dev/book_cover/848.webp",
     "content_url": "https://bookhive-content.pages.dev/books/848.html",
-    "reading_time_minutes": 237
+    "reading_time_minutes": 237,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "11707",
@@ -687,7 +891,10 @@
     "description": "A shipwrecked family builds a new life on a tropical island.",
     "cover": "https://bookhive-content.pages.dev/book_cover/11707.webp",
     "content_url": "https://bookhive-content.pages.dev/books/11707.html",
-    "reading_time_minutes": 48
+    "reading_time_minutes": 48,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "16",
@@ -697,7 +904,10 @@
     "description": "Children fly away to Neverland with the boy who never grows up.",
     "cover": "https://bookhive-content.pages.dev/book_cover/16.webp",
     "content_url": "https://bookhive-content.pages.dev/books/16.html",
-    "reading_time_minutes": 146
+    "reading_time_minutes": 146,
+    "year": 1911,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "236",
@@ -707,7 +917,10 @@
     "description": "A boy raised by wolves learns the laws of the jungle.",
     "cover": "https://bookhive-content.pages.dev/book_cover/236.webp",
     "content_url": "https://bookhive-content.pages.dev/books/236.html",
-    "reading_time_minutes": 154
+    "reading_time_minutes": 154,
+    "year": 1894,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "2226",
@@ -717,7 +930,10 @@
     "description": "An Irish orphan boy navigates colonial India as a spy.",
     "cover": "https://bookhive-content.pages.dev/book_cover/2226.webp",
     "content_url": "https://bookhive-content.pages.dev/books/2226.html",
-    "reading_time_minutes": 330
+    "reading_time_minutes": 330,
+    "year": 1901,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "139",
@@ -727,7 +943,10 @@
     "description": "Explorers discover a plateau where dinosaurs still roam.",
     "cover": "https://bookhive-content.pages.dev/book_cover/139.webp",
     "content_url": "https://bookhive-content.pages.dev/books/139.html",
-    "reading_time_minutes": 220
+    "reading_time_minutes": 220,
+    "year": 1912,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "3526",
@@ -737,7 +956,10 @@
     "description": "Three explorers cross Africa by balloon in this early adventure.",
     "cover": "https://bookhive-content.pages.dev/book_cover/3526.webp",
     "content_url": "https://bookhive-content.pages.dev/books/3526.html",
-    "reading_time_minutes": 305
+    "reading_time_minutes": 305,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "83",
@@ -747,7 +969,10 @@
     "description": "The Baltimore Gun Club builds a cannon to shoot men to the moon.",
     "cover": "https://bookhive-content.pages.dev/book_cover/83.webp",
     "content_url": "https://bookhive-content.pages.dev/books/83.html",
-    "reading_time_minutes": 301
+    "reading_time_minutes": 301,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "5230",
@@ -757,7 +982,10 @@
     "description": "A scientist discovers invisibility but cannot reverse it.",
     "cover": "https://bookhive-content.pages.dev/book_cover/5230.webp",
     "content_url": "https://bookhive-content.pages.dev/books/5230.html",
-    "reading_time_minutes": 156
+    "reading_time_minutes": 156,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "159",
@@ -767,7 +995,10 @@
     "description": "A shipwrecked man discovers an island of terrifying human-animal experiments.",
     "cover": "https://bookhive-content.pages.dev/book_cover/159.webp",
     "content_url": "https://bookhive-content.pages.dev/books/159.html",
-    "reading_time_minutes": 130
+    "reading_time_minutes": 130,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "558",
@@ -777,7 +1008,10 @@
     "description": "A man stumbles on a spy conspiracy and goes on the run.",
     "cover": "https://bookhive-content.pages.dev/book_cover/558.webp",
     "content_url": "https://bookhive-content.pages.dev/books/558.html",
-    "reading_time_minutes": 117
+    "reading_time_minutes": 117,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "4763",
@@ -787,7 +1021,10 @@
     "description": "Richard Hannay hunts German spies during World War One.",
     "cover": "https://bookhive-content.pages.dev/book_cover/4763.webp",
     "content_url": "https://bookhive-content.pages.dev/books/4763.html",
-    "reading_time_minutes": 64
+    "reading_time_minutes": 64,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "95",
@@ -797,7 +1034,10 @@
     "description": "An Englishman impersonates a kidnapped king to save his kingdom.",
     "cover": "https://bookhive-content.pages.dev/book_cover/95.webp",
     "content_url": "https://bookhive-content.pages.dev/books/95.html",
-    "reading_time_minutes": 165
+    "reading_time_minutes": 165,
+    "year": 1894,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "27",
@@ -807,7 +1047,10 @@
     "description": "A frontiersman guides two sisters through a dangerous wilderness.",
     "cover": "https://bookhive-content.pages.dev/book_cover/27.webp",
     "content_url": "https://bookhive-content.pages.dev/books/27.html",
-    "reading_time_minutes": 441
+    "reading_time_minutes": 441,
+    "year": 1826,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "3285",
@@ -817,7 +1060,10 @@
     "description": "A young hunter faces his first battle on the American frontier.",
     "cover": "https://bookhive-content.pages.dev/book_cover/3285.webp",
     "content_url": "https://bookhive-content.pages.dev/books/3285.html",
-    "reading_time_minutes": 677
+    "reading_time_minutes": 677,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "82",
@@ -827,7 +1073,10 @@
     "description": "A Saxon knight fights for honor in medieval England.",
     "cover": "https://bookhive-content.pages.dev/book_cover/82.webp",
     "content_url": "https://bookhive-content.pages.dev/books/82.html",
-    "reading_time_minutes": 611
+    "reading_time_minutes": 611,
+    "year": 1819,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "5658",
@@ -837,7 +1086,10 @@
     "description": "A sailor haunted by one moment of cowardice seeks redemption.",
     "cover": "https://bookhive-content.pages.dev/book_cover/5658.webp",
     "content_url": "https://bookhive-content.pages.dev/books/5658.html",
-    "reading_time_minutes": 413
+    "reading_time_minutes": 413,
+    "year": 1900,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "2119",
@@ -847,7 +1099,10 @@
     "description": "A spoiled millionaire's son is rescued by fishermen who teach him hard work.",
     "cover": "https://bookhive-content.pages.dev/book_cover/2119.webp",
     "content_url": "https://bookhive-content.pages.dev/books/2119.html",
-    "reading_time_minutes": 279
+    "reading_time_minutes": 279,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "2186",
@@ -857,7 +1112,10 @@
     "description": "A Harvard student's account of life as a common sailor.",
     "cover": "https://bookhive-content.pages.dev/book_cover/2186.webp",
     "content_url": "https://bookhive-content.pages.dev/books/2186.html",
-    "reading_time_minutes": 157
+    "reading_time_minutes": 157,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "941",
@@ -867,7 +1125,10 @@
     "description": "A young Englishman meets the legendary Scottish outlaw Rob Roy.",
     "cover": "https://bookhive-content.pages.dev/book_cover/941.webp",
     "content_url": "https://bookhive-content.pages.dev/books/941.html",
-    "reading_time_minutes": 105
+    "reading_time_minutes": 105,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "460",
@@ -877,7 +1138,10 @@
     "description": "The sequel to The Prisoner of Zenda with even higher stakes.",
     "cover": "https://bookhive-content.pages.dev/book_cover/460.webp",
     "content_url": "https://bookhive-content.pages.dev/books/460.html",
-    "reading_time_minutes": 59
+    "reading_time_minutes": 59,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "171",
@@ -887,7 +1151,10 @@
     "description": "Three boys are shipwrecked on a Pacific island and must survive.",
     "cover": "https://bookhive-content.pages.dev/book_cover/171.webp",
     "content_url": "https://bookhive-content.pages.dev/books/171.html",
-    "reading_time_minutes": 126
+    "reading_time_minutes": 126,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "2153",
@@ -897,7 +1164,10 @@
     "description": "A Tsar's courier crosses Siberia on a dangerous mission.",
     "cover": "https://bookhive-content.pages.dev/book_cover/2153.webp",
     "content_url": "https://bookhive-content.pages.dev/books/2153.html",
-    "reading_time_minutes": 471
+    "reading_time_minutes": 471,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "4124",
@@ -907,7 +1177,10 @@
     "description": "A young Scotsman uncovers an African uprising.",
     "cover": "https://bookhive-content.pages.dev/book_cover/4124.webp",
     "content_url": "https://bookhive-content.pages.dev/books/4124.html",
-    "reading_time_minutes": 60
+    "reading_time_minutes": 60,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "1298",
@@ -917,7 +1190,10 @@
     "description": "The quintessential American Western novel set in Wyoming.",
     "cover": "https://bookhive-content.pages.dev/book_cover/1298.webp",
     "content_url": "https://bookhive-content.pages.dev/books/1298.html",
-    "reading_time_minutes": 443
+    "reading_time_minutes": 443,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "2372",
@@ -927,7 +1203,10 @@
     "description": "Elizabethan adventurers seek fortune and glory on the high seas.",
     "cover": "https://bookhive-content.pages.dev/book_cover/2372.webp",
     "content_url": "https://bookhive-content.pages.dev/books/2372.html",
-    "reading_time_minutes": 232
+    "reading_time_minutes": 232,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "1361",
@@ -937,7 +1216,10 @@
     "description": "A firsthand account of the great American westward migration.",
     "cover": "https://bookhive-content.pages.dev/book_cover/1361.webp",
     "content_url": "https://bookhive-content.pages.dev/books/1361.html",
-    "reading_time_minutes": 127
+    "reading_time_minutes": 127,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "5205",
@@ -947,7 +1229,10 @@
     "description": "The sequel to King Solomon's Mines — Quatermain's last adventure.",
     "cover": "https://bookhive-content.pages.dev/book_cover/5205.webp",
     "content_url": "https://bookhive-content.pages.dev/books/5205.html",
-    "reading_time_minutes": 116
+    "reading_time_minutes": 116,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "2120",
@@ -957,7 +1242,10 @@
     "description": "Natty Bumppo guides soldiers through the Great Lakes wilderness.",
     "cover": "https://bookhive-content.pages.dev/book_cover/2120.webp",
     "content_url": "https://bookhive-content.pages.dev/books/2120.html",
-    "reading_time_minutes": 353
+    "reading_time_minutes": 353,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "1200",
@@ -967,7 +1255,10 @@
     "description": "A classic Western tale of a gunslinger defending a lone woman.",
     "cover": "https://bookhive-content.pages.dev/book_cover/1200.webp",
     "content_url": "https://bookhive-content.pages.dev/books/1200.html",
-    "reading_time_minutes": 1052
+    "reading_time_minutes": 1052,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "4674",
@@ -977,7 +1268,10 @@
     "description": "An English widow's impulsive Italian marriage causes family scandal.",
     "cover": "https://bookhive-content.pages.dev/book_cover/4674.webp",
     "content_url": "https://bookhive-content.pages.dev/books/4674.html",
-    "reading_time_minutes": 30
+    "reading_time_minutes": 30,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "4276",
@@ -987,7 +1281,10 @@
     "description": "A southern woman clashes with a northern mill owner — and falls for him.",
     "cover": "https://bookhive-content.pages.dev/book_cover/4276.webp",
     "content_url": "https://bookhive-content.pages.dev/books/4276.html",
-    "reading_time_minutes": 543
+    "reading_time_minutes": 543,
+    "year": 1855,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "4274",
@@ -997,7 +1294,10 @@
     "description": "A doctor's daughter navigates love and society in a small English town.",
     "cover": "https://bookhive-content.pages.dev/book_cover/4274.webp",
     "content_url": "https://bookhive-content.pages.dev/books/4274.html",
-    "reading_time_minutes": 772
+    "reading_time_minutes": 772,
+    "year": 1866,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "394",
@@ -1007,7 +1307,10 @@
     "description": "Life and love among the genteel ladies of a small English town.",
     "cover": "https://bookhive-content.pages.dev/book_cover/394.webp",
     "content_url": "https://bookhive-content.pages.dev/books/394.html",
-    "reading_time_minutes": 203
+    "reading_time_minutes": 203,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "969",
@@ -1017,7 +1320,10 @@
     "description": "A mysterious widow hides a dark secret from her past.",
     "cover": "https://bookhive-content.pages.dev/book_cover/969.webp",
     "content_url": "https://bookhive-content.pages.dev/books/969.html",
-    "reading_time_minutes": 521
+    "reading_time_minutes": 521,
+    "year": 1848,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "767",
@@ -1027,7 +1333,10 @@
     "description": "A governess endures hardship while quietly falling in love.",
     "cover": "https://bookhive-content.pages.dev/book_cover/767.webp",
     "content_url": "https://bookhive-content.pages.dev/books/767.html",
-    "reading_time_minutes": 199
+    "reading_time_minutes": 199,
+    "year": 1847,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "9182",
@@ -1037,7 +1346,10 @@
     "description": "A reserved Englishwoman finds unexpected love while teaching in Belgium.",
     "cover": "https://bookhive-content.pages.dev/book_cover/9182.webp",
     "content_url": "https://bookhive-content.pages.dev/books/9182.html",
-    "reading_time_minutes": 578
+    "reading_time_minutes": 578,
+    "year": 1853,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "7469",
@@ -1047,7 +1359,10 @@
     "description": "A young man's identity quest intertwines with a troubled woman's fate.",
     "cover": "https://bookhive-content.pages.dev/book_cover/7469.webp",
     "content_url": "https://bookhive-content.pages.dev/books/7469.html",
-    "reading_time_minutes": 930
+    "reading_time_minutes": 930,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "507",
@@ -1057,7 +1372,10 @@
     "description": "A carpenter loves a vain beauty in this tale of rural English life.",
     "cover": "https://bookhive-content.pages.dev/book_cover/507.webp",
     "content_url": "https://bookhive-content.pages.dev/books/507.html",
-    "reading_time_minutes": 632
+    "reading_time_minutes": 632,
+    "year": 1859,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "2662",
@@ -1067,7 +1385,10 @@
     "description": "A gentle love story set among the musicians of a rural village.",
     "cover": "https://bookhive-content.pages.dev/book_cover/2662.webp",
     "content_url": "https://bookhive-content.pages.dev/books/2662.html",
-    "reading_time_minutes": 186
+    "reading_time_minutes": 186,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "1938",
@@ -1077,7 +1398,10 @@
     "description": "A nobleman seeks to make amends with a woman he wronged long ago.",
     "cover": "https://bookhive-content.pages.dev/book_cover/1938.webp",
     "content_url": "https://bookhive-content.pages.dev/books/1938.html",
-    "reading_time_minutes": 602
+    "reading_time_minutes": 602,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "1377",
@@ -1087,7 +1411,10 @@
     "description": "A jealous old maid plots elaborate revenge on her wealthy relatives.",
     "cover": "https://bookhive-content.pages.dev/book_cover/1377.webp",
     "content_url": "https://bookhive-content.pages.dev/books/1377.html",
-    "reading_time_minutes": 437
+    "reading_time_minutes": 437,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "1028",
@@ -1097,7 +1424,10 @@
     "description": "An Englishman finds love while teaching in Brussels.",
     "cover": "https://bookhive-content.pages.dev/book_cover/1028.webp",
     "content_url": "https://bookhive-content.pages.dev/books/1028.html",
-    "reading_time_minutes": 295
+    "reading_time_minutes": 295,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "4270",
@@ -1107,7 +1437,10 @@
     "description": "A fallen woman seeks redemption in a compassionate community.",
     "cover": "https://bookhive-content.pages.dev/book_cover/4270.webp",
     "content_url": "https://bookhive-content.pages.dev/books/4270.html",
-    "reading_time_minutes": 300
+    "reading_time_minutes": 300,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "700",
@@ -1117,7 +1450,10 @@
     "description": "Little Nell and her grandfather flee a menacing moneylender.",
     "cover": "https://bookhive-content.pages.dev/book_cover/700.webp",
     "content_url": "https://bookhive-content.pages.dev/books/700.html",
-    "reading_time_minutes": 744
+    "reading_time_minutes": 744,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "821",
@@ -1127,7 +1463,10 @@
     "description": "A proud merchant learns too late the value of love over wealth.",
     "cover": "https://bookhive-content.pages.dev/book_cover/821.webp",
     "content_url": "https://bookhive-content.pages.dev/books/821.html",
-    "reading_time_minutes": 1107
+    "reading_time_minutes": 1107,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "541",
@@ -1137,7 +1476,10 @@
     "description": "A man sacrifices love for the sake of social conformity.",
     "cover": "https://bookhive-content.pages.dev/book_cover/541.webp",
     "content_url": "https://bookhive-content.pages.dev/books/541.html",
-    "reading_time_minutes": 298
+    "reading_time_minutes": 298,
+    "year": 1920,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "284",
@@ -1147,7 +1489,10 @@
     "description": "A beautiful socialite's slow descent from New York high society.",
     "cover": "https://bookhive-content.pages.dev/book_cover/284.webp",
     "content_url": "https://bookhive-content.pages.dev/books/284.html",
-    "reading_time_minutes": 388
+    "reading_time_minutes": 388,
+    "year": 1905,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "2833",
@@ -1157,7 +1502,10 @@
     "description": "An American woman's European marriage becomes a gilded cage.",
     "cover": "https://bookhive-content.pages.dev/book_cover/2833.webp",
     "content_url": "https://bookhive-content.pages.dev/books/2833.html",
-    "reading_time_minutes": 412
+    "reading_time_minutes": 412,
+    "year": 1881,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "432",
@@ -1167,7 +1515,10 @@
     "description": "An American is sent to Paris to bring back a young man — but is enchanted.",
     "cover": "https://bookhive-content.pages.dev/book_cover/432.webp",
     "content_url": "https://bookhive-content.pages.dev/books/432.html",
-    "reading_time_minutes": 512
+    "reading_time_minutes": 512,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "2870",
@@ -1177,7 +1528,10 @@
     "description": "A plain heiress is courted by a charming fortune hunter.",
     "cover": "https://bookhive-content.pages.dev/book_cover/2870.webp",
     "content_url": "https://bookhive-content.pages.dev/books/2870.html",
-    "reading_time_minutes": 201
+    "reading_time_minutes": 201,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "160",
@@ -1187,7 +1541,10 @@
     "description": "A woman awakens to her own desires in Creole New Orleans.",
     "cover": "https://bookhive-content.pages.dev/book_cover/160.webp",
     "content_url": "https://bookhive-content.pages.dev/books/160.html",
-    "reading_time_minutes": 199
+    "reading_time_minutes": 199,
+    "year": 1881,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "2641",
@@ -1197,7 +1554,10 @@
     "description": "A young woman's Italian journey opens her heart to love and freedom.",
     "cover": "https://bookhive-content.pages.dev/book_cover/2641.webp",
     "content_url": "https://bookhive-content.pages.dev/books/2641.html",
-    "reading_time_minutes": 216
+    "reading_time_minutes": 216,
+    "year": 1908,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "2891",
@@ -1207,7 +1567,10 @@
     "description": "Two families from different worlds collide over an English country house.",
     "cover": "https://bookhive-content.pages.dev/book_cover/2891.webp",
     "content_url": "https://bookhive-content.pages.dev/books/2891.html",
-    "reading_time_minutes": 348
+    "reading_time_minutes": 348,
+    "year": 1910,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "1424",
@@ -1217,7 +1580,10 @@
     "description": "A sheltered girl falls for her charming cousin with tragic results.",
     "cover": "https://bookhive-content.pages.dev/book_cover/1424.webp",
     "content_url": "https://bookhive-content.pages.dev/books/1424.html",
-    "reading_time_minutes": 133
+    "reading_time_minutes": 133,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "9628",
@@ -1227,7 +1593,10 @@
     "description": "Two lovers scheme to inherit a dying heiress's fortune.",
     "cover": "https://bookhive-content.pages.dev/book_cover/9628.webp",
     "content_url": "https://bookhive-content.pages.dev/books/9628.html",
-    "reading_time_minutes": 92
+    "reading_time_minutes": 92,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "30486",
@@ -1237,7 +1606,10 @@
     "description": "Two women support each other through love and industrial conflict.",
     "cover": "https://bookhive-content.pages.dev/book_cover/30486.webp",
     "content_url": "https://bookhive-content.pages.dev/books/30486.html",
-    "reading_time_minutes": 688
+    "reading_time_minutes": 688,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "963",
@@ -1247,7 +1619,10 @@
     "description": "A woman born in a debtors' prison dreams of a better life.",
     "cover": "https://bookhive-content.pages.dev/book_cover/963.webp",
     "content_url": "https://bookhive-content.pages.dev/books/963.html",
-    "reading_time_minutes": 1152
+    "reading_time_minutes": 1152,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "1023",
@@ -1257,7 +1632,10 @@
     "description": "A decades-long lawsuit destroys lives while love persists.",
     "cover": "https://bookhive-content.pages.dev/book_cover/1023.webp",
     "content_url": "https://bookhive-content.pages.dev/books/1023.html",
-    "reading_time_minutes": 1035
+    "reading_time_minutes": 1035,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "482",
@@ -1267,7 +1645,10 @@
     "description": "Love and betrayal among the woodland folk of rural England.",
     "cover": "https://bookhive-content.pages.dev/book_cover/482.webp",
     "content_url": "https://bookhive-content.pages.dev/books/482.html",
-    "reading_time_minutes": 417
+    "reading_time_minutes": 417,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "883",
@@ -1277,7 +1658,10 @@
     "description": "An heir fakes his death and falls in love with a dustman's daughter.",
     "cover": "https://bookhive-content.pages.dev/book_cover/883.webp",
     "content_url": "https://bookhive-content.pages.dev/books/883.html",
-    "reading_time_minutes": 1121
+    "reading_time_minutes": 1121,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "967",
@@ -1287,7 +1671,10 @@
     "description": "A young man fights for his family's honor in Victorian England.",
     "cover": "https://bookhive-content.pages.dev/book_cover/967.webp",
     "content_url": "https://bookhive-content.pages.dev/books/967.html",
-    "reading_time_minutes": 1157
+    "reading_time_minutes": 1157,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "3383",
@@ -1297,7 +1684,10 @@
     "description": "A one-handed orphan finds love and belonging in a Michigan swamp.",
     "cover": "https://bookhive-content.pages.dev/book_cover/3383.webp",
     "content_url": "https://bookhive-content.pages.dev/books/3383.html",
-    "reading_time_minutes": 30
+    "reading_time_minutes": 30,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "5427",
@@ -1307,7 +1697,10 @@
     "description": "A philosophical novel about education and the nature of love.",
     "cover": "https://bookhive-content.pages.dev/book_cover/5427.webp",
     "content_url": "https://bookhive-content.pages.dev/books/5427.html",
-    "reading_time_minutes": 760
+    "reading_time_minutes": 760,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "3913",
@@ -1317,7 +1710,10 @@
     "description": "Rousseau's candid autobiography, including passionate love affairs.",
     "cover": "https://bookhive-content.pages.dev/book_cover/3913.webp",
     "content_url": "https://bookhive-content.pages.dev/books/3913.html",
-    "reading_time_minutes": 850
+    "reading_time_minutes": 850,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "1322",
@@ -1327,7 +1723,10 @@
     "description": "Whitman's revolutionary celebration of democracy, nature, and the self.",
     "cover": "https://bookhive-content.pages.dev/book_cover/1322.webp",
     "content_url": "https://bookhive-content.pages.dev/books/1322.html",
-    "reading_time_minutes": 422
+    "reading_time_minutes": 422,
+    "year": 1855,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "1934",
@@ -1337,7 +1736,10 @@
     "description": "Blake's visionary contrast between childhood innocence and adult experience.",
     "cover": "https://bookhive-content.pages.dev/book_cover/1934.webp",
     "content_url": "https://bookhive-content.pages.dev/books/1934.html",
-    "reading_time_minutes": 30
+    "reading_time_minutes": 30,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "23",
@@ -1347,7 +1749,10 @@
     "description": "Odes, sonnets, and narrative poems by the great Romantic poet.",
     "cover": "https://bookhive-content.pages.dev/book_cover/23.webp",
     "content_url": "https://bookhive-content.pages.dev/books/23.html",
-    "reading_time_minutes": 116
+    "reading_time_minutes": 116,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "4800",
@@ -1357,7 +1762,10 @@
     "description": "Including Ozymandias, Ode to the West Wind, and Prometheus Unbound.",
     "cover": "https://bookhive-content.pages.dev/book_cover/4800.webp",
     "content_url": "https://bookhive-content.pages.dev/books/4800.html",
-    "reading_time_minutes": 1163
+    "reading_time_minutes": 1163,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "8095",
@@ -1367,7 +1775,10 @@
     "description": "Don Juan and other masterworks of Romantic wit and passion.",
     "cover": "https://bookhive-content.pages.dev/book_cover/8095.webp",
     "content_url": "https://bookhive-content.pages.dev/books/8095.html",
-    "reading_time_minutes": 289
+    "reading_time_minutes": 289,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "2383",
@@ -1377,7 +1788,10 @@
     "description": "Pilgrims tell tales ranging from bawdy to profound on the road to Canterbury.",
     "cover": "https://bookhive-content.pages.dev/book_cover/2383.webp",
     "content_url": "https://bookhive-content.pages.dev/books/2383.html",
-    "reading_time_minutes": 935
+    "reading_time_minutes": 935,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "26",
@@ -1387,7 +1801,10 @@
     "description": "Satan's fall and humanity's expulsion from Eden in epic verse.",
     "cover": "https://bookhive-content.pages.dev/book_cover/26.webp",
     "content_url": "https://bookhive-content.pages.dev/books/26.html",
-    "reading_time_minutes": 254
+    "reading_time_minutes": 254,
+    "year": 1667,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "8800",
@@ -1397,7 +1814,10 @@
     "description": "A poet's journey through Hell, Purgatory, and Paradise.",
     "cover": "https://bookhive-content.pages.dev/book_cover/8800.webp",
     "content_url": "https://bookhive-content.pages.dev/books/8800.html",
-    "reading_time_minutes": 361
+    "reading_time_minutes": 361,
+    "year": 1320,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "2199",
@@ -1407,7 +1827,10 @@
     "description": "The Greek epic of the Trojan War and Achilles's wrath.",
     "cover": "https://bookhive-content.pages.dev/book_cover/2199.webp",
     "content_url": "https://bookhive-content.pages.dev/books/2199.html",
-    "reading_time_minutes": 454
+    "reading_time_minutes": 454,
+    "year": -750,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "1727",
@@ -1417,7 +1840,10 @@
     "description": "Odysseus's ten-year voyage home after the fall of Troy.",
     "cover": "https://bookhive-content.pages.dev/book_cover/1727.webp",
     "content_url": "https://bookhive-content.pages.dev/books/1727.html",
-    "reading_time_minutes": 372
+    "reading_time_minutes": 372,
+    "year": -800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "227",
@@ -1427,7 +1853,10 @@
     "description": "The founding myth of Rome told through Aeneas's epic journey.",
     "cover": "https://bookhive-content.pages.dev/book_cover/227.webp",
     "content_url": "https://bookhive-content.pages.dev/books/227.html",
-    "reading_time_minutes": 245
+    "reading_time_minutes": 245,
+    "year": -19,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "12242",
@@ -1437,7 +1866,10 @@
     "description": "Slant rhymes and dashes — Dickinson's unique vision of death and eternity.",
     "cover": "https://bookhive-content.pages.dev/book_cover/12242.webp",
     "content_url": "https://bookhive-content.pages.dev/books/12242.html",
-    "reading_time_minutes": 153
+    "reading_time_minutes": 153,
+    "year": 1890,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "14082",
@@ -1447,7 +1879,10 @@
     "description": "Nevermore — Poe's haunting poems of beauty, loss, and the macabre.",
     "cover": "https://bookhive-content.pages.dev/book_cover/14082.webp",
     "content_url": "https://bookhive-content.pages.dev/books/14082.html",
-    "reading_time_minutes": 30
+    "reading_time_minutes": 30,
+    "year": 1845,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "2002",
@@ -1457,7 +1892,10 @@
     "description": "How do I love thee? Let me count the ways — intimate love sonnets.",
     "cover": "https://bookhive-content.pages.dev/book_cover/2002.webp",
     "content_url": "https://bookhive-content.pages.dev/books/2002.html",
-    "reading_time_minutes": 30
+    "reading_time_minutes": 30,
+    "year": 1850,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "4253",
@@ -1467,7 +1905,10 @@
     "description": "Dramatic monologues including My Last Duchess and Fra Lippo Lippi.",
     "cover": "https://bookhive-content.pages.dev/book_cover/4253.webp",
     "content_url": "https://bookhive-content.pages.dev/books/4253.html",
-    "reading_time_minutes": 117
+    "reading_time_minutes": 117,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "8449",
@@ -1477,7 +1918,10 @@
     "description": "Tennyson's extended elegy for his beloved friend Arthur Henry Hallam.",
     "cover": "https://bookhive-content.pages.dev/book_cover/8449.webp",
     "content_url": "https://bookhive-content.pages.dev/books/8449.html",
-    "reading_time_minutes": 218
+    "reading_time_minutes": 218,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "610",
@@ -1487,7 +1931,10 @@
     "description": "The legend of King Arthur and the fall of Camelot in verse.",
     "cover": "https://bookhive-content.pages.dev/book_cover/610.webp",
     "content_url": "https://bookhive-content.pages.dev/books/610.html",
-    "reading_time_minutes": 249
+    "reading_time_minutes": 249,
+    "year": 1859,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "301",
@@ -1497,7 +1944,10 @@
     "description": "Wilde's heartbreaking poem about life, death, and injustice in prison.",
     "cover": "https://bookhive-content.pages.dev/book_cover/301.webp",
     "content_url": "https://bookhive-content.pages.dev/books/301.html",
-    "reading_time_minutes": 31
+    "reading_time_minutes": 31,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "246",
@@ -1507,7 +1957,10 @@
     "description": "A loaf of bread, a jug of wine, and thou — Persian wisdom in verse.",
     "cover": "https://bookhive-content.pages.dev/book_cover/246.webp",
     "content_url": "https://bookhive-content.pages.dev/books/246.html",
-    "reading_time_minutes": 41
+    "reading_time_minutes": 41,
+    "year": 1859,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "7164",
@@ -1517,7 +1970,10 @@
     "description": "Song offerings — the spiritual poems that won Tagore the Nobel Prize.",
     "cover": "https://bookhive-content.pages.dev/book_cover/7164.webp",
     "content_url": "https://bookhive-content.pages.dev/books/7164.html",
-    "reading_time_minutes": 41
+    "reading_time_minutes": 41,
+    "year": 1910,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "5720",
@@ -1527,7 +1983,10 @@
     "description": "Nostalgic poems of youth, love, and mortality in the English countryside.",
     "cover": "https://bookhive-content.pages.dev/book_cover/5720.webp",
     "content_url": "https://bookhive-content.pages.dev/books/5720.html",
-    "reading_time_minutes": 32
+    "reading_time_minutes": 32,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "8905",
@@ -1537,7 +1996,10 @@
     "description": "Tintern Abbey and other meditations on nature and memory.",
     "cover": "https://bookhive-content.pages.dev/book_cover/8905.webp",
     "content_url": "https://bookhive-content.pages.dev/books/8905.html",
-    "reading_time_minutes": 81
+    "reading_time_minutes": 81,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "9622",
@@ -1547,7 +2009,10 @@
     "description": "The manifesto of English Romanticism — including The Ancient Mariner.",
     "cover": "https://bookhive-content.pages.dev/book_cover/9622.webp",
     "content_url": "https://bookhive-content.pages.dev/books/9622.html",
-    "reading_time_minutes": 88
+    "reading_time_minutes": 88,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "151",
@@ -1557,7 +2022,10 @@
     "description": "A sailor kills an albatross and is cursed to wander the earth.",
     "cover": "https://bookhive-content.pages.dev/book_cover/151.webp",
     "content_url": "https://bookhive-content.pages.dev/books/151.html",
-    "reading_time_minutes": 30
+    "reading_time_minutes": 30,
+    "year": 1798,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "2229",
@@ -1567,7 +2035,10 @@
     "description": "A scholar sells his soul to the devil in this epic dramatic poem.",
     "cover": "https://bookhive-content.pages.dev/book_cover/2229.webp",
     "content_url": "https://bookhive-content.pages.dev/books/2229.html",
-    "reading_time_minutes": 120
+    "reading_time_minutes": 120,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "21765",
@@ -1577,7 +2048,10 @@
     "description": "Myths of transformation from chaos to Caesar in elegant Latin verse.",
     "cover": "https://bookhive-content.pages.dev/book_cover/21765.webp",
     "content_url": "https://bookhive-content.pages.dev/books/21765.html",
-    "reading_time_minutes": 456
+    "reading_time_minutes": 456,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "16328",
@@ -1587,7 +2061,10 @@
     "description": "The oldest English epic — a hero battles monsters in Dark Age Denmark.",
     "cover": "https://bookhive-content.pages.dev/book_cover/16328.webp",
     "content_url": "https://bookhive-content.pages.dev/books/16328.html",
-    "reading_time_minutes": 237
+    "reading_time_minutes": 237,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "19",
@@ -1597,7 +2074,10 @@
     "description": "The legend of the Native American hero Hiawatha in melodic verse.",
     "cover": "https://bookhive-content.pages.dev/book_cover/19.webp",
     "content_url": "https://bookhive-content.pages.dev/books/19.html",
-    "reading_time_minutes": 124
+    "reading_time_minutes": 124,
+    "year": 1855,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "17623",
@@ -1607,7 +2087,10 @@
     "description": "Two sisters face temptation in this mysterious narrative poem.",
     "cover": "https://bookhive-content.pages.dev/book_cover/17623.webp",
     "content_url": "https://bookhive-content.pages.dev/books/17623.html",
-    "reading_time_minutes": 167
+    "reading_time_minutes": 167,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "28",
@@ -1617,7 +2100,10 @@
     "description": "If and other beloved poems of duty, courage, and empire.",
     "cover": "https://bookhive-content.pages.dev/book_cover/28.webp",
     "content_url": "https://bookhive-content.pages.dev/books/28.html",
-    "reading_time_minutes": 49
+    "reading_time_minutes": 49,
+    "year": 1892,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "2819",
@@ -1627,7 +2113,10 @@
     "description": "Tommy Atkins and other vivid portraits of the British soldier.",
     "cover": "https://bookhive-content.pages.dev/book_cover/2819.webp",
     "content_url": "https://bookhive-content.pages.dev/books/2819.html",
-    "reading_time_minutes": 55
+    "reading_time_minutes": 55,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "18338",
@@ -1637,7 +2126,10 @@
     "description": "Dialect and standard verse by the first influential African American poet.",
     "cover": "https://bookhive-content.pages.dev/book_cover/18338.webp",
     "content_url": "https://bookhive-content.pages.dev/books/18338.html",
-    "reading_time_minutes": 486
+    "reading_time_minutes": 486,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "30035",
@@ -1647,7 +2139,10 @@
     "description": "Poems of the Harlem Renaissance — race, longing, and Black identity.",
     "cover": "https://bookhive-content.pages.dev/book_cover/30035.webp",
     "content_url": "https://bookhive-content.pages.dev/books/30035.html",
-    "reading_time_minutes": 30
+    "reading_time_minutes": 30,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "1041",
@@ -1657,7 +2152,10 @@
     "description": "Shall I compare thee to a summer's day — 154 immortal sonnets.",
     "cover": "https://bookhive-content.pages.dev/book_cover/1041.webp",
     "content_url": "https://bookhive-content.pages.dev/books/1041.html",
-    "reading_time_minutes": 64
+    "reading_time_minutes": 64,
+    "year": 1609,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "4798",
@@ -1667,7 +2165,10 @@
     "description": "Doctor Faustus and other dramatic poems by Shakespeare's great rival.",
     "cover": "https://bookhive-content.pages.dev/book_cover/4798.webp",
     "content_url": "https://bookhive-content.pages.dev/books/4798.html",
-    "reading_time_minutes": 194
+    "reading_time_minutes": 194,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "3203",
@@ -1677,7 +2178,10 @@
     "description": "The Task and other poems by the forerunner of English Romanticism.",
     "cover": "https://bookhive-content.pages.dev/book_cover/3203.webp",
     "content_url": "https://bookhive-content.pages.dev/books/3203.html",
-    "reading_time_minutes": 30
+    "reading_time_minutes": 30,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "7048",
@@ -1687,7 +2191,10 @@
     "description": "Thanatopsis and other nature poems by America's first major poet.",
     "cover": "https://bookhive-content.pages.dev/book_cover/7048.webp",
     "content_url": "https://bookhive-content.pages.dev/books/7048.html",
-    "reading_time_minutes": 175
+    "reading_time_minutes": 175,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "574",
@@ -1697,7 +2204,10 @@
     "description": "The Tyger, The Lamb, and other visionary works by William Blake.",
     "cover": "https://bookhive-content.pages.dev/book_cover/574.webp",
     "content_url": "https://bookhive-content.pages.dev/books/574.html",
-    "reading_time_minutes": 30
+    "reading_time_minutes": 30,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "22403",
@@ -1707,7 +2217,10 @@
     "description": "The Windhover and other sprung-rhythm poems of nature and faith.",
     "cover": "https://bookhive-content.pages.dev/book_cover/22403.webp",
     "content_url": "https://bookhive-content.pages.dev/books/22403.html",
-    "reading_time_minutes": 84
+    "reading_time_minutes": 84,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "1063",
@@ -1717,7 +2230,10 @@
     "description": "Dulce et Decorum Est — the definitive poetry of World War One.",
     "cover": "https://bookhive-content.pages.dev/book_cover/1063.webp",
     "content_url": "https://bookhive-content.pages.dev/books/1063.html",
-    "reading_time_minutes": 30
+    "reading_time_minutes": 30,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "19629",
@@ -1727,7 +2243,10 @@
     "description": "The Hound of Heaven — mystical Catholic poetry of pursuit and redemption.",
     "cover": "https://bookhive-content.pages.dev/book_cover/19629.webp",
     "content_url": "https://bookhive-content.pages.dev/books/19629.html",
-    "reading_time_minutes": 392
+    "reading_time_minutes": 392,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "4519",
@@ -1737,7 +2256,10 @@
     "description": "Snake and other sensuous, free-verse poems celebrating nature and life.",
     "cover": "https://bookhive-content.pages.dev/book_cover/4519.webp",
     "content_url": "https://bookhive-content.pages.dev/books/4519.html",
-    "reading_time_minutes": 207
+    "reading_time_minutes": 207,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "4700",
@@ -1747,7 +2269,10 @@
     "description": "Lush, musical verse on love, death, and pagan beauty.",
     "cover": "https://bookhive-content.pages.dev/book_cover/4700.webp",
     "content_url": "https://bookhive-content.pages.dev/books/4700.html",
-    "reading_time_minutes": 30
+    "reading_time_minutes": 30,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "1321",
@@ -1757,7 +2282,10 @@
     "description": "Do I dare disturb the universe? Eliot's modernist masterpiece.",
     "cover": "https://bookhive-content.pages.dev/book_cover/1321.webp",
     "content_url": "https://bookhive-content.pages.dev/books/1321.html",
-    "reading_time_minutes": 30
+    "reading_time_minutes": 30,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "1998",
@@ -1767,7 +2295,10 @@
     "description": "Nietzsche's prophet proclaims the Übermensch and the death of God.",
     "cover": "https://bookhive-content.pages.dev/book_cover/1998.webp",
     "content_url": "https://bookhive-content.pages.dev/books/1998.html",
-    "reading_time_minutes": 413
+    "reading_time_minutes": 413,
+    "year": 1883,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "4363",
@@ -1777,7 +2308,10 @@
     "description": "A radical critique of past philosophers and their moral assumptions.",
     "cover": "https://bookhive-content.pages.dev/book_cover/4363.webp",
     "content_url": "https://bookhive-content.pages.dev/books/4363.html",
-    "reading_time_minutes": 210
+    "reading_time_minutes": 210,
+    "year": 1886,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "2680",
@@ -1787,7 +2321,10 @@
     "description": "The Stoic emperor's private journal on virtue, duty, and impermanence.",
     "cover": "https://bookhive-content.pages.dev/book_cover/2680.webp",
     "content_url": "https://bookhive-content.pages.dev/books/2680.html",
-    "reading_time_minutes": 266
+    "reading_time_minutes": 266,
+    "year": 180,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "1497",
@@ -1797,7 +2334,10 @@
     "description": "Plato's dialogue on justice, the ideal state, and the philosopher-king.",
     "cover": "https://bookhive-content.pages.dev/book_cover/1497.webp",
     "content_url": "https://bookhive-content.pages.dev/books/1497.html",
-    "reading_time_minutes": 613
+    "reading_time_minutes": 613,
+    "year": -380,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "1600",
@@ -1807,7 +2347,10 @@
     "description": "A dinner party debate on the nature of love and beauty.",
     "cover": "https://bookhive-content.pages.dev/book_cover/1600.webp",
     "content_url": "https://bookhive-content.pages.dev/books/1600.html",
-    "reading_time_minutes": 97
+    "reading_time_minutes": 97,
+    "year": -385,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "1658",
@@ -1817,7 +2360,10 @@
     "description": "Socrates's last hours — a dialogue on the immortality of the soul.",
     "cover": "https://bookhive-content.pages.dev/book_cover/1658.webp",
     "content_url": "https://bookhive-content.pages.dev/books/1658.html",
-    "reading_time_minutes": 131
+    "reading_time_minutes": 131,
+    "year": -360,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "1656",
@@ -1827,7 +2373,10 @@
     "description": "Socrates defends himself at his trial in this classic text.",
     "cover": "https://bookhive-content.pages.dev/book_cover/1656.webp",
     "content_url": "https://bookhive-content.pages.dev/books/1656.html",
-    "reading_time_minutes": 44
+    "reading_time_minutes": 44,
+    "year": -399,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "8438",
@@ -1837,7 +2386,10 @@
     "description": "Aristotle's definitive treatise on virtue, happiness, and the good life.",
     "cover": "https://bookhive-content.pages.dev/book_cover/8438.webp",
     "content_url": "https://bookhive-content.pages.dev/books/8438.html",
-    "reading_time_minutes": 349
+    "reading_time_minutes": 349,
+    "year": -350,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "6762",
@@ -1847,7 +2399,10 @@
     "description": "Aristotle's foundational analysis of the state and human community.",
     "cover": "https://bookhive-content.pages.dev/book_cover/6762.webp",
     "content_url": "https://bookhive-content.pages.dev/books/6762.html",
-    "reading_time_minutes": 321
+    "reading_time_minutes": 321,
+    "year": -350,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "59",
@@ -1857,7 +2412,10 @@
     "description": "I think therefore I am — Descartes rebuilds knowledge from scratch.",
     "cover": "https://bookhive-content.pages.dev/book_cover/59.webp",
     "content_url": "https://bookhive-content.pages.dev/books/59.html",
-    "reading_time_minutes": 64
+    "reading_time_minutes": 64,
+    "year": 1641,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "3800",
@@ -1867,7 +2425,10 @@
     "description": "A geometric proof that God, nature, and mind are one substance.",
     "cover": "https://bookhive-content.pages.dev/book_cover/3800.webp",
     "content_url": "https://bookhive-content.pages.dev/books/3800.html",
-    "reading_time_minutes": 259
+    "reading_time_minutes": 259,
+    "year": 1677,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "3207",
@@ -1877,7 +2438,10 @@
     "description": "Without government, life is nasty, brutish, and short — Hobbes's argument.",
     "cover": "https://bookhive-content.pages.dev/book_cover/3207.webp",
     "content_url": "https://bookhive-content.pages.dev/books/3207.html",
-    "reading_time_minutes": 719
+    "reading_time_minutes": 719,
+    "year": 1651,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "7370",
@@ -1887,7 +2451,10 @@
     "description": "The philosophical foundation of liberal democracy and human rights.",
     "cover": "https://bookhive-content.pages.dev/book_cover/7370.webp",
     "content_url": "https://bookhive-content.pages.dev/books/7370.html",
-    "reading_time_minutes": 159
+    "reading_time_minutes": 159,
+    "year": 1689,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "10615",
@@ -1897,7 +2464,10 @@
     "description": "The mind as a blank slate — Locke's empiricist theory of knowledge.",
     "cover": "https://bookhive-content.pages.dev/book_cover/10615.webp",
     "content_url": "https://bookhive-content.pages.dev/books/10615.html",
-    "reading_time_minutes": 418
+    "reading_time_minutes": 418,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "4705",
@@ -1907,7 +2477,10 @@
     "description": "Reason is the slave of the passions — Hume's radical empiricism.",
     "cover": "https://bookhive-content.pages.dev/book_cover/4705.webp",
     "content_url": "https://bookhive-content.pages.dev/books/4705.html",
-    "reading_time_minutes": 733
+    "reading_time_minutes": 733,
+    "year": 1739,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "9662",
@@ -1917,7 +2490,10 @@
     "description": "Hume's accessible introduction to his skeptical philosophy.",
     "cover": "https://bookhive-content.pages.dev/book_cover/9662.webp",
     "content_url": "https://bookhive-content.pages.dev/books/9662.html",
-    "reading_time_minutes": 198
+    "reading_time_minutes": 198,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "4280",
@@ -1927,7 +2503,10 @@
     "description": "The Copernican revolution in philosophy — the mind shapes experience.",
     "cover": "https://bookhive-content.pages.dev/book_cover/4280.webp",
     "content_url": "https://bookhive-content.pages.dev/books/4280.html",
-    "reading_time_minutes": 632
+    "reading_time_minutes": 632,
+    "year": 1781,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "5682",
@@ -1937,7 +2516,10 @@
     "description": "Act only according to principles you could will to be universal laws.",
     "cover": "https://bookhive-content.pages.dev/book_cover/5682.webp",
     "content_url": "https://bookhive-content.pages.dev/books/5682.html",
-    "reading_time_minutes": 97
+    "reading_time_minutes": 97,
+    "year": 1785,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "38427",
@@ -1947,7 +2529,10 @@
     "description": "Reality is blind, striving will — and art is our only escape.",
     "cover": "https://bookhive-content.pages.dev/book_cover/38427.webp",
     "content_url": "https://bookhive-content.pages.dev/books/38427.html",
-    "reading_time_minutes": 556
+    "reading_time_minutes": 556,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "44929",
@@ -1957,7 +2542,10 @@
     "description": "Compassion, not duty, is the only genuine foundation of ethics.",
     "cover": "https://bookhive-content.pages.dev/book_cover/44929.webp",
     "content_url": "https://bookhive-content.pages.dev/books/44929.html",
-    "reading_time_minutes": 268
+    "reading_time_minutes": 268,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "4887",
@@ -1967,7 +2555,10 @@
     "description": "Abraham's willingness to sacrifice Isaac — faith beyond reason.",
     "cover": "https://bookhive-content.pages.dev/book_cover/4887.webp",
     "content_url": "https://bookhive-content.pages.dev/books/4887.html",
-    "reading_time_minutes": 38
+    "reading_time_minutes": 38,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "34901",
@@ -1977,7 +2568,10 @@
     "description": "The harm principle — the only limit on individual freedom is harm to others.",
     "cover": "https://bookhive-content.pages.dev/book_cover/34901.webp",
     "content_url": "https://bookhive-content.pages.dev/books/34901.html",
-    "reading_time_minutes": 164
+    "reading_time_minutes": 164,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "11224",
@@ -1987,7 +2581,10 @@
     "description": "The greatest happiness of the greatest number is the measure of right.",
     "cover": "https://bookhive-content.pages.dev/book_cover/11224.webp",
     "content_url": "https://bookhive-content.pages.dev/books/11224.html",
-    "reading_time_minutes": 81
+    "reading_time_minutes": 81,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "27083",
@@ -1997,7 +2594,10 @@
     "description": "A radical argument for complete equality between men and women.",
     "cover": "https://bookhive-content.pages.dev/book_cover/27083.webp",
     "content_url": "https://bookhive-content.pages.dev/books/27083.html",
-    "reading_time_minutes": 134
+    "reading_time_minutes": 134,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "205",
@@ -2007,7 +2607,10 @@
     "description": "Two years alone in the woods — a classic of simple living and nature.",
     "cover": "https://bookhive-content.pages.dev/book_cover/205.webp",
     "content_url": "https://bookhive-content.pages.dev/books/205.html",
-    "reading_time_minutes": 319
+    "reading_time_minutes": 319,
+    "year": 1854,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "71",
@@ -2017,7 +2620,10 @@
     "description": "The duty to resist unjust laws — the inspiration for Gandhi and MLK.",
     "cover": "https://bookhive-content.pages.dev/book_cover/71.webp",
     "content_url": "https://bookhive-content.pages.dev/books/71.html",
-    "reading_time_minutes": 30
+    "reading_time_minutes": 30,
+    "year": 1849,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "16643",
@@ -2027,7 +2633,10 @@
     "description": "Trust thyself — Emerson's manifesto of American individualism.",
     "cover": "https://bookhive-content.pages.dev/book_cover/16643.webp",
     "content_url": "https://bookhive-content.pages.dev/books/16643.html",
-    "reading_time_minutes": 375
+    "reading_time_minutes": 375,
+    "year": 1841,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "2944",
@@ -2037,7 +2646,10 @@
     "description": "Compensation, Friendship, and other essays of Transcendentalist wisdom.",
     "cover": "https://bookhive-content.pages.dev/book_cover/2944.webp",
     "content_url": "https://bookhive-content.pages.dev/books/2944.html",
-    "reading_time_minutes": 211
+    "reading_time_minutes": 211,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "61",
@@ -2047,7 +2659,10 @@
     "description": "Workers of the world unite — the founding document of communism.",
     "cover": "https://bookhive-content.pages.dev/book_cover/61.webp",
     "content_url": "https://bookhive-content.pages.dev/books/61.html",
-    "reading_time_minutes": 38
+    "reading_time_minutes": 38,
+    "year": 1848,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "1232",
@@ -2057,7 +2672,10 @@
     "description": "It is better to be feared than loved — a ruthless guide to political power.",
     "cover": "https://bookhive-content.pages.dev/book_cover/1232.webp",
     "content_url": "https://bookhive-content.pages.dev/books/1232.html",
-    "reading_time_minutes": 149
+    "reading_time_minutes": 149,
+    "year": 1532,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "10827",
@@ -2067,7 +2685,10 @@
     "description": "Machiavelli's republican political philosophy drawn from Roman history.",
     "cover": "https://bookhive-content.pages.dev/book_cover/10827.webp",
     "content_url": "https://bookhive-content.pages.dev/books/10827.html",
-    "reading_time_minutes": 409
+    "reading_time_minutes": 409,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "2130",
@@ -2077,7 +2698,10 @@
     "description": "A description of an ideal island commonwealth with no private property.",
     "cover": "https://bookhive-content.pages.dev/book_cover/2130.webp",
     "content_url": "https://bookhive-content.pages.dev/books/2130.html",
-    "reading_time_minutes": 120
+    "reading_time_minutes": 120,
+    "year": 1516,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "46333",
@@ -2087,7 +2711,10 @@
     "description": "Man is born free but everywhere is in chains — Rousseau's masterwork.",
     "cover": "https://bookhive-content.pages.dev/book_cover/46333.webp",
     "content_url": "https://bookhive-content.pages.dev/books/46333.html",
-    "reading_time_minutes": 366
+    "reading_time_minutes": 366,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "18269",
@@ -2097,7 +2724,10 @@
     "description": "Fragmented thoughts on faith, reason, and the human condition.",
     "cover": "https://bookhive-content.pages.dev/book_cover/18269.webp",
     "content_url": "https://bookhive-content.pages.dev/books/18269.html",
-    "reading_time_minutes": 423
+    "reading_time_minutes": 423,
+    "year": 1670,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "14328",
@@ -2107,7 +2737,10 @@
     "description": "Written in prison awaiting execution — on fortune, fate, and true happiness.",
     "cover": "https://bookhive-content.pages.dev/book_cover/14328.webp",
     "content_url": "https://bookhive-content.pages.dev/books/14328.html",
-    "reading_time_minutes": 149
+    "reading_time_minutes": 149,
+    "year": 524,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "3296",
@@ -2117,7 +2750,10 @@
     "description": "Our heart is restless until it rests in Thee — a spiritual autobiography.",
     "cover": "https://bookhive-content.pages.dev/book_cover/3296.webp",
     "content_url": "https://bookhive-content.pages.dev/books/3296.html",
-    "reading_time_minutes": 330
+    "reading_time_minutes": 330,
+    "year": 400,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "45109",
@@ -2127,7 +2763,10 @@
     "description": "A concise Stoic handbook — some things are in our power, others are not.",
     "cover": "https://bookhive-content.pages.dev/book_cover/45109.webp",
     "content_url": "https://bookhive-content.pages.dev/books/45109.html",
-    "reading_time_minutes": 38
+    "reading_time_minutes": 38,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "4584",
@@ -2137,7 +2776,10 @@
     "description": "The slave philosopher's teachings on freedom, virtue, and endurance.",
     "cover": "https://bookhive-content.pages.dev/book_cover/4584.webp",
     "content_url": "https://bookhive-content.pages.dev/books/4584.html",
-    "reading_time_minutes": 409
+    "reading_time_minutes": 409,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "2884",
@@ -2147,7 +2789,10 @@
     "description": "Practical wisdom on how to live well — letters to a young friend.",
     "cover": "https://bookhive-content.pages.dev/book_cover/2884.webp",
     "content_url": "https://bookhive-content.pages.dev/books/2884.html",
-    "reading_time_minutes": 197
+    "reading_time_minutes": 197,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "785",
@@ -2157,7 +2802,10 @@
     "description": "Atoms, void, and the mortality of the soul — Epicurean philosophy in verse.",
     "cover": "https://bookhive-content.pages.dev/book_cover/785.webp",
     "content_url": "https://bookhive-content.pages.dev/books/785.html",
-    "reading_time_minutes": 239
+    "reading_time_minutes": 239,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "5116",
@@ -2167,7 +2815,10 @@
     "description": "Truth is what works — America's great contribution to philosophy.",
     "cover": "https://bookhive-content.pages.dev/book_cover/5116.webp",
     "content_url": "https://bookhive-content.pages.dev/books/5116.html",
-    "reading_time_minutes": 171
+    "reading_time_minutes": 171,
+    "year": 1907,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "621",
@@ -2177,7 +2828,10 @@
     "description": "A psychologist's masterful study of mysticism and religious feeling.",
     "cover": "https://bookhive-content.pages.dev/book_cover/621.webp",
     "content_url": "https://bookhive-content.pages.dev/books/621.html",
-    "reading_time_minutes": 562
+    "reading_time_minutes": 562,
+    "year": 1902,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "26659",
@@ -2187,7 +2841,10 @@
     "description": "Sometimes we must believe before we have proof — James on faith.",
     "cover": "https://bookhive-content.pages.dev/book_cover/26659.webp",
     "content_url": "https://bookhive-content.pages.dev/books/26659.html",
-    "reading_time_minutes": 325
+    "reading_time_minutes": 325,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "38145",
@@ -2197,7 +2854,10 @@
     "description": "Nietzsche breaks with Wagner and Romanticism in this aphoristic work.",
     "cover": "https://bookhive-content.pages.dev/book_cover/38145.webp",
     "content_url": "https://bookhive-content.pages.dev/books/38145.html",
-    "reading_time_minutes": 118
+    "reading_time_minutes": 118,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "51356",
@@ -2207,7 +2867,10 @@
     "description": "Apollo vs Dionysus — Nietzsche's theory of art and Greek culture.",
     "cover": "https://bookhive-content.pages.dev/book_cover/51356.webp",
     "content_url": "https://bookhive-content.pages.dev/books/51356.html",
-    "reading_time_minutes": 178
+    "reading_time_minutes": 178,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "4070",
@@ -2217,7 +2880,10 @@
     "description": "The aesthetic versus the ethical life — Kierkegaard's first masterwork.",
     "cover": "https://bookhive-content.pages.dev/book_cover/4070.webp",
     "content_url": "https://bookhive-content.pages.dev/books/4070.html",
-    "reading_time_minutes": 114
+    "reading_time_minutes": 114,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "46",
@@ -2227,7 +2893,10 @@
     "description": "A rigorous analysis of capitalism, commodities, and exploitation.",
     "cover": "https://bookhive-content.pages.dev/book_cover/46.webp",
     "content_url": "https://bookhive-content.pages.dev/books/46.html",
-    "reading_time_minutes": 107
+    "reading_time_minutes": 107,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "12536",
@@ -2237,7 +2906,10 @@
     "description": "Consciousness's journey to Absolute Knowledge in Hegel's masterwork.",
     "cover": "https://bookhive-content.pages.dev/book_cover/12536.webp",
     "content_url": "https://bookhive-content.pages.dev/books/12536.html",
-    "reading_time_minutes": 51
+    "reading_time_minutes": 51,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "9657",
@@ -2247,7 +2919,10 @@
     "description": "A young sailor joins a voyage plagued by mutiny on the high seas.",
     "cover": "https://bookhive-content.pages.dev/book_cover/9657.webp",
     "content_url": "https://bookhive-content.pages.dev/books/9657.html",
-    "reading_time_minutes": 220
+    "reading_time_minutes": 220,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   },
   {
     "id": "1279",
@@ -2257,6 +2932,9 @@
     "description": "Auld Lang Syne and other beloved Scottish poems and songs.",
     "cover": "https://bookhive-content.pages.dev/book_cover/1279.webp",
     "content_url": "https://bookhive-content.pages.dev/books/1279.html",
-    "reading_time_minutes": 524
+    "reading_time_minutes": 524,
+    "year": 1800,
+    "popularity": 70,
+    "rating": 4.5
   }
 ]
