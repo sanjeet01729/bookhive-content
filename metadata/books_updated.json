@@ -2861,7 +2861,7 @@
     "cover": "https://bookhive-content.pages.dev/book_cover/2199.webp",
     "content_url": "https://bookhive-content.pages.dev/books/2199.html",
     "reading_time_minutes": 454,
-    "year": 0,
+    "year": -660,
     "popularity": 10380,
     "rating": 4.7,
     "tags": [
@@ -2884,7 +2884,7 @@
     "cover": "https://bookhive-content.pages.dev/book_cover/1727.webp",
     "content_url": "https://bookhive-content.pages.dev/books/1727.html",
     "reading_time_minutes": 372,
-    "year": 0,
+    "year": -660,
     "popularity": 23430,
     "rating": 4.8,
     "tags": [
@@ -3609,8 +3609,7 @@
     "rating": 4.8,
     "tags": [
       "Classic",
-      "Philosophy",
-      "Self-Help"
+      "Philosophy"
     ]
   },
   {
@@ -4013,8 +4012,7 @@
       "Nature",
       "Philosophy",
       "Politics",
-      "Society",
-      "Self-Help"
+      "Society"
     ]
   },
   {
@@ -4033,8 +4031,7 @@
       "American",
       "Classic",
       "Philosophy",
-      "Politics",
-      "Self-Help"
+      "Politics"
     ]
   },
   {
@@ -4052,8 +4049,7 @@
     "tags": [
       "American",
       "Classic",
-      "Philosophy",
-      "Self-Help"
+      "Philosophy"
     ]
   },
   {
@@ -4071,8 +4067,7 @@
     "tags": [
       "American",
       "Classic",
-      "Philosophy",
-      "Self-Help"
+      "Philosophy"
     ]
   },
   {
@@ -4250,8 +4245,7 @@
     "tags": [
       "Ancient",
       "Classic",
-      "Philosophy",
-      "Self-Help"
+      "Philosophy"
     ]
   },
   {
@@ -4272,8 +4266,7 @@
       "Medieval",
       "Philosophy",
       "Religion",
-      "Spiritual",
-      "Self-Help"
+      "Spiritual"
     ]
   },
   {
@@ -4292,8 +4285,7 @@
       "Biology",
       "Classic",
       "Nature",
-      "Science",
-      "Self-Help"
+      "Science"
     ]
   },
   {
@@ -4314,8 +4306,7 @@
       "Classic",
       "Latin",
       "Philosophy",
-      "Poetry",
-      "Self-Help"
+      "Poetry"
     ]
   },
   {
@@ -4537,7 +4528,7 @@
       "History",
       "War"
     ],
-    "year": 0,
+    "year": -440,
     "popularity": 3650,
     "rating": 4.5
   },
@@ -4556,7 +4547,7 @@
       "History",
       "War"
     ],
-    "year": 0,
+    "year": -405,
     "popularity": 8891,
     "rating": 4.6
   },
@@ -5180,7 +5171,7 @@
       "Classic",
       "History"
     ],
-    "year": 0,
+    "year": -440,
     "popularity": 6311,
     "rating": 4.6
   },
@@ -6847,8 +6838,7 @@
       "British",
       "Classic",
       "Drama",
-      "Mythology",
-      "Self-Help"
+      "Mythology"
     ],
     "year": 1601,
     "popularity": 9795,
@@ -12134,143 +12124,151 @@
     "title": "Tales of the Punjab",
     "author": "Flora Annie Steel",
     "category": "Mythology",
-    "description": "Classic folk stories from the Punjab region, featuring clever jackals, soldiers, and traditional village lore.",
+    "description": "The Odyssey of Sam Meecham\" by Charles E. Fritch is a science fiction novel written in the early 1950s. The story follows the unlikely protagonist, Sam Meecham, a meek government worker who discovers an atomic engine with unlimited power, leading him to break free from his mundane life and ventur...",
     "tags": [
-      "Mythology",
       "Classic",
-      "Ancient"
+      "Fantasy",
+      "Fiction",
+      "Science",
+      "Short Stories"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/29355.webp",
     "content_url": "https://bookhive-content.pages.dev/books/29355.html",
     "reading_time_minutes": 30,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 305,
+    "rating": 4.3
   },
   {
     "id": "43542",
     "title": "Old Deccan Days; or, Hindoo Fairy Legends",
     "author": "Mary Frere",
     "category": "Mythology",
-    "description": "The first major English collection of Southern Indian oral folklore, collected directly from oral narrators.",
+    "description": "Beginners Luck\" by Emily Hahn is a novel likely written in the early to mid-20th century. The story follows Blake Lennard, a young man arriving in Santa Fé after being expelled from school, as he navigates his new environment and seeks to understand himself amidst a backdrop of artistic aspiratio...",
     "tags": [
-      "Mythology",
+      "American",
       "Classic",
-      "Ancient"
+      "Fiction"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/43542.webp",
     "content_url": "https://bookhive-content.pages.dev/books/43542.html",
     "reading_time_minutes": 142,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 375,
+    "rating": 4.3
   },
   {
     "id": "34636",
     "title": "Folk-Lore of the Santal Parganas",
     "author": "Cecil Henry Bompas",
     "category": "Mythology",
-    "description": "An exceptional anthropological collection of oral myths, creation folklore, and monster stories from the Santal people.",
+    "description": "腕くらべ\" by Kafu Nagai is a Japanese novel written between 1916-1917 about the geisha district of Shimbashi in early 20th-century Tokyo. The story follows Komayo, a geisha who returns to the pleasure quarters after her husband's death. She navigates complicated relationships with two men: Yoshioka, ...",
     "tags": [
-      "Mythology",
       "Classic",
-      "Ancient"
+      "Fiction"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/34636.webp",
     "content_url": "https://bookhive-content.pages.dev/books/34636.html",
     "reading_time_minutes": 318,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 548,
+    "rating": 4.3
   },
   {
     "id": "15502",
     "title": "The Jataka, Volume 1",
     "author": "Robert Chalmers",
     "category": "Mythology",
-    "description": "The canonical, foundational Buddhist birth stories tracking previous animal and human incarnations of the Buddha using moral metrics.",
+    "description": "The Desert Valley\" by Jackson Gregory is a novel written in the early 20th century. Set against the backdrop of the southwestern desert lands of Arizona and New Mexico, the story likely explores themes of adventure and mystery as characters navigate the harsh yet captivating desert environment. T...",
     "tags": [
-      "Mythology",
+      "Adventure",
+      "American",
       "Classic",
-      "Ancient"
+      "Fiction"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/15502.webp",
     "content_url": "https://bookhive-content.pages.dev/books/15502.html",
     "reading_time_minutes": 242,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 345,
+    "rating": 4.3
   },
   {
     "id": "38435",
     "title": "Buddhist Birth-Stories (Jataka Tales)",
     "author": "Thomas William Rhys Davids",
     "category": "Mythology",
-    "description": "The definitive, highly accessible classic translation of the ancient subcontinental fable matrices.",
+    "description": "Le Morne-au-Diable\" by Eugène Sue is a historical novel written in the mid-19th century. Set during the late 17th century, it revolves around the voyage of the three-masted ship, La Licorne, which is traveling from La Rochelle to Martinique amid the tumult of war and piracy in the Caribbean. Cent...",
     "tags": [
-      "Mythology",
+      "Adventure",
       "Classic",
-      "Ancient"
+      "Fiction",
+      "French",
+      "Historical"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/38435.webp",
     "content_url": "https://bookhive-content.pages.dev/books/38435.html",
     "reading_time_minutes": 381,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 475,
+    "rating": 4.3
   },
   {
     "id": "2438",
     "title": "The Agamemnon of Aeschylus",
     "author": "Aeschylus",
     "category": "Mythology",
-    "description": "The powerful ancient Greek tragedy charting royal blood curses, prophecies, and divine fate.",
+    "description": "Daphne: An Autumn Pastoral\" by Margaret Pollock Sherwood is a novel likely written in the early 20th century. The story focuses on a young American woman named Daphne Willis who finds herself in Italy, navigating a new landscape rich with beauty and complex emotions, while trying to communicate w...",
     "tags": [
-      "Mythology",
+      "American",
       "Classic",
-      "Ancient"
+      "Fiction"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/2438.webp",
     "content_url": "https://bookhive-content.pages.dev/books/2438.html",
     "reading_time_minutes": 70,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 480,
+    "rating": 4.3
   },
   {
     "id": "8604",
     "title": "The House of Atreus",
     "author": "Aeschylus",
     "category": "Mythology",
-    "description": "The full legendary Oresteia trilogy outlining the transition from blood feuds to civic justice.",
+    "description": "The House of Atreus; Being the Agamemnon, the Libation bearers, and the Furies\" by Aeschylus is a trilogy of Greek tragedies written in the 5th century BC. When King Agamemnon returns victorious from Troy, his wife Clytemnestra awaits with murderous plans. Her killing unleashes a cycle of vengean...",
     "tags": [
-      "Mythology",
       "Classic",
-      "Ancient"
+      "Drama",
+      "Folklore",
+      "Mythology"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/8604.webp",
     "content_url": "https://bookhive-content.pages.dev/books/8604.html",
     "reading_time_minutes": 129,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 901,
+    "rating": 4.3
   },
   {
     "id": "8714",
     "title": "Four Plays of Aeschylus",
     "author": "Aeschylus",
     "category": "Mythology",
-    "description": "Prometheus Bound and other foundational tragedies tracking cosmic conflicts between gods and mortals.",
+    "description": "Four Plays of Aeschylus\" by Aeschylus is a collection of ancient Greek tragedies translated into English verse, reflecting works that likely date back to the 5th century BC. This anthology includes notable plays such as \"The Suppliant Maidens,\" \"The Persians,\" \"The Seven Against Thebes,\" and \"Pro...",
     "tags": [
-      "Mythology",
+      "British",
       "Classic",
-      "Ancient"
+      "Drama",
+      "Folklore",
+      "Greek",
+      "Mythology"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/8714.webp",
     "content_url": "https://bookhive-content.pages.dev/books/8714.html",
     "reading_time_minutes": 144,
     "year": 1900,
-    "popularity": 1000,
+    "popularity": 1256,
     "rating": 4.5
   },
   {
@@ -12278,35 +12276,39 @@
     "title": "Oedipus King of Thebes",
     "author": "Sophocles",
     "category": "Mythology",
-    "description": "Gilbert Murray's powerful rhyming translation of the quintessential tragedy of fate and oracle execution.",
+    "description": "Oedipus King of Thebes\" by Sophocles is an Athenian tragedy written around 429 BC. When a plague ravages Thebes, King Oedipus vows to find and punish the murderer of the previous king, Laius. As he investigates, the blind prophet Tiresias warns him to abandon his search. But Oedipus persists, una...",
     "tags": [
-      "Mythology",
       "Classic",
-      "Ancient"
+      "Drama",
+      "Folklore",
+      "Greek",
+      "Mythology"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/27673.webp",
     "content_url": "https://bookhive-content.pages.dev/books/27673.html",
     "reading_time_minutes": 86,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 24748,
+    "rating": 4.8
   },
   {
     "id": "3623",
     "title": "The Golden Bough: A Study in Magic and Religion",
     "author": "James George Frazer",
     "category": "Mythology",
-    "description": "The landmark anthropological text parsing evolutionary links between tribal magic and modern world faiths.",
+    "description": "The Golden Bough: A Study of Magic and Religion\" by James George Frazer is a comparative study first published in 1890. Frazer explores mythology and religion across cultures, examining fertility rites, human sacrifice, dying gods, and sacred kingship. His controversial thesis traces humanity's i...",
     "tags": [
-      "Mythology",
       "Classic",
-      "Ancient"
+      "Folklore",
+      "Mythology",
+      "Religion",
+      "Spiritual"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/3623.webp",
     "content_url": "https://bookhive-content.pages.dev/books/3623.html",
     "reading_time_minutes": 1147,
     "year": 1900,
-    "popularity": 1000,
+    "popularity": 3100,
     "rating": 4.5
   },
   {
@@ -12314,17 +12316,20 @@
     "title": "The Thoughts of Marcus Aurelius",
     "author": "Marcus Aurelius",
     "category": "Mythology",
-    "description": "The Stoic emperor's core personal journal on virtue, alignment, and the cosmic order of nature.",
+    "description": "The Nibelungenlied\" by an unknown author, translated by Daniel B. Shumway, is an epic poem written in Middle High German, probably around the early 13th century. The poem is a cornerstone of German literature and revolves around themes of heroism, love, betrayal, and tragedy, encapsulating the le...",
     "tags": [
-      "Mythology",
       "Classic",
-      "Ancient"
+      "Epic",
+      "Folklore",
+      "German",
+      "Mythology",
+      "Poetry"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/1151.webp",
     "content_url": "https://bookhive-content.pages.dev/books/1151.html",
     "reading_time_minutes": 318,
     "year": 1900,
-    "popularity": 1000,
+    "popularity": 1275,
     "rating": 4.5
   },
   {
@@ -12332,125 +12337,133 @@
     "title": "Meditations of Marcus Aurelius",
     "author": "Marcus Aurelius",
     "category": "Mythology",
-    "description": "The classic text-level compilation organizing the emperor's daily reminders on duty and destiny maps.",
+    "description": "The Meditations of the Emperor Marcus Aurelius Antoninus\" by Marcus Aurelius is a series of personal writings composed between 170-180 CE. Written in Greek as private notes to himself, these reflections capture the Roman Emperor's thoughts on Stoic philosophy and self-improvement during military ...",
     "tags": [
-      "Mythology",
       "Classic",
-      "Ancient"
+      "Philosophy"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/55317.webp",
     "content_url": "https://bookhive-content.pages.dev/books/55317.html",
     "reading_time_minutes": 119,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 6884,
+    "rating": 4.6
   },
   {
     "id": "15877",
     "title": "The Thoughts of the Emperor M. Aurelius Antoninus",
     "author": "George Long",
     "category": "Mythology",
-    "description": "The highly precise, authoritative 19th-century standard translation of classical Stoic tracking parameters.",
+    "description": "Thoughts of Marcus Aurelius Antoninus\" by Emperor of Rome Marcus Aurelius is a series of personal writings composed between 170-180 CE. Written in Greek as private notes to himself during military campaigns, these reflections on Stoic philosophy were never intended for publication. Divided into t...",
     "tags": [
-      "Mythology",
+      "Ancient",
       "Classic",
-      "Ancient"
+      "History",
+      "Philosophy"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/15877.webp",
     "content_url": "https://bookhive-content.pages.dev/books/15877.html",
     "reading_time_minutes": 253,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 9808,
+    "rating": 4.6
   },
   {
     "id": "563",
     "title": "The Arabian Nights Entertainments",
     "author": "Andrew Lang",
     "category": "Mythology",
-    "description": "The definitive classic rendering of Scheherazade's tales, including Aladdin and Sinbad the Sailor.",
+    "description": "The Planet Mars and Its Inhabitants, a Psychic Revelation\" by J. L. Kennon is a spiritual and philosophical text written in the early 20th century. The work presents a unique exploration of Mars, purportedly narrated from the perspective of a Martian named Eros Urides, who seeks to convey the adv...",
     "tags": [
-      "Mythology",
       "Classic",
-      "Ancient"
+      "Fantasy",
+      "Fiction",
+      "Philosophy",
+      "Religion",
+      "Science",
+      "Spiritual"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/563.webp",
     "content_url": "https://bookhive-content.pages.dev/books/563.html",
     "reading_time_minutes": 67,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 623,
+    "rating": 4.3
   },
   {
     "id": "29896",
     "title": "Celtic Fairy Tales",
     "author": "Joseph Jacobs",
     "category": "Mythology",
-    "description": "Vibrant folk narratives, fairy lore, and heroic epics collected from traditional Gaelic storytelling.",
+    "description": "Sex--The Unknown Quantity: The Spiritual Function of Sex\" by McIvor-Tyndall is a philosophical exploration of sexuality written in the early 20th century. The work examines the spiritual significance and universal principles of sex, offering a perspective intended to provoke a revolutionary rethi...",
     "tags": [
-      "Mythology",
       "Classic",
-      "Ancient"
+      "Philosophy",
+      "Religion",
+      "Spiritual"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/29896.webp",
     "content_url": "https://bookhive-content.pages.dev/books/29896.html",
     "reading_time_minutes": 185,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 638,
+    "rating": 4.3
   },
   {
     "id": "7453",
     "title": "More Celtic Fairy Tales",
     "author": "Joseph Jacobs",
     "category": "Mythology",
-    "description": "The secondary archival compilation mapping supernatural encounters and regional folklore across Wales and Ireland.",
+    "description": "The Dialect of the West of England; Particularly Somersetshire\" by James Jennings is a linguistic exploration written in the late 19th century. The work is a detailed examination of the Somerset dialect, featuring a glossary of terms currently used in the area, alongside poems and literary pieces...",
     "tags": [
-      "Mythology",
+      "British",
       "Classic",
-      "Ancient"
+      "Poetry"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/7453.webp",
     "content_url": "https://bookhive-content.pages.dev/books/7453.html",
     "reading_time_minutes": 126,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 514,
+    "rating": 4.3
   },
   {
     "id": "7852",
     "title": "Folk Tales of Bengal",
     "author": "Lal Behari Day",
     "category": "Mythology",
-    "description": "The authentic preservation of rural Bengali household legends, prince quests, and demon matrices.",
+    "description": "Memoirs of Aaron Burr, Complete\" by Aaron Burr is a historical account written in the early 19th century. The book provides an introspective look into the life of Colonel Aaron Burr, a prominent figure in early American history, exploring his political ambitions, military service, and personal re...",
     "tags": [
-      "Mythology",
+      "American",
+      "Biography",
       "Classic",
-      "Ancient"
+      "History",
+      "Politics"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/7852.webp",
     "content_url": "https://bookhive-content.pages.dev/books/7852.html",
     "reading_time_minutes": 861,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 834,
+    "rating": 4.3
   },
   {
     "id": "6378",
     "title": "Russian Fairy Tales",
     "author": "W.R.S. Ralston",
     "category": "Mythology",
-    "description": "Peasant oral traditions documenting Baba Yaga, firebirds, and Slavic supernatural survival scripts.",
+    "description": "Victory: An Island Tale\" by Joseph Conrad is a psychological novel published in 1915. It follows Axel Heyst, a rootless wanderer shaped by his father's pessimism, who rescues a young woman named Lena from mistreatment and takes her to his isolated island refuge. When a vengeful hotel owner spread...",
     "tags": [
-      "Mythology",
+      "British",
       "Classic",
-      "Ancient"
+      "Fiction",
+      "Women"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/6378.webp",
     "content_url": "https://bookhive-content.pages.dev/books/6378.html",
     "reading_time_minutes": 383,
     "year": 1900,
-    "popularity": 1000,
+    "popularity": 1521,
     "rating": 4.5
   },
   {
@@ -12458,503 +12471,556 @@
     "title": "Japanese Fairy Tales",
     "author": "Yei Theodora Ozaki",
     "category": "Mythology",
-    "description": "Beautiful, traditional folk accounts including Momotaro and Urashima Taro retold elegantly for readers.",
+    "description": "Celtic Fairy Tales\" by Joseph Jacobs is a collection of folk tales that showcases the rich storytelling tradition of the Celtic cultures, likely compiled in the late 19th century. The tales feature various characters, often connected to themes of magic, love, and adventure, while drawing from the...",
     "tags": [
-      "Mythology",
+      "Children",
       "Classic",
-      "Ancient"
+      "Fantasy",
+      "Folklore",
+      "Mythology",
+      "Young Adult"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/7885.webp",
     "content_url": "https://bookhive-content.pages.dev/books/7885.html",
     "reading_time_minutes": 212,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 681,
+    "rating": 4.3
   },
   {
     "id": "2825",
     "title": "Undine",
     "author": "Friedrich de la Motte Fouqué",
     "category": "Mythology",
-    "description": "The quintessential, haunting European romantic fairy tale tracking a water spirit acquiring a human soul.",
+    "description": "Undine\" by Friedrich de la Motte Fouque is a romantic fairy tale novel written in the early 19th century. The story follows Undine, a water sprite, and her encounters with humans, particularly focusing on her relationship with Sir Huldbrand of Ringstetten. The narrative delves into themes of love...",
     "tags": [
-      "Mythology",
+      "British",
       "Classic",
-      "Ancient"
+      "Fantasy",
+      "Fiction",
+      "Folklore",
+      "German",
+      "Mythology",
+      "Roman"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/2825.webp",
     "content_url": "https://bookhive-content.pages.dev/books/2825.html",
     "reading_time_minutes": 106,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 12573,
+    "rating": 4.7
   },
   {
     "id": "44425",
     "title": "River Legends; Or, Father Thames and Father Rhine",
     "author": "E.H. Knatchbull-Hugessen",
     "category": "Mythology",
-    "description": "An exceptional structural mythology parsing regional river folklore and water elemental lore icons.",
+    "description": "River Legends; Or, Father Thames and Father Rhine\" by E. H. Knatchbull-Hugessen is a collection of stories written in the late 19th century. The book presents enchanting tales of two personified rivers, Father Thames and Father Rhine, as they share legends connected to their respective waters. Th...",
     "tags": [
-      "Mythology",
+      "British",
+      "Children",
       "Classic",
-      "Ancient"
+      "Folklore",
+      "Mythology",
+      "Short Stories"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/44425.webp",
     "content_url": "https://bookhive-content.pages.dev/books/44425.html",
     "reading_time_minutes": 225,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 13323,
+    "rating": 4.7
   },
   {
     "id": "22248",
     "title": "The Indian Fairy Book: From Original Legends",
     "author": "Cornelius Mathews",
     "category": "Mythology",
-    "description": "Tracking star-myths, skin-walkers, and great animal spirits preserved by Native American tribal tellers.",
+    "description": "The Indian Fairy Book: From the Original Legends\" by Cornelius Mathews is a collection of tales inspired by Native American folklore, compiled and developed in the late 19th century. This anthology seeks to present these enchanting stories in a manner comparable to classic fairy tales from around...",
     "tags": [
-      "Mythology",
+      "Children",
       "Classic",
-      "Ancient"
+      "Fantasy",
+      "Folklore",
+      "Indian",
+      "Indigenous",
+      "Mythology",
+      "Young Adult"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/22248.webp",
     "content_url": "https://bookhive-content.pages.dev/books/22248.html",
     "reading_time_minutes": 224,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 6662,
+    "rating": 4.6
   },
   {
     "id": "2147",
     "title": "The Works of Edgar Allan Poe — Volume 1",
     "author": "Edgar Allan Poe",
     "category": "Mythology",
-    "description": "The opening index containing cosmic dread, architectural doom, and analytical investigative framing tracks.",
+    "description": "The Works of Edgar Allan Poe — Volume 1\" by Edgar Allan Poe is a collection of various literary works, likely written in the mid-19th century. This volume presents a comprehensive look at Poe’s contributions to the genres of horror, mystery, and poetry, showcasing his unique ability to navigate t...",
     "tags": [
-      "Mythology",
+      "American",
       "Classic",
-      "Ancient"
+      "Crime",
+      "Fantasy",
+      "Fiction",
+      "Horror",
+      "Mystery",
+      "Poetry"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/2147.webp",
     "content_url": "https://bookhive-content.pages.dev/books/2147.html",
     "reading_time_minutes": 290,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 15925,
+    "rating": 4.7
   },
   {
     "id": "25525",
     "title": "The Works of Edgar Allan Poe, The Raven Edition",
     "author": "Edgar Allan Poe",
     "category": "Mythology",
-    "description": "The omnibus poetic and short tracking run mapping out macabre aesthetics and gothic loss patterns.",
+    "description": "The Works of Edgar Allan Poe, The Raven Edition\" by Edgar Allan Poe is a comprehensive collection of his literary output, likely compiled in the late 19th century. This collection spans various genres, including poetry, essays, and gothic tales, showcasing Poe's distinctive style and exploration ...",
     "tags": [
-      "Mythology",
+      "American",
       "Classic",
-      "Ancient"
+      "Fantasy",
+      "Fiction",
+      "Horror",
+      "Poetry",
+      "Short Stories"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/25525.webp",
     "content_url": "https://bookhive-content.pages.dev/books/25525.html",
     "reading_time_minutes": 1421,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 10713,
+    "rating": 4.7
   },
   {
     "id": "10002",
     "title": "The House on the Borderland",
     "author": "William Hope Hodgson",
     "category": "Mythology",
-    "description": "A legendary masterpiece of subterranean horror and reality distortion that bridges classical ghost tales into cosmic mythos.",
+    "description": "The House on the Borderland\" by William Hope Hodgson is a supernatural horror novel published in 1908. A recluse living in an ancient, circular house in remote Ireland records his terrifying experiences in a journal later discovered by two fishermen. He encounters monstrous Swine-creatures emergi...",
     "tags": [
-      "Mythology",
+      "British",
       "Classic",
-      "Ancient"
+      "Crime",
+      "Fantasy",
+      "Fiction",
+      "Horror",
+      "Mystery",
+      "Science"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/10002.webp",
     "content_url": "https://bookhive-content.pages.dev/books/10002.html",
     "reading_time_minutes": 145,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 11056,
+    "rating": 4.7
   },
   {
     "id": "61168",
     "title": "The Man in the Brown Suit",
     "author": "Agatha Christie",
     "category": "Mythology",
-    "description": "A fast, thrilling international tracking mystery checking diamond thefts, identities, and island conspiracies.",
+    "description": "The Man in the Brown Suit\" by Agatha Christie is a detective novel published in 1924. When Anne Beddingfeld witnesses a man's death at a London tube station, she picks up a mysterious note that launches her into a dangerous adventure. Following clues across continents to South Africa, Anne pursue...",
     "tags": [
-      "Mythology",
+      "Adventure",
+      "British",
       "Classic",
-      "Ancient"
+      "Crime",
+      "Fiction",
+      "Mystery",
+      "Thriller",
+      "Women"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/61168.webp",
     "content_url": "https://bookhive-content.pages.dev/books/61168.html",
     "reading_time_minutes": 231,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 10521,
+    "rating": 4.7
   },
   {
     "id": "32854",
     "title": "Arsène Lupin, gentleman-cambrioleur",
     "author": "Maurice Leblanc",
     "category": "Mythology",
-    "description": "The historic original French text introducing the brilliant, master-of-disguise gentleman thief hero.",
+    "description": "Arsène Lupin, gentleman-cambrioleur\" by Maurice Leblanc is a collection of nine detective stories published in 1907. The work chronicles the first adventures of Arsène Lupin, a charming gentleman-thief who outwits police and high society alike. From his dramatic arrest aboard a transatlantic line...",
     "tags": [
-      "Mythology",
+      "Adventure",
       "Classic",
-      "Ancient"
+      "Crime",
+      "Fiction",
+      "French",
+      "Mystery",
+      "Short Stories",
+      "Thriller"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/32854.webp",
     "content_url": "https://bookhive-content.pages.dev/books/32854.html",
     "reading_time_minutes": 179,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 13739,
+    "rating": 4.7
   },
   {
     "id": "28093",
     "title": "The Confessions of Arsène Lupin",
     "author": "Maurice Leblanc",
     "category": "Mythology",
-    "description": "An exceptional short puzzle compilation tracking Lupin's most theatrical criminal deceptions and escapes.",
+    "description": "The Confessions of Arsène Lupin\" by Maurice Leblanc is a collection of adventure stories written in the early 20th century. The narrative revolves around Arsène Lupin, a suave gentleman thief who combines charm and cunning to outsmart the law and other adversaries. This work showcases his escapad...",
     "tags": [
-      "Mythology",
+      "Adventure",
       "Classic",
-      "Ancient"
+      "Crime",
+      "Fiction",
+      "French",
+      "Mystery",
+      "Short Stories",
+      "Thriller"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/28093.webp",
     "content_url": "https://bookhive-content.pages.dev/books/28093.html",
     "reading_time_minutes": 210,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 5768,
+    "rating": 4.6
   },
   {
     "id": "6400",
     "title": "The Lives of the Twelve Caesars",
     "author": "Suetonius",
     "category": "Mythology",
-    "description": "The definitive, highly scandalous historical chronicle tracking the omens, eccentricities, and reigns of Rome's early rulers.",
+    "description": "The Lives of the Twelve Caesars, Complete\" by Suetonius is a set of twelve biographies written in 121 CE. This ancient work chronicles the lives of Julius Caesar and the first eleven Roman emperors, from Augustus through Domitian. Suetonius served as personal secretary to Emperor Hadrian when he ...",
     "tags": [
-      "Mythology",
+      "Ancient",
+      "Biography",
       "Classic",
-      "Ancient"
+      "History"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/6400.webp",
     "content_url": "https://bookhive-content.pages.dev/books/6400.html",
     "reading_time_minutes": 782,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 19562,
+    "rating": 4.7
   },
   {
     "id": "20946",
     "title": "Memoirs of the Jacobites of 1715 and 1745. Vol I",
     "author": "Mrs. A.T. Thomson",
     "category": "Mythology",
-    "description": "Detailed archival records mapping out the political, religious, and military layout parameters of the Stuart uprisings.",
+    "description": "Memoirs of the Jacobites of 1715 and 1745. Volume I.\" by Mrs. A. T. Thomson is a historical account written in the mid-19th century. This work serves as a collective biography of the Jacobite movement, focusing on key figures and events surrounding the risings of 1715 and 1745. The narrative prom...",
     "tags": [
-      "Mythology",
+      "British",
       "Classic",
-      "Ancient"
+      "History"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/20946.webp",
     "content_url": "https://bookhive-content.pages.dev/books/20946.html",
     "reading_time_minutes": 359,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 6765,
+    "rating": 4.6
   },
   {
     "id": "20947",
     "title": "Memoirs of the Jacobites of 1715 and 1745. Vol II",
     "author": "Mrs. A.T. Thomson",
     "category": "Mythology",
-    "description": "Tracking specific high-treason trials, secret battlefield code networks, and exile executions.",
+    "description": "Memoirs of the Jacobites of 1715 and 1745. Volume II\" by Mrs. A. T. Thomson is a historical account written in the mid-19th century. The book delves into the lives and experiences of significant Jacobite figures from the two major uprisings in the early 18th century, particularly focusing on thei...",
     "tags": [
-      "Mythology",
+      "British",
       "Classic",
-      "Ancient"
+      "History"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/20947.webp",
     "content_url": "https://bookhive-content.pages.dev/books/20947.html",
     "reading_time_minutes": 340,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 8219,
+    "rating": 4.6
   },
   {
     "id": "20948",
     "title": "Memoirs of the Jacobites of 1715 and 1745. Vol III",
     "author": "Mrs. A.T. Thomson",
     "category": "Mythology",
-    "description": "The conclusive index outlining the total destruction of the Highland clan matrices following Culloden.",
+    "description": "Memoirs of the Jacobites of 1715 and 1745. Volume III.\" by Mrs. A. T. Thomson is a historical account written in the mid-19th century. The work delves into the lives and events surrounding the Jacobite uprisings, focusing on noteworthy figures and their roles in the political tensions between the...",
     "tags": [
-      "Mythology",
+      "British",
       "Classic",
-      "Ancient"
+      "History",
+      "War"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/20948.webp",
     "content_url": "https://bookhive-content.pages.dev/books/20948.html",
     "reading_time_minutes": 512,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 9019,
+    "rating": 4.6
   },
   {
     "id": "28158",
     "title": "History of the War in South Africa 1899-1902",
     "author": "Maurice Harold",
     "category": "Mythology",
-    "description": "A rigid, highly detailed tactical study assessing resource supply routing and guerrilla warfare mechanics.",
+    "description": "History of the War in South Africa 1899-1902 v. 1 (of 4)\" by Major-General Sir Frederick Maurice is a historical account written in the early 20th century. This detailed narrative examines the military conflict involving the British Empire and the Boer Republics, focusing on the preparations, ope...",
     "tags": [
-      "Mythology",
+      "African",
+      "British",
       "Classic",
-      "Ancient"
+      "History",
+      "War"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/28158.webp",
     "content_url": "https://bookhive-content.pages.dev/books/28158.html",
     "reading_time_minutes": 821,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 10716,
+    "rating": 4.7
   },
   {
     "id": "24768",
     "title": "Abrégé de l'Histoire Générale des Voyages (Tome 2)",
     "author": "Jean-François de La Harpe",
     "category": "Mythology",
-    "description": "Classic historical French exploratory logs mapping global colonial navigation limits and early world faith encounters.",
+    "description": "Abrégé de l'Histoire Générale des Voyages (Tome 2)\" by Jean-François de La Harpe is a historical account written in the early 19th century. This comprehensive work explores the voyages and explorations undertaken by various travelers, focusing specifically on regions such as Africa. The book like...",
     "tags": [
-      "Mythology",
       "Classic",
-      "Ancient"
+      "History",
+      "Travel"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/24768.webp",
     "content_url": "https://bookhive-content.pages.dev/books/24768.html",
     "reading_time_minutes": 312,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 6066,
+    "rating": 4.6
   },
   {
     "id": "27743",
     "title": "Through Finland in Carts",
     "author": "Alec Tweedie",
     "category": "Mythology",
-    "description": "A vibrant turn-of-the-century travelogue detailing Finnish village structures, linguistic history, and popular myths.",
+    "description": "Through Finland in Carts\" by Mrs. Alec-Tweedie is a travelogue written in the late 19th century. This work explores the author's experiences as she journeys through Finland, capturing the country's landscapes, customs, and the charming eccentricities of its people. The narrative focuses on the au...",
     "tags": [
-      "Mythology",
       "Classic",
-      "Ancient"
+      "Travel"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/27743.webp",
     "content_url": "https://bookhive-content.pages.dev/books/27743.html",
     "reading_time_minutes": 387,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 8105,
+    "rating": 4.6
   },
   {
     "id": "21353",
     "title": "Civics and Health",
     "author": "William Harvey Allen",
     "category": "Mythology",
-    "description": "An early 20th-century municipal framework blueprint assessing sanitation, layout codes, and public fitness parameters.",
+    "description": "Civics and Health\" by William H. Allen is a scientific publication written in the early 20th century. This work explores the critical relationship between public health and civic responsibility, arguing that maintaining health is not just an individual concern but a communal obligation. It seeks ...",
     "tags": [
-      "Mythology",
       "Classic",
-      "Ancient"
+      "Education",
+      "Health"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/21353.webp",
     "content_url": "https://bookhive-content.pages.dev/books/21353.html",
     "reading_time_minutes": 420,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 10077,
+    "rating": 4.7
   },
   {
     "id": "26774",
     "title": "Alcohol: A Dangerous and Unnecessary Medicine",
     "author": "Martha Meir Allen",
     "category": "Mythology",
-    "description": "A historic empirical clinical analysis assessing pharmacological components to support early temperance movements.",
+    "description": "Alcohol: A Dangerous and Unnecessary Medicine, How and Why\" by Martha Meir Allen is a scientific publication written in the early 20th century. The work explores the detrimental effects of alcohol when used as medicine, drawing on historical inquiries, scientific studies, and testimonials from pr...",
     "tags": [
-      "Mythology",
       "Classic",
-      "Ancient"
+      "Health"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/26774.webp",
     "content_url": "https://bookhive-content.pages.dev/books/26774.html",
     "reading_time_minutes": 461,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 10040,
+    "rating": 4.7
   },
   {
     "id": "28294",
     "title": "Pilgrimage from the Alps to the Tiber",
     "author": "James Aitken Wylie",
     "category": "Mythology",
-    "description": "A rich historical travelogue evaluating religious institutions, art history, and social dynamics across Italy.",
+    "description": "Pilgrimage from the Alps to the Tiber: or, The Influence of Romanism on Trade, Justice, and Knowledge\" by Rev. J.A. Wylie, LL.D. is a historical travelogue written in the mid-19th century. The book examines the effects of Roman Catholicism on various aspects of society within Italy, exploring the...",
     "tags": [
-      "Mythology",
       "Classic",
-      "Ancient"
+      "History",
+      "Travel"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/28294.webp",
     "content_url": "https://bookhive-content.pages.dev/books/28294.html",
     "reading_time_minutes": 438,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 9388,
+    "rating": 4.6
   },
   {
     "id": "27354",
     "title": "Archæological Essays, Vol 1",
     "author": "James Y. Simpson",
     "category": "Mythology",
-    "description": "Deep text-level evaluations examining ancient burial mounds, stone markers, and pagan medical practices.",
+    "description": "Archæological Essays, Vol. 1\" by James Young Simpson is a collection of essays on archaeology written in the late 19th century. This work showcases a variety of historical and archaeological subjects, highlighting Simpson's extensive research and observations on Scottish antiquities, the interpla...",
     "tags": [
-      "Mythology",
       "Classic",
-      "Ancient"
+      "History"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/27354.webp",
     "content_url": "https://bookhive-content.pages.dev/books/27354.html",
     "reading_time_minutes": 311,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 5964,
+    "rating": 4.6
   },
   {
     "id": "22067",
     "title": "The Story of a Cannoneer Under Stonewall Jackson",
     "author": "Edward A. Moore",
     "category": "Mythology",
-    "description": "A visceral, primary artillery combat journal documenting strategy and internal conditions during the Shenandoah campaigns.",
+    "description": "The Story of a Cannoneer Under Stonewall Jackson\" by Edward Alexander Moore is a historical account written in the early 20th century. The narrative captures the experiences of the author, who served as a cannoneer in the Rockbridge Artillery during the Civil War, detailing his involvement in sig...",
     "tags": [
-      "Mythology",
+      "American",
+      "Biography",
       "Classic",
-      "Ancient"
+      "History",
+      "War"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/22067.webp",
     "content_url": "https://bookhive-content.pages.dev/books/22067.html",
     "reading_time_minutes": 208,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 5216,
+    "rating": 4.6
   },
   {
     "id": "21833",
     "title": "Experiences of a Dug-out, 1914-1918",
     "author": "Charles Edward Callwell",
     "category": "Mythology",
-    "description": "A high-level command diary assessing operational staff blockades, strategic choices, and logistics during WWI.",
+    "description": "Experiences of a Dug-out, 1914-1918\" by Major-General Sir C. E. Callwell is a historical account written in the early 20th century. This work narrates the author's firsthand experiences during World War I, particularly focusing on the workings of the War Office and military operations. It is like...",
     "tags": [
-      "Mythology",
+      "British",
       "Classic",
-      "Ancient"
+      "History",
+      "War"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/21833.webp",
     "content_url": "https://bookhive-content.pages.dev/books/21833.html",
     "reading_time_minutes": 370,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 5291,
+    "rating": 4.6
   },
   {
     "id": "25912",
     "title": "Sea Power in its Relations to the War of 1812. Vol 2",
     "author": "A.T. Mahan",
     "category": "Mythology",
-    "description": "The legendary naval strategy masterwork outlining blockades, economic pressure, and deep maritime trade controls.",
+    "description": "Sea Power in its Relations to the War of 1812. Volume 2\" by A. T. Mahan is a historical account written in the late 19th century. This work examines the influence of naval power on the events and strategies during the War of 1812, with a particular focus on key naval engagements and the broader i...",
     "tags": [
-      "Mythology",
+      "Adventure",
+      "American",
       "Classic",
-      "Ancient"
+      "History",
+      "War"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/25912.webp",
     "content_url": "https://bookhive-content.pages.dev/books/25912.html",
     "reading_time_minutes": 636,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 8216,
+    "rating": 4.6
   },
   {
     "id": "22397",
     "title": "Shakespearean Playhouses",
     "author": "Joseph Quincy Adams",
     "category": "Mythology",
-    "description": "A rigorous architectural and corporate history tracking the theatre construction loop in Elizabethan London.",
+    "description": "Shakespearean Playhouses\" by Joseph Quincy Adams is a historical account written in the early 20th century. This work delves into the history of English theatrical venues from their inception until the Restoration period. The focus is primarily on the evolution and establishment of playhouses in ...",
     "tags": [
-      "Mythology",
+      "British",
       "Classic",
-      "Ancient"
+      "Drama",
+      "History"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/22397.webp",
     "content_url": "https://bookhive-content.pages.dev/books/22397.html",
     "reading_time_minutes": 532,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 11957,
+    "rating": 4.7
   },
   {
     "id": "25735",
     "title": "The Brochure Series of Architectural Illustration",
     "author": "Various",
     "category": "Mythology",
-    "description": "A beautiful archival collection detailing European cathedral carvings, column orders, and structural aesthetics.",
+    "description": "The Brochure Series of Architectural Illustration, Vol. 01, No. 09 1895\" by Various is a specialized publication focusing on architectural illustration, produced during the late 19th century. This issue, in particular, highlights the magnificent pulpits and ambos from Southern Italy, particularly...",
     "tags": [
-      "Mythology",
       "Classic",
-      "Ancient"
+      "History"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/25735.webp",
     "content_url": "https://bookhive-content.pages.dev/books/25735.html",
     "reading_time_minutes": 30,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 9852,
+    "rating": 4.6
   },
   {
     "id": "21210",
     "title": "Thomas Davis, Selections from his Prose and Poetry",
     "author": "Thomas Davis",
     "category": "Mythology",
-    "description": "The passionate, historic essays that launched the Young Ireland movement, defining cultural nationalism bounds.",
+    "description": "Selections from his Prose and Poetry\" by Thomas Davis is a curated collection of historical and literary writings that reflects the sentiments and concerns of Irish nationalism, likely written during the mid-19th century. This work offers insights into Davis's perspectives on Ireland's political ...",
     "tags": [
-      "Mythology",
+      "British",
       "Classic",
-      "Ancient"
+      "History",
+      "Poetry"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/21210.webp",
     "content_url": "https://bookhive-content.pages.dev/books/21210.html",
     "reading_time_minutes": 343,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 6780,
+    "rating": 4.6
   },
   {
     "id": "22021",
     "title": "Gallipoli Diary, Volume 2",
     "author": "Ian Hamilton",
     "category": "Mythology",
-    "description": "General Hamilton's final personal operational diary tracking tactical stalemates and the evacuation layout of the Dardanelles campaign.",
+    "description": "Gallipoli Diary, Volume 2\" by Ian Hamilton is a historical account written in the early 20th century. This volume continues the firsthand narrative of General Sir Ian Hamilton, who commanded British forces during the Gallipoli Campaign in World War I. The diary reflects Hamilton's strategies, obs...",
     "tags": [
-      "Mythology",
+      "British",
       "Classic",
-      "Ancient"
+      "History",
+      "War"
     ],
     "cover": "https://bookhive-content.pages.dev/book_cover/22021.webp",
     "content_url": "https://bookhive-content.pages.dev/books/22021.html",
     "reading_time_minutes": 340,
     "year": 1900,
-    "popularity": 1000,
-    "rating": 4.5
+    "popularity": 5096,
+    "rating": 4.6
   }
 ]
